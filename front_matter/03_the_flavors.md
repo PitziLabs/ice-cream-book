@@ -1,57 +1,69 @@
 ## The Flavors
 
-Here's what you're getting into:
+Here's what you're getting into, organized by difficulty so you can build your skills as you go:
 
-1. **Atole de Anis** -- Mexico's comfort drink, now frozen
+### CHILL
+*Start here if you're new to ambitious ice cream or just want something delicious without the drama*
 
-2. **Chili Mango** -- Mexico City street cart meets your freezer
+**Cardamom-Pistachio Kulfi** -- India's frozen dessert tradition, now achievable on a Tuesday
 
-3. **Earl Grey and Burnt Honey** -- Tea time gets complicated (in the best fucking way)
+**Vietnamese Avocado Ice Cream** -- Creamy, dreamy, and your brain will fight you the whole way
 
-4. **Gochugaru and Sesame** -- Korean heat meets nutty depth
+**Thai Coconut Pandan** -- Southeast Asia's vanilla, now frozen
 
-5. **Golden Milk and Fig** -- Bright yellow and somehow it works
+### LEGIT
+*You've made custard before and you're ready for some complexity*
 
-6. **Tarte Tatin** -- France's iconic upside-down caramelized apple tart, now frozen
+**Atole de Anis** -- Mexico's comfort drink, now frozen
 
-7. **Lemon and Rosemary Honey** -- Greek summer in a bowl
+**Chili Mango** -- Mexico City street cart meets your freezer
 
-8. **Miso Matcha** -- Umami in ice cream (trust us)
+**Gochugaru and Sesame** -- Korean heat meets nutty depth
 
-9. **Sfogliatelle** -- Naples' pastry, now frozen
+**Golden Milk and Fig** -- Bright yellow and somehow it works
 
-10. **Sichuan Plum** -- Five-spice and stone fruit
+**Tarte Tatin** -- France's iconic upside-down caramelized apple tart, now frozen
 
-11. **Cashew & Coconut with Piri Piri** -- Vegan and surprisingly rich as hell
+**Miso Matcha** -- Umami in ice cream (trust us)
 
-12. **Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
+**Sfogliatelle** -- Naples' pastry, now frozen
 
-13. **Guava & Coffee** -- Tropical fruit meets caffeine
+**Sichuan Plum** -- Five-spice and stone fruit
 
-14. **Wattleseed & Macadamia** -- Bush tucker meets buttery nuts
+**Guava & Coffee** -- Tropical fruit meets caffeine
 
-15. **Rum Banana** -- Allspice, rum, bananas—Caribbean celebration
+**Wattleseed & Macadamia** -- Bush tucker meets buttery nuts
 
-16. **Pain Patate** -- Haiti's pudding cake, frozen
+**Rum Banana** -- Allspice, rum, bananas—Caribbean celebration
 
-17. **Southern Brown Butter Pecan** -- Deep South tradition, elevated
+**Horchata** -- Rice, cinnamon, almonds - Mexico's agua fresca, now frozen
 
-18. **Southwest Red Chile & Mexican Chocolate** -- Dark chocolate meets earthy chile heat
+**Irish Brown Bread** -- Buttermilk custard with caramelized bread crumble and whiskey
 
-19. **New Orleans Chicory Coffee & Beignet** -- Bourbon Street at 2 AM, frozen and swirled with rum
+### THE REAL DEAL
+*Multiple components, precise technique, and commitment required*
 
-20. **Cardamom-Pistachio Kulfi** -- India's frozen dessert tradition, now achievable on a Tuesday
+**Earl Grey and Burnt Honey** -- Tea time gets complicated (in the best fucking way)
 
-21. **Horchata** -- Rice, cinnamon, almonds - Mexico's agua fresca, now frozen
+**Lemon and Rosemary Honey** -- Greek summer in a bowl
 
-22. **Tahini Halva with Rose Water** -- Turkish sesame sweetness meets delicate floral notes
+**Cashew & Coconut with Piri Piri** -- Vegan and surprisingly rich as hell
 
-23. **Coffee & Berbere** -- Coffee's birthplace meets ancient spice tradition
+**Pain Patate** -- Haiti's pudding cake, frozen
 
-24. **Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
+**Southern Brown Butter Pecan** -- Deep South tradition, elevated
 
-25. **Irish Brown Bread** -- Buttermilk custard with caramelized bread crumble and whiskey
+**Southwest Red Chile & Mexican Chocolate** -- Dark chocolate meets earthy chile heat
 
-26. **Vietnamese Avocado Ice Cream** -- Creamy, dreamy, and your brain will fight you the whole way
+**Tahini Halva with Rose Water** -- Turkish sesame sweetness meets delicate floral notes
 
-27. **Thai Coconut Pandan** -- Southeast Asia's vanilla, now frozen
+**Coffee & Berbere** -- Coffee's birthplace meets ancient spice tradition
+
+**Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
+
+### A FUCKING ORDEAL
+*You've been warned, homie*
+
+**Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
+
+**New Orleans Chicory Coffee & Beignet** -- Bourbon Street at 2 AM, frozen and swirled with rum
