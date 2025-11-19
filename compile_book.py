@@ -4,44 +4,39 @@ Compile Ice Cream to Fight Over from modular files.
 
 Usage: python compile_book.py
 Output: Ice_Cream_to_Fight_Over_COMPLETE.md
+
+This script automatically finds all .md files in front_matter/, recipes/, and back_matter/
+directories and compiles them in alphabetical order. No hardcoded filenames needed.
 """
 
 import os
 from pathlib import Path
 
+def get_markdown_files(directory):
+    """Get all markdown files from a directory, sorted naturally."""
+    dir_path = Path(directory)
+    if not dir_path.exists():
+        return []
+    
+    # Get all .md files and sort them
+    md_files = sorted(dir_path.glob('*.md'))
+    return [str(f) for f in md_files]
+
 def compile_book():
     """Compile all sections into complete book."""
     
-    # Define file order
-    front_matter_files = [
-        'front_matter/01_title_and_intro.md',
-        'front_matter/02_what_makes_different.md',
-        'front_matter/03_the_flavors.md',
-        'front_matter/04_how_to_use.md',
-        'front_matter/05_philosophy.md',
-        'front_matter/06_difficulty_ratings.md',
-        'front_matter/07_custard_fundamentals.md',
-        'front_matter/08_final_thoughts.md',
-    ]
+    # Automatically find all markdown files in each directory
+    front_matter_files = get_markdown_files('front_matter')
+    recipe_files = get_markdown_files('recipes')
+    back_matter_files = get_markdown_files('back_matter')
     
-    # All 27 recipe files
-    recipe_files = [f'recipes/{i:02d}_*.md' for i in range(1, 28)]
+    # Combine all sections in order
+    all_files = front_matter_files + recipe_files + back_matter_files
     
-    # Find actual recipe filenames (handles wildcard)
-    recipe_paths = []
-    for pattern in recipe_files:
-        matches = list(Path('recipes').glob(pattern.split('/')[-1]))
-        if matches:
-            recipe_paths.append(str(matches[0]))
-        else:
-            print(f"Warning: No file found matching {pattern}")
-    
-    back_matter_files = [
-        'back_matter/99_closing.md'
-    ]
-    
-    # Combine all sections
-    all_files = front_matter_files + sorted(recipe_paths) + back_matter_files
+    if not all_files:
+        print("❌ No markdown files found in front_matter/, recipes/, or back_matter/")
+        print("   Make sure you've created the modular file structure.")
+        return
     
     # Read and concatenate
     output = []
@@ -64,6 +59,9 @@ def compile_book():
     
     print(f"\n✅ Compiled book saved to: {output_file}")
     print(f"   Total sections: {len(output)}")
+    print(f"   Front matter: {len(front_matter_files)} files")
+    print(f"   Recipes: {len(recipe_files)} files")
+    print(f"   Back matter: {len(back_matter_files)} files")
     print(f"   Total size: {len(complete_content):,} characters")
 
 if __name__ == '__main__':
