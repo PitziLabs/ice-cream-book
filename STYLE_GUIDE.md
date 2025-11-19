@@ -6,7 +6,7 @@ Look, this style guide is here to keep us all on the same page while we make ice
 
 **Target Audience:** Home cooks who've made basic ice cream before and want to expand into international flavors and techniques that'll actually challenge them.
 
-**Assumed Knowledge:** Your readers know how to temper egg yolks for custard. The book's got a comprehensive "Custard Fundamentals" section up front that covers the whole process in detail, so individual recipes can skip the basics and focus on what makes THEIR custard special. Don't repeat tempering instructionsâ€”just reference it when needed ("Make your custard using the standard method" or "Temper the yolksâ€”you know this drill by now, chief").
+**Assumed Knowledge:** Your readers know how to temper egg yolks for custard. The book's got a comprehensive "Custard Fundamentals" section up front that covers the whole process in detail, so individual recipes can skip the basics and focus on what makes THEIR custard special. Don't repeat tempering instructions—just reference it when needed ("Make your custard using the standard method" or "Temper the yolks—you know this drill by now, chief").
 
 ---
 
@@ -26,20 +26,20 @@ This is the hill we're dying on, homie. Here's why:
 **WHY:** Graphics and design get handled separately in layout. Non-text characters cause encoding nightmares, display inconsistently across platforms, and generally fuck up the production workflow. I know emojis are cute. I don't care. They're not invited.
 
 **USE INSTEAD:**
-- Plain text titles: `# Sfogliatelle` NOT `# ðŸ° Sfogliatelle`
+- Plain text titles: `# Sfogliatelle` NOT `# 🍰 Sfogliatelle`
 - Written emphasis: Bold, italics, ALL CAPS
-- Standard punctuation: em dashes (â€”), standard quotes
+- Standard punctuation: em dashes (—), standard quotes
 
 **Allowed special characters (the only ones):**
-- **Em dashes:** Use `â€”` (proper em dash) not `--` or `-`
-- **Degree symbol:** `Â°F` (proper UTF-8 encoding)
-- **Accent marks:** Proper UTF-8 (cafÃ© not corrupted encoding)
-- **Foreign characters:** Correct Unicode (mÃ¡la not corrupted)
+- **Em dashes:** Use `—` (proper em dash) not `--` or `-`
+- **Degree symbol:** `°F` (proper UTF-8 encoding)
+- **Accent marks:** Proper UTF-8 (café not corrupted encoding)
+- **Foreign characters:** Correct Unicode (mála not corrupted)
 - **Standard punctuation:** Periods, commas, colons, semicolons, quotes, parentheses, etc.
 
 **Test:** Can you copy-paste the content into a plain text editor without it looking broken? If yes, you're good. If it requires special rendering, it's banned.
 
-**If you see encoding corruption** (weird characters like `Ã¢â‚¬"` or `ÃƒÂ©`), fix it immediately. Replace with proper UTF-8 or remove if decorative.
+**If you see encoding corruption** (weird characters like `â€"` or `Ã©`), fix it immediately. Replace with proper UTF-8 or remove if decorative.
 
 This is non-negotiable. Any violations found during review get fixed on sight, no discussion.
 
@@ -73,13 +73,13 @@ The book "Ice Cream to Fight Over: Recipes You'll Fuck Up At Least Once" is orga
 ## Recipe Structure & Required Elements
 
 ### Title
-- **Plain text ONLYâ€”absolutely no emojis or special characters**
+- **Plain text ONLY—absolutely no emojis or special characters**
 - **NO nationalities in recipe names** (Colombian, Jamaican, Mexican, etc.)
 - Use regional descriptors (Sichuan, Appalachian, Southern), cities (New Orleans), or dish names (Sfogliatelle, Kulfi) instead
 - Format: `# Recipe Name`
 - Example: `# Cashew & Coconut with Piri Piri` NOT `# Mozambican Cashew & Coconut`
-- **WRONG:** `# ðŸ¨ Sfogliatelle` - NO emojis
-- **WRONG:** `# âœ“ Sfogliatelle` - NO symbols
+- **WRONG:** `# 🍨 Sfogliatelle` - NO emojis
+- **WRONG:** `# ✓ Sfogliatelle` - NO symbols
 - **WRONG:** `# Jamaican Rum Banana` - NO nationalities
 
 Graphics and visual elements get added during layout/design phase. Keep it clean here.
@@ -181,8 +181,8 @@ Instructions continue.
 - Paragraphs, not numbered steps (exception: extremely complex recipes like Recipe 20 can use numbers)
 - Write in second person imperative: "Heat the cream" not "You should heat the cream"
 - Integrate warnings naturally: "Watch this like a fucking hawk"
-- Temperature in Fahrenheit: `170-175Â°F`
-- Use em dashes (â€”) not hyphens for interrupting thoughts
+- Temperature in Fahrenheit: `170-175°F`
+- Use em dashes (—) not hyphens for interrupting thoughts
 - Provide visual/sensory cues: "should smell nutty and golden"
 
 ### Notes Section
@@ -198,17 +198,17 @@ Final note describing the flavor experience
 ```
 
 **Required notes (as applicable):**
-- **Cultural Context:** For international recipesâ€”explain origins, significance, traditional prep
+- **Cultural Context:** For international recipes—explain origins, significance, traditional prep
 - **Sourcing guidance:** Where to find specialty ingredients, acceptable substitutes
 - **Technique deep-dives:** Why certain methods matter
 - **Make-ahead guidance:** What can be prepped in advance for multi-component recipes
-- **What it Tastes Like:** ALWAYS the final noteâ€”sensory description of the finished product
+- **What it Tastes Like:** ALWAYS the final note—sensory description of the finished product
 
 **Guidelines:**
 - Bold note titles
 - 2-4 substantial paragraphs per note
 - This is where teaching moments live (cultural history, ingredient deep-dives, technique rationale)
-- Be thoroughâ€”readers want to learn, not just follow instructions
+- Be thorough—readers want to learn, not just follow instructions
 - Include ethical considerations for indigenous ingredients (wattleseed, pawpaw, etc.)
 
 **Allergen Notes:**
@@ -221,14 +221,14 @@ Final note describing the flavor experience
 
 ## The HOMIE Voice (Our Whole Thing)
 
-This is the voice that makes this cookbook different from every other ice cream book on the shelf. It's casual, educational, self-deprecating, and genuinely helpfulâ€”like a smart friend who's already made all the mistakes teaching you what actually works.
+This is the voice that makes this cookbook different from every other ice cream book on the shelf. It's casual, educational, self-deprecating, and genuinely helpful—like a smart friend who's already made all the mistakes teaching you what actually works.
 
 ### Core Elements
 
 **Casual Address:**
 - Use varied terms: homie, dude, friendo, buddy, dawg, friend, pal, chief, boss
 - Sprinkle throughout, don't overdo it (2-4 times per recipe)
-- Example: "Listen, chiefâ€”this timing matters."
+- Example: "Listen, chief—this timing matters."
 
 **Conversational Asides:**
 - Use parentheses for meta-commentary
@@ -243,7 +243,7 @@ This is the voice that makes this cookbook different from every other ice cream 
 - 3-5 instances per recipe for emphasis
 - Common words: shit, damn, fuck, hell, ass
 - Use for impact, not decoration: "This step is fucking critical" hits harder than "This is pretty important"
-- Don't force itâ€”if it feels unnatural, skip it
+- Don't force it—if it feels unnatural, skip it
 
 **Emphasis Techniques:**
 - **ALL CAPS** for things that really need to land: "Do NOT skip this step"
@@ -255,7 +255,7 @@ This is the voice that makes this cookbook different from every other ice cream 
 - Call out what they're thinking: "I know you want to stir. Don't."
 - Predict struggles: "You'll spend ten minutes staring at this wondering if it's ready"
 - Validate concerns: "Yes, it's supposed to be that yellow"
-- Warn about pitfalls like a friend who's already fucked it up: "Fair warningâ€”this burns FAST"
+- Warn about pitfalls like a friend who's already fucked it up: "Fair warning—this burns FAST"
 
 **Self-Deprecation:**
 - Acknowledge difficulty honestly: "This will take forever" / "You'll definitely burn the first batch"
@@ -284,13 +284,13 @@ This is the voice that makes this cookbook different from every other ice cream 
 "One should ensure the mixture reaches the appropriate temperature before proceeding."
 
 **HOMIE VOICE:**
-"Get this to 175Â°F, homie. No shortcuts."
+"Get this to 175°F, homie. No shortcuts."
 
 **TOO APOLOGETIC:**
 "Sorry, but this is really important and you need to pay attention to it."
 
 **HOMIE VOICE:**
-"This step is fucking importantâ€”don't space out now."
+"This step is fucking important—don't space out now."
 
 **CORPORATE MANUAL:**
 "Monitor the temperature carefully to prevent overcooking."
@@ -313,13 +313,13 @@ Every recipe should have 2-4 teaching moments that go beyond basic technique to 
 ### Examples of Excellent Teaching Moments
 
 **Scientific:**
-> "Browning butterâ€”beurre noisette if you want to be fancy about itâ€”transforms it from sweet-cream richness to deep, nutty, almost hazelnut-like complexity. The milk solids caramelize, creating literally HUNDREDS of new flavor compounds. It's chemistry but it tastes like magic."
+> "Browning butter—beurre noisette if you want to be fancy about it—transforms it from sweet-cream richness to deep, nutty, almost hazelnut-like complexity. The milk solids caramelize, creating literally HUNDREDS of new flavor compounds. It's chemistry but it tastes like magic."
 
 **Cultural/Historical:**
-> "Kulfi dates back to the Mughal era in 16th-century India. The word 'kulfi' comes from the Persian 'qulfi' meaning 'covered cup'â€”it was traditionally frozen in metal cones packed in ice and salt."
+> "Kulfi dates back to the Mughal era in 16th-century India. The word 'kulfi' comes from the Persian 'qulfi' meaning 'covered cup'—it was traditionally frozen in metal cones packed in ice and salt."
 
 **Ingredient Deep-Dive:**
-> "Sichuan peppercorns aren't actually peppercornsâ€”they're the dried husks of berries from the prickly ash tree. They create this unique tingling, numbing sensation on your tongue called *mala*, which literally means 'numbing-spicy.'"
+> "Sichuan peppercorns aren't actually peppercorns—they're the dried husks of berries from the prickly ash tree. They create this unique tingling, numbing sensation on your tongue called *mala*, which literally means 'numbing-spicy.'"
 
 **Technique Rationale:**
 > "Using 3-4 yolks (I recommend 4) instead of 5-6 keeps this lighter, which lets the ricotta's character shine through without everything being too heavy and dense."
@@ -335,31 +335,31 @@ Every recipe should have 2-4 teaching moments that go beyond basic technique to 
 
 ### Measurements & Precision
 - Use US measurements (cups, tablespoons, Fahrenheit)
-- Temperatures: Always include Â°F symbol
-- Ranges are good: "3-4 egg yolks" / "170-175Â°F"
+- Temperatures: Always include °F symbol
+- Ranges are good: "3-4 egg yolks" / "170-175°F"
 - Provide weight for produce: "(about 1.5 lbs)"
 - Time ranges: "30-40 minutes" not "approximately 30 minutes"
 
 ### Temperature Guidance
-- **Standard custard:** 170-175Â°F (sometimes noted as "to 175Â°F" or range)
-- **Light custard:** 170-175Â°F (emphasize this is lighter than usual)
+- **Standard custard:** 170-175°F (sometimes noted as "to 175°F" or range)
+- **Light custard:** 170-175°F (emphasize this is lighter than usual)
 - **Caramel:** Deep amber, copper penny color (visual beats temp here)
-- **Soft ball stage:** 240Â°F with visual cues
-- **Frying:** Specific temp (360Â°F for beignets)
+- **Soft ball stage:** 240°F with visual cues
+- **Frying:** Specific temp (360°F for beignets)
 
 **Rule:** Provide temperature when precision matters, visual cues when appearance is more reliable
 
 ### Churning Guidance (CRITICAL)
 
-**DO NOT estimate churn times**â€”equipment varies too widely and you'll just be wrong.
+**DO NOT estimate churn times**—equipment varies too widely and you'll just be wrong.
 
-**DO NOT use the phrase "according to your ice cream maker's instructions"**â€”this is lazy and unhelpful. Readers bought this book for guidance, not to be told to read another manual.
+**DO NOT use the phrase "according to your ice cream maker's instructions"**—this is lazy and unhelpful. Readers bought this book for guidance, not to be told to read another manual.
 
 **Instead, describe doneness:**
 - "Churn until soft-serve consistency"
 - "Should look thick and pale cream-colored when ready"
 - "The ricotta makes this denser than standard custard"
-- "May take longer than usual due to fruit content" (acceptableâ€”directional without specific time)
+- "May take longer than usual due to fruit content" (acceptable—directional without specific time)
 
 **Provide context when helpful:**
 - "The fruit content makes this denser than standard custard"
@@ -370,7 +370,7 @@ Every recipe should have 2-4 teaching moments that go beyond basic technique to 
 
 ## Cultural Respect & Authenticity
 
-This book features recipes from all over the world. Cultural respect isn't optionalâ€”it's foundational.
+This book features recipes from all over the world. Cultural respect isn't optional—it's foundational.
 
 ### Required for International Recipes
 
@@ -384,7 +384,7 @@ This book features recipes from all over the world. Cultural respect isn't optio
 - If you've modified something for ice cream format, say so explicitly
 - Explain WHY you made changes (technique, availability, format)
 - Don't claim authenticity if you've significantly altered it
-- Example: "Traditional kulfi doesn't use eggsâ€”I've added them here for custard texture, which makes this a hybrid approach"
+- Example: "Traditional kulfi doesn't use eggs—I've added them here for custard texture, which makes this a hybrid approach"
 
 **Ethical Sourcing Guidance:**
 - For indigenous ingredients (wattleseed, pawpaw, etc.), discuss sourcing ethics
@@ -401,7 +401,7 @@ This book features recipes from all over the world. Cultural respect isn't optio
 ### Examples of Good Cultural Notes
 
 **Good:**
-> "Ube (purple yam) is central to Filipino cuisine, used in everything from halo-halo to pandesal. It's not just about the colorâ€”it has this subtly sweet, almost vanilla-like flavor that's completely distinct from regular sweet potatoes. Using actual ube, not ube extract, matters here."
+> "Ube (purple yam) is central to Filipino cuisine, used in everything from halo-halo to pandesal. It's not just about the color—it has this subtly sweet, almost vanilla-like flavor that's completely distinct from regular sweet potatoes. Using actual ube, not ube extract, matters here."
 
 **Bad:**
 > "Ube is a purple thing from the Philippines. It's trendy now. Looks cool."
@@ -469,8 +469,8 @@ This book features recipes from all over the world. Cultural respect isn't optio
 
 When reviewing a recipe, check in this order:
 
-1. **Non-text characters:** Scan entire recipe for emojis, symbols, decorative Unicodeâ€”MUST be removed
-2. **Encoding:** Scan for corrupted characters (garbled UTF-8 like `Ã¢â‚¬"` or `ÃƒÂ©`)
+1. **Non-text characters:** Scan entire recipe for emojis, symbols, decorative Unicode—MUST be removed
+2. **Encoding:** Scan for corrupted characters (garbled UTF-8 like `â€"` or `Ã©`)
 3. **Structure:** Verify difficulty explanation and total time with parenthetical are present and use HOMIE voice
 4. **Allergens:** Correct noting (nuts yes, milk/eggs no, vegan called out)
 5. **Voice:** Count profanity (3-5?), check for "homie/dude/pal" usage, verify conversational tone
@@ -497,17 +497,17 @@ When reviewing a recipe, check in this order:
 
 **THE RULES (for when you just need a checklist):**
 
-âœ“ Plain text onlyâ€”no emojis, no symbols, no decorative Unicode
-âœ“ Proper encodingâ€”fix corrupted characters on sight
-âœ“ NO nationalities in titlesâ€”use regions, cities, or dish names
-âœ“ Difficulty + Total Time with HOMIE explanationsâ€”required
-âœ“ 3-5 strategic profanities per recipe for emphasis
-âœ“ 2-4 teaching moments per recipe
-âœ“ Allergens for nuts/wheat/soy only (not milk/eggs)
-âœ“ Cultural context for international recipesâ€”go deep
-âœ“ "What it tastes like" as final noteâ€”always
-âœ“ Churning: describe doneness, never estimate time
-âœ“ Voice: conversational, self-deprecating, technically accurate
+✓ Plain text only—no emojis, no symbols, no decorative Unicode
+✓ Proper encoding—fix corrupted characters on sight
+✓ NO nationalities in titles—use regions, cities, or dish names
+✓ Difficulty + Total Time with HOMIE explanations—required
+✓ 3-5 strategic profanities per recipe for emphasis
+✓ 2-4 teaching moments per recipe
+✓ Allergens for nuts/wheat/soy only (not milk/eggs)
+✓ Cultural context for international recipes—go deep
+✓ "What it tastes like" as final note—always
+✓ Churning: describe doneness, never estimate time
+✓ Voice: conversational, self-deprecating, technically accurate
 
 ---
 
