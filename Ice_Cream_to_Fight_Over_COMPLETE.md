@@ -71,68 +71,68 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### CHILL
 *Start here if you're new to ambitious ice cream or just want something delicious without the drama*
 
-**Cardamom-Pistachio Kulfi** -- India's frozen dessert tradition, now achievable on a Tuesday
+**Coconut Pandan** -- Thailand's answer to vanilla, except it's green and tastes like vacation
 
-**Vietnamese Avocado Ice Cream** -- Creamy, dreamy, and your brain will fight you the whole way
+**Avocado** -- Vietnam said "fuck it, avocados are dessert now" and they were RIGHT
 
-**Thai Coconut Pandan** -- Southeast Asia's vanilla, now frozen
+**Cardamom-Pistachio Kulfi** -- India's been freezing dairy for centuries and making it look easy
 
 ### LEGIT
 *You've made custard before and you're ready for some complexity*
 
-**Atole de Anis** -- Mexico's comfort drink, now frozen
+**Horchata** -- Mexico's most refreshing street drink, now cold enough to hurt your teeth
 
-**Chili Mango** -- Mexico City street cart meets your freezer
+**Miso Matcha** -- Japan's umami bomb meets ceremonial tea in the world's fanciest ice cream
 
-**Gochugaru and Sesame** -- Korean heat meets nutty depth
+**Chili Mango** -- Mexico City street vendors have been doing this for decades, we just froze it
 
-**Golden Milk and Fig** -- Bright yellow and somehow it works
+**Wattleseed & Macadamia** -- Australian bush tucker meets buttery nuts (yes, wattleseed is real)
 
-**Tarte Tatin** -- France's iconic upside-down caramelized apple tart, now frozen
+**Tarte Tatin** -- France's upside-down apple flex, now you can eat it with a spoon
 
-**Miso Matcha** -- Umami in ice cream (trust us)
+**Gochugaru and Sesame** -- Korean chile that's fruity as hell meets toasted nuttiness
 
-**Sfogliatelle** -- Naples' pastry, now frozen
+**Rum Banana** -- Haiti said "what if we made banana pudding drunk and tropical"
 
-**Sichuan Plum** -- Five-spice and stone fruit
+**Golden Milk and Fig** -- India's turmeric latte went rogue and joined forces with Mediterranean figs
 
-**Guava & Coffee** -- Tropical fruit meets caffeine
+**Brown Bread** -- Ireland's been putting soda bread in everything and honestly we get it now
 
-**Wattleseed & Macadamia** -- Bush tucker meets buttery nuts
+**Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Rum Banana** -- Allspice, rum, bananas—Caribbean celebration
+**Bocadillo y Café** -- Cuba's cafecito meets tropical guava in a mashup that shouldn't work but does
 
-**Horchata** -- Rice, cinnamon, almonds - Mexico's agua fresca, now frozen
+**Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
-**Irish Brown Bread** -- Buttermilk custard with caramelized bread crumble and whiskey
+**Sichuan Plum** -- Chinese five-spice doing its thing with stone fruit that actually cooperates
 
 ### THE REAL DEAL
 *Multiple components, precise technique, and commitment required*
 
-**Earl Grey and Burnt Honey** -- Tea time gets complicated (in the best fucking way)
+**Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
 
-**Lemon and Rosemary Honey** -- Greek summer in a bowl
+**Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Cashew & Coconut with Piri Piri** -- Vegan and surprisingly rich as hell
+**Chile Chocolate** -- Mexican chile heat meeting Oaxacan chocolate in the combination ancient gods intended
 
-**Pain Patate** -- Haiti's pudding cake, frozen
+**Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
-**Southern Brown Butter Pecan** -- Deep South tradition, elevated
+**Coffee & Berbere** -- Ethiopia invented coffee, then said "what if we made it SPICY"
 
-**Southwest Red Chile & Mexican Chocolate** -- Dark chocolate meets earthy chile heat
+**Earl Grey and Burnt Honey** -- Britain's fancy tea party meets controlled arson (in the best way)
 
-**Tahini Halva with Rose Water** -- Turkish sesame sweetness meets delicate floral notes
+**Pain Patate** -- Haiti's sweet potato pudding cake that's been crushing it for decades
 
-**Coffee & Berbere** -- Coffee's birthplace meets ancient spice tradition
+**Brigadeiro & Passion Fruit** -- Brazil's chocolate fudge balls meet tropical brightness in a flavor war they both win
 
-**Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
+**Lemon and Rosemary Honey** -- Greek islands where olive oil goes in dessert and somehow that's normal
 
 ### A FUCKING ORDEAL
 *You've been warned, cowboy*
 
-**Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
+**Chicory Coffee & Beignet** -- New Orleans at 3 AM: yeasted dough, frying oil, chicory coffee, and rum-soaked regret
 
-**New Orleans Chicory Coffee & Beignet** -- Bourbon Street at 2 AM, frozen and swirled with rum
+**Pawpaw & Maple** -- Appalachia's forgotten tropical fruit that only exists for two weeks a year (good luck)
 
 ---
 
