@@ -6,25 +6,29 @@ Alright, homie--let's talk about what this collection actually is, because it's 
 
 This isn't a book of vanilla with sprinkles or chocolate chip cookie dough. (Those are both fucking delicious, by the way, and if that's what you want, godspeed--nobody's judging you for having functioning taste buds and a healthy sense of self-preservation.) But if you picked this up, there's a decent chance you're the kind of person who looks at a recipe that says "3-hour rise time" and thinks "yeah, that sounds like a reasonable Wednesday."
 
-So here's the deal: This is a collection of ice cream recipes that actually *mean* something--flavors rooted in real places, real traditions, and real ingredients that will absolutely make you work for them. We're talking Mexican atole transformed into frozen custard with piloncillo and star anise (because apparently regular anise wasn't intimidating enough). Japanese miso meeting ceremonial matcha in what can only be described as the world's most expensive savory-sweet identity crisis. New Orleans chicory coffee with actual yeasted beignets that take three damn hours to make because shortcuts are for cowards and people who value their time.
+So here's the deal: This is a collection of ice cream recipes that actually *mean* something--flavors rooted in real places, real traditions, and real ingredients that will absolutely make you work for them. We're talking Mexican atole transformed into frozen custard with piloncillo and star anise. Japanese miso meeting ceremonial matcha in what can only be described as the world's most expensive savory-sweet identity crisis. New Orleans chicory coffee with actual yeasted beignets that take three damn hours to make, then get fried, then--and this is the truly unhinged part--get frozen and swirled into ice cream because we've all lost the plot.
 
 Each of these recipes is basically a high-wire act of cultural translation--taking flavors that define a cuisine or a region and figuring out how to make them work in ice cream without completely bastardizing what makes them special. (Spoiler: Sometimes you'll bastardize them a little. It's fine. We're doing our best here.)
 
-Some of them are elegant as hell--lemon and rosemary honey with olive oil, golden milk with fig. Some are straight-up weird--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream. And some are deeply, weirdly American in ways that might surprise you: Appalachian pawpaw that you can only source for two weeks in September (good luck, buddy), Southwest red chile with Mexican chocolate, New Orleans beignets with chicory coffee that requires you to *fry dough* and then *freeze it* because we've all lost the plot.
+Some of them are elegant as hell--lemon and rosemary honey with olive oil, golden milk with fig. Some are straight-up weird--gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream. And some are deeply, weirdly American in ways that might surprise you: Southwest red chile with Mexican chocolate, Irish brown bread with whiskey, Appalachian pawpaw that you can only source for two weeks in September.
 
 ---
 
 ## What Makes These Recipes Different (Or: A List of Red Flags You're Choosing to Ignore)
 
-**They're not easy.** Like, at all. Most of these require multiple components, specialty ingredients, and the kind of advance planning usually reserved for international espionage. You'll be candying citrus peels overnight like some kind of Victorian apothecary. You'll be tracking down wattleseed from Aboriginal suppliers in Australia, then spending twenty minutes on the phone explaining to your partner why there's a $47 international shipping charge on the credit card for "weird tree seeds." You'll learn the difference between New Mexican red chile and cayenne, and you'll become *that person* at parties who corrects people about chile varieties. (You'll hate yourself for it, but you'll still do it.)
+Look, pal--these recipes are hard, they take forever, and they'll make you question your sanity. But they're also worth every minute of suffering. Here's what you're getting into:
 
-You'll spend an entire afternoon blanching orange peel three fucking times to pull out the bitterness--which sounds meditative and calming until you're on round two and seriously questioning your life choices. You'll wait for yeasted dough to rise, then wait some more, then check on it like it's a sourdough starter you're emotionally attached to. You'll carefully temper custard while hunched over a thermometer like a nervous parent taking a baby's temperature, praying to whatever god handles dairy products that it doesn't turn into expensive scrambled eggs. (It will, at least once. We've all been there.)
+**The Commitment Is Real.** Most of these require multiple components, specialty ingredients, and the kind of advance planning usually reserved for international espionage. You'll be candying citrus peels overnight like some kind of Victorian apothecary. You'll be tracking down wattleseed from Aboriginal suppliers in Australia, then spending twenty minutes on the phone explaining to your partner why there's a $47 international shipping charge on the credit card for "weird tree seeds." You'll learn the difference between New Mexican red chile and cayenne, and you'll become *that person* at parties who corrects people about chile varieties. (You'll hate yourself for it, but you'll still do it.)
 
-**They're not quick.** The Haitian banana recipe has *four components*--FOUR--as if one weren't enough of a commitment. The Earl Grey burnt honey involves making actual honeycomb candy, which means you're basically doing chemistry homework for dessert. The beignet recipe requires a two-hour rise before you even start frying, and then you have to fry things, and then--this is the truly unhinged part--you have to freeze the fried things.
+You'll spend an entire afternoon blanching orange peel three fucking times to pull out the bitterness. You'll wait for yeasted dough to rise, then wait some more, then check on it like it's a sourdough starter you're emotionally attached to. You'll carefully temper custard while hunched over a thermometer like a nervous parent taking a baby's temperature, praying to whatever god handles dairy products that it doesn't turn into expensive scrambled eggs.
 
 These are weekend projects. Passion projects. The kind of thing you make when you actually *want* to spend six hours in the kitchen instead of, I don't know, going outside or having a normal hobby like everyone else. These are "I'm going to put on a podcast and settle in" recipes. "I'm going to open that nice bottle of wine while I work" recipes. "I'm going to completely lose track of time and emerge from the kitchen at 11 PM covered in cream and regret" recipes.
 
-**They're worth it.** And here's the thing--the absolutely infuriating thing--every single complicated step, every hard-to-find ingredient, every moment of "why the hell am I doing this" actually pays off when you taste something you've genuinely never had before. Ice cream that tastes like Naples' most baroque pastry. Ice cream that captures the exact flavor of Korean gochugaru's fruity heat with the nutty depth of toasted sesame. Ice cream that tastes like foraging in Appalachian mountains in September, except you didn't have to forage for shit because you paid someone $15 per pound to ship you frozen fruit pulp.
+**You Will Fuck Up.** Not "might." Will. The title isn't cute--it's a warning, friend. Caramel will seize into a crystallized nightmare. Custard will scramble into sweet scrambled eggs that you'll have to strain out in denial before finally admitting defeat and starting over. The first batch of brittle will burn. Yeast won't bloom because your milk was too hot and you've just murdered several million microorganisms. Olive oil will break out of emulsion and create an oily slick that cannot be fixed no matter how much you want to believe that immersion blender will save you.
+
+This is part of the process, chief. These recipes are challenging because they're *supposed* to be challenging. You'll learn from it, try again, and eventually nail it. And when you do? When you finally get that custard to exactly 175°F without scrambling, when that caramel hits perfect amber without burning, when that emulsion stays glossy and stable--you'll feel like a fucking wizard.
+
+**But When It Works, Holy Shit.** Every single complicated step, every hard-to-find ingredient, every moment of "why the hell am I doing this" actually pays off when you taste something you've genuinely never had before. Ice cream that tastes like Naples' most baroque pastry. Ice cream that captures the exact flavor of Korean gochugaru's fruity heat with the nutty depth of toasted sesame. Ice cream that tastes like foraging in Appalachian mountains in September, except you didn't have to forage for shit because you paid someone $15 per pound to ship you frozen fruit pulp.
 
 It's maddening. You'll absolutely curse this book while you're making these. And then you'll taste them and immediately start planning which one you're making next weekend.
 
@@ -32,19 +36,17 @@ It's maddening. You'll absolutely curse this book while you're making these. And
 
 ## The Philosophy (Or: Why Make Things Harder Than They Need To Be--A Question I Still Can't Answer)
 
-Ice cream can be both comforting and challenging. It can taste like home and also like somewhere you've never been but saw in a really good travel documentary once. These recipes ask you to expand your palate while respecting the traditions they're pulling from, which is a delicate balance and also the kind of thing that sounds insufferably pretentious when you say it out loud. (Sorry. It's true, though.)
+Ice cream can be both comforting and challenging, sport. It can taste like home and also like somewhere you've never been but saw in a really good travel documentary once. These recipes ask you to expand your palate while respecting the traditions they're pulling from, which is a delicate balance and also the kind of thing that sounds insufferably pretentious when you say it out loud. (Sorry. It's true, though.)
 
 Some of these flavors are going to seem weird at first. Miso in ice cream? Olive oil in custard? Gochugaru's fruity heat in something sweet? Your first instinct will be "that sounds wrong" or possibly "who hurt you?" But here's the thing: that initial weirdness is often where the best flavors live. Your brain just hasn't made the connection yet between "dessert" and "umami" or "savory herbs" or "chile heat that doesn't make you cry." Give it time. Taste it more than once. Let yourself get used to it. By the third bite, you'll stop thinking "this is weird" and start thinking "wait, is this genius?" (It's genius. Or we're all delusional. Probably both.)
 
-Every component in these recipes serves a purpose, even when it seems like overkill. The toasted rice crispies in miso matcha aren't there to look cute--they echo genmaicha tea and add the kind of texture contrast that makes your brain light up like a pinball machine. The masa crumble in atole reinforces the corn base while adding texture, because if you're going to make Mexican breakfast drink ice cream (and you are), you might as well commit to the bit. The semolina in sfogliatelle recreates the gritty crunch of the pastry shell, which is the whole damn point of sfogliatelle in the first place.
+Every component in these recipes serves a purpose, even when it seems like overkill, ace. The toasted rice crispies in miso matcha aren't there to look cute--they echo genmaicha tea and add the kind of texture contrast that makes your brain light up like a pinball machine. The masa crumble in atole reinforces the corn base while adding texture, because if you're going to make Mexican breakfast drink ice cream (and you are), you might as well commit to the bit. The semolina in sfogliatelle recreates the gritty crunch of the pastry shell, which is the whole damn point of sfogliatelle in the first place.
 
-Nothing's here just to be fancy. Nothing's here to make you feel inadequate. (You'll do that to yourself without our help, trust me.) It's all in service of flavor--of making something that tastes *right*, even when the ingredient list looks like a joke.
+Nothing's here just to be fancy. Nothing's here to make you feel inadequate. (You'll do that to yourself without our help.) It's all in service of flavor--of making something that tastes *right*, even when the ingredient list looks like a joke.
 
-And yeah, some of this is absolutely difficult for difficulty's sake, and I'm not going to apologize for that. Pawpaws that you can only source for two weeks per year? Yep. Yeasted beignet dough that takes three hours and requires you to babysit it like a needy houseplant? You bet. Candied orange peel that requires three rounds of blanching like you're trying to purify holy water? Absolutely.
+And yeah, some of this is absolutely difficult for difficulty's sake, and I'm not going to apologize for that, captain. You're making something almost nobody else makes--either because they don't know about it, or because they took one look at the ingredient list and said "absolutely the fuck not." You're putting in effort that most people won't, which makes you either dedicated or slightly unhinged. (Probably both.)
 
-That's the point, homie. You're making something almost nobody else makes--either because they don't know about it, or because they took one look at the ingredient list and said "absolutely the fuck not." You're putting in effort that most people won't, which makes you either dedicated or slightly unhinged. (Again: probably both.)
-
-And when it works--when you taste that pawpaw's tropical-custard weirdness with maple and it tastes like autumn in Appalachia even though you live in a city and have never foraged for anything except a good parking spot, or when you bite into a beignet chunk that's somehow still tender after freezing and tastes like New Orleans at 3 AM, or when you get that perfect balance of chocolate and chile that makes you go "oh SHIT that's what this is supposed to taste like"--you've made something genuinely special.
+And when it works--when you taste that perfect balance of chocolate and chile that makes you go "oh SHIT that's what this is supposed to taste like"--you've made something genuinely special.
 
 Or at the very least, you've made something you can brag about at dinner parties, which is almost as good.
 
@@ -52,15 +54,13 @@ Or at the very least, you've made something you can brag about at dinner parties
 
 ## How to Actually Use This Book
 
-**Read the notes section first.** I'm serious. Every recipe has a notes section at the end, and it's got crucial information about ingredient sourcing, what can go wrong, what's supposed to look weird, and what you can skip if you're not feeling masochistic that day. Don't just jump into the instructions and hope for the best.
+**Read the notes section first, tiger.** I'm serious. Every recipe has a notes section at the end, and it's got crucial information about ingredient sourcing, what can go wrong, what's supposed to look weird, and what you can skip if you're not feeling masochistic that day. Don't just jump into the instructions and hope for the best.
 
 **Plan ahead.** Many of these have components that need to be made in advance. Candied citrus peels that need overnight drying. Custard bases that benefit from 24 hours of chilling so the flavors meld. Yeasted dough that rises for two hours. Check the make-ahead notes and give yourself enough time.
 
-**Source good ingredients.** Ice cream is dairy, eggs, sugar, and flavoring. That's it. When there are only four elements, quality matters. Use good cream, fresh eggs, real vanilla extract. And when a recipe calls for something specific--Chinese five-spice from an Asian market, real maple syrup (not the corn syrup shit), New Mexican red chile (not cayenne)--it's worth tracking down the real thing.
+**Source good ingredients.** Ice cream is dairy, eggs, sugar, and flavoring. That's it, slugger. When there are only four elements, quality matters. Use good cream, fresh eggs, real vanilla extract. And when a recipe calls for something specific--Chinese five-spice from an Asian market, real maple syrup (not the corn syrup shit), New Mexican red chile (not cayenne)--it's worth tracking down the real thing.
 
-**Expect to fuck up at least once.** Caramel will seize. Custard will scramble. The first batch of brittle will burn. Yeast won't bloom because your milk was too hot. This is part of the process. These recipes are challenging because they're *supposed* to be challenging. Learn from it, try again, and know that everyone--including me--has made these mistakes.
-
-**Make it your own.** Once you understand the technique, adjust the flavors. Try different honeys, experiment with spice levels, swap in seasonal fruits. The structures are sound, but the flavors can evolve based on what you like and what you can find.
+**Make it your own.** Once you understand the technique, adjust the flavors, hotshot. Try different honeys, experiment with spice levels, swap in seasonal fruits. The structures are sound, but the flavors can evolve based on what you like and what you can find.
 
 ---
 
@@ -128,7 +128,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 **Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
 
 ### A FUCKING ORDEAL
-*You've been warned, homie*
+*You've been warned, cowboy*
 
 **Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
 
@@ -138,71 +138,75 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 ## A Note on Difficulty
 
-These recipes are rated on a four-tier system: CHILL, LEGIT, THE REAL DEAL, and A FUCKING ORDEAL. I'm not fucking around with these ratings--they'll tell you exactly what you're getting into.
+These recipes are rated on a four-tier system: CHILL, LEGIT, THE REAL DEAL, and A FUCKING ORDEAL. I'm not fucking around with these ratings, kemosabe--they'll tell you exactly what you're getting into.
 
 **CHILL** means you can relax. These recipes require no custard-making skills, minimal technique, and almost no opportunity for catastrophic failure. You're working with methods like blending and freezing, or simple steeping, or no-churn approaches that eliminate the anxiety of tempering eggs. If you can follow basic instructions and operate a blender, you can succeed with CHILL recipes. These are your confidence builders, your Tuesday night impulses, your proof that you can make genuinely interesting ice cream without advanced skills.
 
-**LEGIT** means you need to show up with competence and attention. These recipes have multiple components, require sustained focus, and demand solid ice cream fundamentals like making custard without scrambling it. But they're forgiving--if you follow instructions carefully and stay present, you'll succeed on your first try. The challenge is primarily about organization, time management, and maintaining attention across multiple elements. You might be managing three or four separate components, babysitting a reduction for forty-five minutes, or coordinating timing across different processes. Nothing here will catastrophically fail if you're paying attention, but you can't phone it in either.
+**LEGIT** means you need to show up with competence and attention. These recipes have multiple components, require sustained focus, and demand solid ice cream fundamentals like making custard without scrambling it. But they're forgiving--if you follow instructions carefully and stay present, you'll succeed on your first try. The challenge is primarily about organization, time management, and maintaining attention across multiple elements. Nothing here will catastrophically fail if you're paying attention, but you can't phone it in either.
 
-**THE REAL DEAL** means even experienced home cooks will probably fuck something up at least once before mastering the technique. These recipes have narrow margins for error, techniques that can go irreversibly wrong in seconds, or enough complexity that mistakes are basically inevitable on your first attempt. You're emulsifying olive oil into custard where rushing creates an unfixable greasy mess. You're burning honey to exactly the right point with zero margin between perfect and ruined. You're browning butter three separate times and hitting that narrow window between nutty and burnt each time. You're managing four components with candy work and flambe. The probability that you'll nail everything perfectly on attempt number one is low. You'll learn from mistakes, adjust your technique, and probably make each recipe twice before you master it.
+**THE REAL DEAL** means even experienced home cooks will probably fuck something up at least once before mastering the technique, buckaroo. These recipes have narrow margins for error, techniques that can go irreversibly wrong in seconds, or enough complexity that mistakes are basically inevitable on your first attempt. You're emulsifying olive oil into custard where rushing creates an unfixable greasy mess. You're burning honey to exactly the right point with zero margin between perfect and ruined. You're browning butter three separate times and hitting that narrow window between nutty and burnt each time. You'll learn from mistakes, adjust your technique, and probably make each recipe twice before you master it.
 
-**A FUCKING ORDEAL** means you've genuinely lost your mind, and I respect that. These two recipes exist in their own category because they combine extreme difficulty with extreme commitment in ways that set them apart from everything else. You're either dealing with ingredient sourcing so absurd that you have a two-week annual window and the fruit dies in forty-eight hours, or you're making yeasted dough from scratch, managing 360-degree frying oil, making multiple caramels, and committing three-plus hours of active work to a single batch of ice cream. These are trophy recipes. Build up to them. Prove something to yourself. Understand that you're doing something almost nobody else does.
+**A FUCKING ORDEAL** means you've genuinely lost your mind, and I respect that, my guy. These two recipes exist in their own category because they combine extreme difficulty with extreme commitment in ways that set them apart from everything else. You're either dealing with ingredient sourcing so absurd that you have a two-week annual window and the fruit dies in forty-eight hours, or you're making yeasted dough from scratch, managing 360-degree frying oil, making multiple caramels, and committing three-plus hours of active work to a single batch of ice cream. These are trophy recipes. Build up to them. Prove something to yourself. Understand that you're doing something almost nobody else does.
 
 Don't start with A FUCKING ORDEAL recipes if you've never made custard. Don't even start with THE REAL DEAL recipes if you're new to ice cream. Build your skills with CHILL recipes to gain confidence, work through LEGIT recipes to develop your component management and custard technique, tackle THE REAL DEAL to master precision and learn from failure, and THEN attempt A FUCKING ORDEAL when you're ready to commit fully to the beautiful absurdity of it all.
 
 ---
 
-## The Custard Fundamentals
+# Custard Fundamentals: The Foundation for Everything
 
 Look, we need to talk about custard. Almost every recipe in this book starts with one, so instead of repeating the same instructions 20+ times, let's get this straight once and for all. Master this technique and you've unlocked about 80% of the ice cream world. (The other 20%? That's wild shit like no-churn bases and sorbet, which we'll get to.)
 
-### What Is Custard, Actually?
+---
+
+## What Is Custard, Actually?
 
 Custard is an emulsion--a stable mixture of fat (cream and egg yolks) and liquid (milk) held together by the emulsifying properties of egg yolks. When you heat it gently while stirring, the egg proteins unfold and link together, thickening the mixture into that smooth, velvety texture that makes ice cream creamy instead of icy.
 
-The egg yolks do two critical jobs here: First, they *emulsify*--yolks contain lecithin, which helps fat and water molecules play nice together instead of separating. Second, they *thicken*--the proteins in yolks coagulate (link up) when heated, creating body and richness.
+The egg yolks do two critical jobs: First, they *emulsify*--yolks contain lecithin, which helps fat and water molecules play nice together instead of separating. Second, they *thicken*--the proteins in yolks coagulate (link up) when heated, creating body and richness.
 
 This is why custard-based ice cream has that luxurious, creamy mouthfeel that no-churn or Philadelphia-style bases can't quite match.
 
-### The Standard Process
+---
 
-Here's your blueprint. Individual recipes will tell you when to add specific flavorings, but this is the core technique:
+## The Standard Process
 
-**1. Heat the Dairy**
+Here's your blueprint, ace. Individual recipes will tell you when to add specific flavorings, but this is the core technique:
 
-Combine your cream and milk in a heavy-bottomed saucepan. If you're infusing flavors (vanilla bean, citrus zest, spices, herbs), add them now. Heat over medium heat, stirring occasionally, until the mixture is steaming with small bubbles forming around the edges--about 170°F if you're checking with a thermometer. (You'll see tiny bubbles appearing at the rim like they're trying to escape. That's the sweet spot, boss.)
+### 1. Heat the Dairy
+
+Combine your cream and milk in a heavy-bottomed saucepan. If you're infusing flavors (vanilla bean, citrus zest, spices, herbs), add them now. Heat over medium heat, stirring occasionally, until the mixture is steaming with small bubbles forming around the edges--about 170°F if you're checking with a thermometer. You'll see tiny bubbles appearing at the rim like they're trying to escape. That's the sweet spot.
 
 You want it hot but NOT boiling. A full boil can cause the milk proteins to curdle or create a skin, and then you'll have to strain out lumps like you're panning for gold. Steaming is your target.
 
-**2. Prep the Yolks**
+### 2. Prep the Yolks
 
-While the dairy heats, whisk your egg yolks with the sugar in a separate bowl until pale yellow and slightly thick--about 2 minutes of good whisking. This distributes the sugar evenly through the yolks and starts dissolving it, which prevents graininess in your final custard. The mixture should look lighter in color and fall in ribbons from the whisk. (You'll know what I mean when you see it. Looks like... ribbons. Real descriptive, I know.)
+While the dairy heats, whisk your egg yolks with the sugar in a separate bowl until pale yellow and slightly thick--about 2 minutes of good whisking. This distributes the sugar evenly through the yolks and starts dissolving it, which prevents graininess in your final custard. The mixture should look lighter in color and fall in ribbons from the whisk.
 
-Most recipes in this book use 4-5 egg yolks per batch. Fewer yolks (2-3) makes a lighter custard that lets delicate flavors shine but can be icier. More yolks (6+) makes richer, denser ice cream that stays creamier in the freezer but can feel heavy. It's all about what you're trying to achieve, pal.
+Most recipes in this book use 4-5 egg yolks per batch. Fewer yolks (2-3) makes a lighter custard that lets delicate flavors shine but can be icier. More yolks (6+) makes richer, denser ice cream that stays creamier in the freezer but can feel heavy. It's all about what you're trying to achieve.
 
-**3. Temper the Yolks (THIS IS WHERE PEOPLE FUCK UP)**
+### 3. Temper the Yolks (THIS IS WHERE PEOPLE FUCK UP)
 
-Here's the deal, friend: if you dump cold egg yolks directly into hot cream, you get scrambled eggs. Not ice cream. Scrambled. Fucking. Eggs. I've done it. You'll probably do it once. Then you'll never do it again because straining chunky scrambled eggs out of what was supposed to be ice cream base is a special kind of soul-crushing.
+Here's the deal, slugger: if you dump cold egg yolks directly into hot cream, you get scrambled eggs. Not ice cream. Scrambled. Fucking. Eggs. I've done it. You'll probably do it once. Then you'll never do it again because straining chunky scrambled eggs out of what was supposed to be ice cream base is a special kind of soul-crushing.
 
 Tempering gradually raises the temperature of the yolks so they can join the hot cream without curdling. Here's how:
 
-Pour about 1 cup of the hot cream mixture into the yolks in a slow, steady stream while whisking constantly--and I mean constantly, not "I'll check my phone real quick" constantly. Don't stop whisking. The yolks will warm up gradually without cooking. You're essentially raising their temperature in stages.
+Pour about 1 cup of the hot cream mixture into the yolks in a slow, steady stream while whisking constantly--and I mean constantly, not "I'll check my phone real quick" constantly. Don't stop whisking. The yolks will warm up gradually without cooking.
 
 Now pour the warmed yolk mixture back into the saucepan with the rest of the hot cream, whisking as you go. You'll be standing there thinking "is this right?" Yes. It's right.
 
 **Why this works**: The initial hot cream raises the yolk temperature from, say, 50°F to maybe 100°F. Then when you add that 100°F mixture back into the 170°F cream, you're only asking the yolks to jump from 100°F to 175°F instead of from 50°F to 175°F. That gradual climb prevents the proteins from seizing up and scrambling.
 
-**4. Cook the Custard**
+### 4. Cook the Custard
 
-Return the pan to medium-low heat. Stir constantly--and I mean CONSTANTLY, homie--with a wooden spoon or heatproof spatula. Scrape the bottom and sides of the pan as you stir. You're preventing the eggs from overcooking on the hot metal. Yes, your arm will get tired. Yes, you'll wonder if you're doing it right. You are. Keep going.
+Return the pan to medium-low heat. Stir constantly--and I mean CONSTANTLY--with a wooden spoon or heatproof spatula. Scrape the bottom and sides of the pan as you stir. You're preventing the eggs from overcooking on the hot metal. Yes, your arm will get tired. Yes, you'll wonder if you're doing it right. You are. Keep going.
 
 Cook until the custard thickens slightly and reaches 170-175°F. It should coat the back of your spoon in a thin layer. When you drag your finger through that layer, it should leave a clear line that doesn't immediately fill back in. You'll stand there squinting at this spoon thinking "is that a line? Is it thick enough?" Trust yourself--if it looks like it *might* be ready, it probably is.
 
-This is called "nappe" consistency if you want to be fancy about it. The custard won't be super thick at this point--it's still fairly liquid. That's *normal*, chief. Don't panic. It thickens more as it chills and even more when it churns and freezes.
+This is called "nappe" consistency if you want to be fancy about it. The custard won't be super thick at this point--it's still fairly liquid. That's *normal*. Don't panic. It thickens more as it chills and even more when it churns and freezes.
 
 **What's happening**: At 170-175°F, the egg proteins are unfolding and linking together enough to thicken the mixture without fully coagulating (which happens around 185°F and gives you scrambled eggs). This narrow window is why you stir constantly and watch the temp carefully.
 
-**5. Cool It Down**
+### 5. Cool It Down
 
 Pull the pan off the heat immediately when you hit 175°F. Let it sit for 5 minutes, stirring occasionally. This brings the temp down from "actively cooking eggs" to "safe for additions."
 
@@ -210,38 +214,45 @@ Strain the custard through a fine-mesh sieve into a clean bowl. This catches any
 
 At this point, many recipes will have you stir in additional ingredients--extracts, purees, salt, whatever. Follow the specific recipe's instructions here.
 
-**6. The Ice Bath (Don't Skip This, Seriously)**
+### 6. The Ice Bath (Don't Skip This, Seriously)
 
 Fill a large bowl with ice and a bit of water. Set your bowl of custard in the ice bath. Stir occasionally as it cools to room temperature, then to actually cold--like, fridge-cold. Not "eh, it's probably fine" cold.
 
-**Why this matters**: Cooling quickly prevents bacteria growth (boring but true), but more importantly, it stops the carryover cooking. That custard is still hot enough to keep cooking those eggs even off the heat. The ice bath halts the process before you end up with grainy custard. Also, a lukewarm custard going into the fridge takes *hours* to chill completely--hours during which you're standing there opening the fridge every fifteen minutes like it's going to speed things up. (Ask me how I know. Actually, don't.) Ice bath gets you there in 20-30 minutes.
+**Why this matters**: Cooling quickly prevents bacteria growth (boring but true), but more importantly, it stops the carryover cooking. That custard is still hot enough to keep cooking those eggs even off the heat. The ice bath halts the process before you end up with grainy custard. Also, a lukewarm custard going into the fridge takes *hours* to chill completely--hours during which you're standing there opening the fridge every fifteen minutes like it's going to speed things up. Ice bath gets you there in 20-30 minutes.
 
-**7. Refrigerate (Overnight Is Best, Fight Me)**
+### 7. Refrigerate (Overnight Is Best, Fight Me)
 
-Once cold, cover the custard and refrigerate for at least 4 hours, but preferably overnight. I know. I *know*. You want to churn it right now. But this isn't just about temperature--it's about aging, pal.
+Once cold, cover the custard and refrigerate for at least 4 hours, but preferably overnight. I know. I *know*. You want to churn it right now. But this isn't just about temperature--it's about aging.
 
-During the chill time, flavors meld and develop. The fat molecules crystallize properly. The proteins relax into their final structure. An aged custard churns into smoother, creamier ice cream with more developed flavor than one that's only been chilled for a couple hours. The difference is real. Trust me on this one, dude--I've done the side-by-side comparison more times than I care to admit because I'm impatient as hell too.
-### Common Fuckups and How to Avoid Them
+During the chill time, flavors meld and develop. The fat molecules crystallize properly. The proteins relax into their final structure. An aged custard churns into smoother, creamier ice cream with more developed flavor than one that's only been chilled for a couple hours. The difference is real. Trust me on this one--I've done the side-by-side comparison more times than I care to admit because I'm impatient as hell too.
 
-Look, everyone screws this up at some point. Here's what goes wrong and--more importantly--how to not let it happen to you, friend.
+---
+
+## Common Fuckups and How to Avoid Them
+
+Look, everyone screws this up at some point. Here's what goes wrong and--more importantly--how to not let it happen to you:
 
 **Scrambled Eggs Disaster**: You rushed the tempering or let the custard get above 180°F. Unfortunately, you can't fix this--just start over. The texture will be grainy and broken no matter how much you blend or strain it. I've tried. Multiple times. With increasingly desperate techniques. It doesn't work. Prevention is everything: temper slowly, stir constantly, watch that temp like your ex watches your Instagram stories.
 
-**Thin Custard**: Either you didn't cook it quite enough (bring it all the way to 175°F), or--and this is more likely--you're judging it while it's still hot. Custard thickens as it cools, chief. If it's *genuinely* thin after chilling overnight, you might have used fewer yolks than called for or your eggs were small. Still churn it--it'll just make slightly less rich ice cream. Not a tragedy.
+**Thin Custard**: Either you didn't cook it quite enough (bring it all the way to 175°F), or--and this is more likely--you're judging it while it's still hot. Custard thickens as it cools. If it's *genuinely* thin after chilling overnight, you might have used fewer yolks than called for or your eggs were small. Still churn it--it'll just make slightly less rich ice cream. Not a tragedy.
 
 **Grainy Texture**: Could be several things: cooked too hot (egg proteins seized up), sugar didn't fully dissolve, or you didn't strain it well enough. Always strain. *Always*. No exceptions. And watch that temp like a hawk--one minute of distraction and you're in scrambled egg territory.
 
 **Skin Forming**: While cooling, a skin forms on top--this is just milk proteins drying out. (Gross, but harmless.) Press plastic wrap directly onto the surface of the custard before refrigerating to prevent this. If it already formed, just peel it off and discard it before churning. Done.
 
-**Split/Separated Custard**: The fat separated from the liquid and now you've got an oily mess. Usually happens with very low-yolk custards or if you added oil-based flavoring too quickly without proper emulsification. Most recipes in this book are formulated to avoid this, but if it happens, try blending with an immersion blender--*sometimes* you can re-emulsify it. Not always, though. Sometimes you're just fucked and need to start over. Sorry, pal.
+**Split/Separated Custard**: The fat separated from the liquid and now you've got an oily mess. Usually happens with very low-yolk custards or if you added oil-based flavoring too quickly without proper emulsification. Most recipes in this book are formulated to avoid this, but if it happens, try blending with an immersion blender--*sometimes* you can re-emulsify it. Not always, though. Sometimes you're just fucked and need to start over. Sorry.
 
-### Temperature Check: Do You Actually Need a Thermometer?
+---
 
-Nah, not necessarily. The "coats the back of a spoon" test is legit--when you can draw a clear line through the custard on your spoon and it holds, you're there. A thermometer just removes the guesswork, especially when you're learning. (And when you're standing there at 10 PM squinting at a spoon covered in yellow liquid wondering if that's *actually* a line or if you're just seeing things because you're tired. Been there, friend.)
+## Temperature Check: Do You Actually Need a Thermometer?
+
+Nah, not necessarily. The "coats the back of a spoon" test is legit--when you can draw a clear line through the custard on your spoon and it holds, you're there. A thermometer just removes the guesswork, especially when you're learning. (And when you're standing there at 10 PM squinting at a spoon covered in yellow liquid wondering if that's *actually* a line or if you're just seeing things because you're tired. Been there.)
 
 If you're using one, look for instant-read digital thermometers. They're fast and accurate. Analog ones are slow and often lie to you. Clip-on candy thermometers work but can be awkward to read while stirring--you'll find yourself doing this weird crouch-and-squint thing that makes you look ridiculous. But hey, nobody's watching.
 
-### Recipe Variations You'll See
+---
+
+## Recipe Variations You'll See
 
 Different recipes in this book will modify this base process in various ways. Don't panic when you see these--they're all manageable. Here's what to expect:
 
@@ -253,13 +264,15 @@ Different recipes in this book will modify this base process in various ways. Do
 
 **Mix-ins**: Purees, chocolate, nut butters, or other additions that get stirred in after straining. Follow the specific recipe's timing on these--some things need to go in while the custard's still warm (chocolate, for example, needs heat to melt smoothly). Others go in cold (fruit purees that would cook if added hot).
 
-**Emulsions**: Some recipes (like Lemon & Rosemary Honey with olive oil) require slowly drizzling in fat while whisking to create a stable emulsion. The technique is explained in detail in those recipes--just know that rushing this step will break the emulsion and ruin everything. And I mean *everything*, homie. You'll end up with an oily, separated mess that can't be fixed. So when the recipe says "slowly," believe it.
+**Emulsions**: Some recipes (like Lemon & Rosemary Honey with olive oil) require slowly drizzling in fat while whisking to create a stable emulsion. The technique is explained in detail in those recipes--just know that rushing this step will break the emulsion and ruin everything. And I mean *everything*. You'll end up with an oily, separated mess that can't be fixed. So when the recipe says "slowly," believe it.
 
-### You've Got This, Homie
+---
+
+## You've Got This
 
 Custard-making looks intimidating written out, but it's mostly just paying attention. Heat dairy. Temper yolks. Cook gently to 170-175°F while stirring constantly. Cool quickly. That's it. After you've done it a few times, it becomes second nature--muscle memory that frees up your brain to think about what you're adding to that custard instead of whether you're scrambling eggs.
 
-The recipes in this book will reference this section so they don't have to repeat every damn step. They'll tell you what makes THEIR custard special--the flavorings, the mix-ins, the unique techniques, the weird-ass ingredients you never thought would work in ice cream. But the foundation? That's right here. You've got this.
+The recipes in this book will reference this chapter so they don't have to repeat every damn step. They'll tell you what makes THEIR custard special--the flavorings, the mix-ins, the unique techniques, the weird-ass ingredients you never thought would work in ice cream. But the foundation? That's right here. You've got this.
 
 Now go make some fucking custard.
 
@@ -267,9 +280,9 @@ Now go make some fucking custard.
 
 ## Final Thoughts
 
-These recipes represent one interpretation of how international flavors translate to ice cream. They're not authoritative or definitive--they're invitations to explore. If you've had real atole in Mexico City or authentic sfogliatelle in Naples, you'll recognize the inspiration even as you acknowledge the translation. If these flavors are new to you, consider this your introduction.
+These recipes represent one interpretation of how international flavors translate to ice cream, champ. They're not authoritative or definitive--they're invitations to explore. If you've had real atole in Mexico City or authentic sfogliatelle in Naples, you'll recognize the inspiration even as you acknowledge the translation. If these flavors are new to you, consider this your introduction.
 
-And look--not every batch is going to be perfect. You're going to burn caramel and scramble custard and over-churn until it's butter. That's part of learning. The goal isn't perfection on the first try. The goal is to make something interesting, something challenging, something that tastes genuinely different from anything you can buy at the store.
+And look--not every batch is going to be perfect. The goal isn't perfection on the first try. The goal is to make something interesting, something challenging, something that tastes genuinely different from anything you can buy at the store.
 
 Now let's make some fucking ice cream.
 

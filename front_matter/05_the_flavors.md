@@ -62,7 +62,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 **Brigadeiro & Passion Fruit** -- Chocolate fudge balls meet tropical brightness
 
 ### A FUCKING ORDEAL
-*You've been warned, homie*
+*You've been warned, cowboy*
 
 **Appalachian Pawpaw & Maple** -- America's forgotten fruit meets mountain sweetness
 
