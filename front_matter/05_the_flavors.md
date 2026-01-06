@@ -34,7 +34,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Guava & Coffee** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
+**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
@@ -43,13 +43,13 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### THE REAL DEAL
 *Multiple components, precise technique, and commitment required*
 
-**Southern Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
+**Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
 
-**Tahini Halva with Rose Water** -- Turkey and the Middle East doing sesame desserts at an Olympic level
+**Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Southwest Red Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
+**Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
 
-**Cashew & Coconut with Piri Piri** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
+**Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
 **Coffee & Berbere** -- Ethiopia invented coffee, then said "what if we made it SPICY"
 

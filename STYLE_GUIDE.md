@@ -485,7 +485,7 @@ When reviewing a recipe, check in this order:
 
 **For overall structure and voice:** Recipe 01 (Atole de Anis)
 **For cultural depth:** Recipe 15 (Wattleseed & Macadamia), Recipe 21 (Cardamom-Pistachio Kulfi)
-**For teaching moments:** Recipe 18 (Southern Brown Butter Pecan)
+**For teaching moments:** Recipe 18 (Brown Butter Pecan)
 **For honest complexity management:** Recipe 20 (New Orleans Chicory Coffee & Beignet)
 **For accessibility without eggs:** Recipe 21 (Cardamom-Pistachio Kulfi), Recipe 27 (Avocado)
 

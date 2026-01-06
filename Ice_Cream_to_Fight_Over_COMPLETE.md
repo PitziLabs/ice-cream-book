@@ -100,7 +100,7 @@ Here's what you're getting into, organized by difficulty so you can build your s
 
 **Atole de Anis** -- Mexican breakfast corn drink that absolutely nobody asked us to freeze (but here we are)
 
-**Guava & Coffee** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
+**Bocadillo y Café** -- Colombia's tropical fruit meets dark coffee in a mashup that shouldn't work but does
 
 **Sfogliatelle** -- Naples' most extra pastry, shellacked and frozen for your convenience
 
@@ -109,13 +109,13 @@ Here's what you're getting into, organized by difficulty so you can build your s
 ### THE REAL DEAL
 *Multiple components, precise technique, and commitment required*
 
-**Southern Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
+**Brown Butter Pecan** -- The Deep South's been perfecting this for generations and we're just trying to keep up
 
-**Tahini Halva with Rose Water** -- Turkey and the Middle East doing sesame desserts at an Olympic level
+**Tahini Rose** -- Turkey and the Middle East doing sesame desserts at an Olympic level
 
-**Southwest Red Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
+**Chile Chocolate** -- chile heat meeting dark chocolate in the combination ancient gods intended
 
-**Cashew & Coconut with Piri Piri** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
+**Piri Piri Cashew Coconut** -- Mozambique's Portuguese-influenced chile meets creamy vegan chaos
 
 **Coffee & Berbere** -- Ethiopia invented coffee, then said "what if we made it SPICY"
 
@@ -2159,7 +2159,7 @@ Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than 
 
 ---
 
-# Guava & Coffee
+# Bocadillo y Café
 
 *Tropical fruit meets caffeine*
 
@@ -2528,7 +2528,7 @@ Candied ginger can be made up to 2 weeks ahead and stored airtight. The roasted 
 
 ---
 
-# Southern Brown Butter Pecan
+# Brown Butter Pecan
 
 *Deep South tradition, elevated*
 
@@ -2680,7 +2680,7 @@ The triple brown butter approach (candied nuts, infused base, butterscotch swirl
 
 ---
 
-# Tahini Halva with Rose Water
+# Tahini Rose
 
 *Turkish sesame sweetness meets delicate floral notes*
 
@@ -2828,7 +2828,7 @@ Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the
 
 ---
 
-# Southwest Red Chile Chocolate
+# Chile Chocolate
 
 *Dark chocolate meets earthy chile heat*
 
@@ -2982,7 +2982,7 @@ This is RICH. Like, profoundly rich. Serve smaller portions than you think. It's
 
 ---
 
-# Cashew & Coconut with Piri Piri
+# Piri Piri Cashew Coconut
 
 *Vegan and surprisingly rich as hell*
 
