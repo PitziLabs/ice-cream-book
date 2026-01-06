@@ -1891,7 +1891,7 @@ It's more interesting than it sounds on paper, chief. The combination of earthy 
 
 **Difficulty:** LEGIT - You're making a buttermilk custard (easy), toasting bread with butter and sugar until it caramelizes (requires attention but not hard), and making whiskey caramel (standard wet caramel technique). The bread crumble is the only unusual element here, and it's more about watching it carefully so it doesn't burn than any advanced technique. You'll feel accomplished when you're done, but nothing here will actually break you, pal.
 
-**Total Time:** 8-10 hours across 2 days (includes baking bread if making from scratch, plus custard chilling and freezing - but only about 90 minutes of active work if you buy the bread)
+**Total Time:** 8-10 hours across 2 days (sounds dramatic, but you're mostly waiting for things to cool and chill while you question why you didn't just buy ice cream)
 
 Brown bread ice cream is a legitimate traditional Irish flavor - not some fusion experiment, but actual ice cream you'd find in Ireland. The concept is simple and kind of genius: take traditional Irish brown bread (whole wheat, sometimes with oats, sweetened with treacle or molasses), toast it with butter and sugar until it turns into crunchy, caramelized clusters, then fold it into tangy buttermilk ice cream.
 
@@ -1932,7 +1932,7 @@ This is one of those flavors that sounds weird until you taste it, and then it m
 
 **Brown Bread Crumble (make this first, can be done up to 3 days ahead):**
 
-If you're making your own brown bread, do that first and let it cool completely before proceeding. Otherwise, start with store-bought brown bread or whole wheat bread.
+If you're making your own brown bread, do that first and let it cool completely before proceeding, chief. Otherwise, start with store-bought brown bread or whole wheat bread.
 
 Preheat your oven to 350°F. Cut the bread into roughly 1/2-inch cubes - don't worry about perfect uniformity, irregular pieces actually work better because they toast unevenly and give you different textures. You want about 3 cups of cubed bread total.
 
@@ -1974,7 +1974,7 @@ Churn the buttermilk custard until it reaches soft-serve consistency. The butter
 
 Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel, scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through - you want ribbons and pockets, not complete integration.
 
-Don't overmix or the bread will get soggy. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored ice cream. The contrast between creamy custard and crunchy bread is crucial.
+Don't overmix or the bread will get soggy, homie. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored ice cream. The contrast between creamy custard and crunchy bread is crucial.
 
 Freeze at least 4 hours before serving.
 
@@ -2016,23 +2016,27 @@ The combination of buttermilk, whiskey, and caramelized bread is very Irish - th
 
 The bread crumble will stay crunchy for several days in the freezer, but over time (like a week or more) it will start to soften as it absorbs moisture from the ice cream. This is still delicious - it just becomes more chewy-caramelly than crispy-crunchy. If you want maximum crunch, eat this ice cream within 3-4 days of making it.
 
-You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do.
+You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do, buddy.
 
 **Make-ahead timeline:**
 
 The bread crumble can be made up to 3 days ahead and stored airtight at room temperature - actually, it's better if you make it a day ahead so it has time to fully harden. The whiskey caramel keeps for a week refrigerated. The custard base benefits from overnight chilling. This is naturally a two-day project: Day one, make bread crumble and caramel. Day two, make custard, churn, assemble.
 
-**What it tastes like:**
+**Allergen Information:**
 
-Creamy and tangy from the buttermilk custard, with these incredible clusters of crunchy, buttery, caramelized bread that taste like fancy toffee met whole grain toast. The whiskey caramel adds depth and that classic Irish coffee note - you get caramel sweetness with a subtle boozy warmth. The whole grain character from the brown bread keeps it from being one-note sweet - there's nuttiness and complexity.
-
-It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby. The texture is the real star - that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive.
+Contains wheat/gluten (brown bread is the star of the show here, so no getting around that one). The whiskey caramel can be made gluten-free if you use a certified gluten-free whiskey, but obviously the bread crumble cannot be substituted.
 
 **Serving suggestion:**
 
 Serve this with a shot of Irish whiskey on the side for adults, or alongside strong black tea for a very Irish experience. Also excellent with apple pie or pear tart - the bread crumble echoes the crisp topping on those desserts. Small scoops work best because this is rich and textured.
 
 If you want to go full Irish dessert spread, serve it with Irish coffee (the drink) for maximum thematic coherence. The ice cream essentially IS frozen Irish coffee, so doubling down just makes sense.
+
+**What it tastes like:**
+
+Creamy and tangy from the buttermilk custard, with these incredible clusters of crunchy, buttery, caramelized bread that taste like fancy toffee met whole grain toast. The whiskey caramel adds depth and that classic Irish coffee note - you get caramel sweetness with a subtle boozy warmth. The whole grain character from the brown bread keeps it from being one-note sweet - there's nuttiness and complexity.
+
+It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby. The texture is the real star - that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive.
 
 ---
 
