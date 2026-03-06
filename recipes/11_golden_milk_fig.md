@@ -2,13 +2,13 @@
 
 *Bright yellow and somehow it works*
 
-**Difficulty:** LEGIT - You're making two fig components (syrup and reduction), dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the fig reduction takes 30-45 minutes of babysitting. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, homie.
+**Difficulty:** LEGIT - You're making two fig components (syrup and reduction), dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the fig reduction takes 30-45 minutes of babysitting. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, {{v: homie | friend }}.
 
-**Total Time:** 7-9 hours across 2 days (includes lots of simmering and overnight chilling, plus time spent staring at your very yellow custard and wondering if you fucked up - you didn't)
+**Total Time:** 7-9 hours across 2 days (includes lots of simmering and overnight chilling, plus time spent staring at your very yellow custard and wondering if you {{v: fucked up | messed up }} - you didn't)
 
 Golden milk - haldi doodh in Hindi - is an Indian drink made with turmeric, and yes, it makes ice cream *very* yellow. Surprisingly yellow. Aggressively yellow. "Did someone spill highlighter ink in this?" yellow. "Is this food coloring?" yellow. But paired with the deep sweetness of figs, it actually works. The turmeric's earthy warmth plays nicely with fig's jammy richness in a way that makes total sense once you taste it, even though it sounds completely unhinged on paper.
 
-You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, homie. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
+You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, {{v: homie | pal }}. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
 
 ## Ingredients
 
@@ -40,11 +40,11 @@ You'll spend a moment wondering if you added too much turmeric. You probably did
 
 Combine 1 cup of chopped dried figs, 1.5 cups water, 1/2 cup sugar, and a squeeze of lemon in a saucepan. Simmer over medium-low heat for 20-30 minutes until the figs are completely soft and broken down. They should look pretty pathetic and mushy by the end - falling apart, no longer holding their shape, basically disintegrating into the liquid. That's exactly what we want. The figs are releasing their natural sugars and pectin into the water, creating a syrup that tastes intensely of fig without being chunky.
 
-Strain through a fine-mesh sieve, pressing HARD on those solids to extract all the liquid. Really lean into it - you want every drop of that fig-infused syrup. You should get about 1 to 1.25 cups of liquid. This is your fig syrup, friend. Set it aside to cool.
+Strain through a fine-mesh sieve, pressing HARD on those solids to extract all the liquid. Really lean into it - you want every drop of that fig-infused syrup. You should get about 1 to 1.25 cups of liquid. This is your fig syrup, {{v: friend | pal }}. Set it aside to cool.
 
 Now here's where it gets efficient: take those squeezed fig solids (which still have flavor left in them, trust me) and return them to the pan. Don't wash the pan - any stuck-on bits add flavor. Add 1/2 cup water, 2 tbsp honey, a splash of balsamic vinegar or lemon juice, and optional spice if you're using it.
 
-Simmer this mixture over low heat for 30-45 minutes, stirring occasionally. You're concentrating it down into a thick, jammy reduction that's intense as hell. How do you know when it's ready? It should coat the back of a spoon and stay there when you drag your finger through it - the classic nappe test. Or just eyeball it: when you drag a spoon through the pan, it should leave a trail that takes a second to fill back in. It should look glossy, dark, and thick - think fig jam consistency. If it's still watery and loose, keep cooking. If you're not sure, err on the side of cooking it longer - you want this thick enough to create distinct ribbons when you swirl it into the ice cream, not dissolve into the base.
+Simmer this mixture over low heat for 30-45 minutes, stirring occasionally. You're concentrating it down into a thick, jammy reduction that's {{v: intense as hell | seriously intense }}. How do you know when it's ready? It should coat the back of a spoon and stay there when you drag your finger through it - the classic nappe test. Or just eyeball it: when you drag a spoon through the pan, it should leave a trail that takes a second to fill back in. It should look glossy, dark, and thick - think fig jam consistency. If it's still watery and loose, keep cooking. If you're not sure, err on the side of cooking it longer - you want this thick enough to create distinct ribbons when you swirl it into the ice cream, not dissolve into the base.
 
 You can strain this for a smooth swirl or leave it chunky with fig seeds for texture. Honestly? I like leaving it chunky. The little seeds add textural interest and make it obvious this is real fig, not some artificial flavoring. Your call though. Cool both the syrup and reduction completely, then refrigerate. They'll thicken even more as they cool, which is exactly what you want.
 
@@ -52,7 +52,7 @@ You can strain this for a smooth swirl or leave it chunky with fig seeds for tex
 
 Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180°F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
-Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
+Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, {{v: dude | friend }}. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
@@ -60,7 +60,7 @@ Now make your custard with the egg yolks, sugar, and 1/4 cup of that fig syrup u
 
 Strain it through a fine-mesh sieve. This catches any possible turmeric clumps you might have missed and any cooked egg bits. Cool over an ice bath, stirring occasionally until it's not hot anymore. 
 
-Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with fig sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not fuck around when it comes to color.
+Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with fig sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not {{v: fuck around | hold back }} when it comes to color.
 
 Refrigerate at least 4 hours, preferably overnight so the spices can bloom and meld.
 
@@ -97,7 +97,7 @@ If you skip this step and just dump powder into cold custard base, you'll end up
 
 **About the color (yes, we need to talk about it):**
 
-Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for fuck's sake), and it does not hold back.
+Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, {{v: for fuck's sake | for goodness' sake }}), and it does not hold back.
 
 The fig swirls provide essential visual contrast with their dark purple-brown color. Without them, you're just staring at a container of bright yellow and wondering if you've made a terrible mistake. With them, it looks intentional and interesting - like you meant for it to be this way, which you did.
 
@@ -133,7 +133,7 @@ Earthy, warm, slightly peppery from the turmeric - but in a good way, not a "why
 
 The texture is creamy and rich despite the relatively low yolk count (only 3), thanks to the fig syrup's natural pectin and sugars. When you hit a pocket of fig reduction, you get intense fruit flavor with a slightly chewy, jammy texture that contrasts nicely with the smooth base.
 
-It's more interesting than it sounds on paper, chief. The combination of earthy spices and sweet fruit works in this unexpected way that makes you think "wait, this is good?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk decided to get fancy.
+It's more interesting than it sounds on paper, {{v: chief | friend }}. The combination of earthy spices and sweet fruit works in this unexpected way that makes you think "wait, this is good?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk decided to get fancy.
 
 ---
 
