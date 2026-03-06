@@ -47,7 +47,7 @@
 - [Golden Milk and Fig](#golden-milk-and-fig)
 - [Brown Bread](#brown-bread)
 - [Atole de Anis](#atole-de-anis)
-- [Bocadillo y Cafe](#bocadillo-y-café)
+- [Bocadillo y Café](#bocadillo-y-café)
 - [Sfogliatelle](#sfogliatelle)
 - [Sichuan Plum](#sichuan-plum)
 

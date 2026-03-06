@@ -1,4 +1,4 @@
-# Ice Cream to Fight Over: 27 Recipes You'll {{v: Fuck Up | Mess Up }} At Least Once
+# Ice Cream to Fight Over: Recipes You'll {{v: Fuck Up | Mess Up }} At Least Once
 
 ## Introduction
 
