@@ -50,9 +50,9 @@ Clean-only paragraph here.
 3. **Add `{{v: vulgar | clean }}` markers** around each instance
 4. **Verify the clean alternative reads naturally** in context -- read the sentence with just the clean version to check flow
 5. **Do NOT change anything else** -- no rewriting, no added content, no removed content, no reformatting. The only change should be wrapping existing text in markers.
-6. **Compile both versions**: `python compile_book.py`
+6. **Compile both versions as a test**: `python compile_book.py` -- this verifies markers are correct, but do NOT commit the compiled output files. A GitHub Action handles compilation.
 7. **Validate the clean version** is profanity-free for the converted file: `grep -inE '\bfuck|\bshit\b|\bdamn\b|\bhell\b|\bgoddam|\bbastard|\bdipshit|\bdumbass|\bjackass|\bhalf-ass|\bbatshit' Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md`
-8. **Commit** with a message like: `Convert [recipe name] to dual-version markers`
+8. **Commit only the source `.md` files** with a message like: `Convert [recipe name] to dual-version markers` -- do NOT commit `Ice_Cream_to_Fight_Over_COMPLETE.md` or `Ice_Cream_to_Fight_Over_COMPLETE_CLEAN.md`
 9. **Push** to the assigned branch
 10. **Create a PR** and provide the link to the user
 
