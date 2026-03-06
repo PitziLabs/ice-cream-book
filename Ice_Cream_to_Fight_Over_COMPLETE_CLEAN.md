@@ -1219,13 +1219,13 @@ Bright, tropical mango smacks you first. Then lime tartness cuts through. Then -
 
 *Bush tucker meets buttery nuts*
 
-**Difficulty:** LEGIT - You'll candy macadamias without burning them (harder than it sounds with 75% fat content), infuse wattleseed properly, and layer swirls like you actually give a damn. Plus sourcing native Australian ingredients might require actual effort.
+**Difficulty:** LEGIT - You'll candy macadamias without burning them (harder than it sounds with 75% fat content), infuse wattleseed properly, and layer swirls like you actually care about the result. Plus sourcing native Australian ingredients might require actual effort.
 
 **Total Time:** 6-8 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
 
 Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
 
-Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
+Fair warning, friend: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
 
 ## Ingredients
 
@@ -1259,7 +1259,7 @@ Fair warning, chief: wattleseed can be hard to source, but it's worth seeking ou
 
 **Candied Macadamias (make this first, needs 2-4 hours drying):**
 
-Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
+Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these things CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
 
 Line another baking sheet with parchment, set it nearby.
 
@@ -1289,7 +1289,7 @@ Return the infused cream to the saucepan, add half the sugar, heat until steamin
 
 The wattleseed will give it this beautiful tan-coffee color. Pull it off the heat. Stir in vanilla and salt.
 
-Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, homie.
+Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream, friend.
 
 Cool over an ice bath.
 
@@ -1317,13 +1317,13 @@ Freeze 4+ hours.
 
 **Wattleseed (Acacia victoriae):**
 
-Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty fucking accurate.
+Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty darn accurate.
 
 Buy from reputable suppliers that source ethically from Aboriginal communities—look for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly—store it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
 
 **Macadamia nuts:**
 
-Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, friend.
+Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn easily. Watch them carefully, pal.
 
 **Golden syrup:**
 
@@ -1335,11 +1335,11 @@ Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 time
 
 **Cultural context:**
 
-This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
+This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, friend.
 
 **What it tastes like:**
 
-Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
+Seriously complex. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
 
 **Visual:**
 
@@ -1347,7 +1347,7 @@ Warm tan-coffee colored base studded with golden-brown candied macadamia pieces 
 
 **Serving note:**
 
-Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
+Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, pal.
 
 **Allergen Information:** Contains tree nuts (macadamias)
 
@@ -1359,15 +1359,15 @@ Wattleseed's complex flavors actually develop and deepen after 24 hours in the f
 
 *France's iconic upside-down caramelized apple tart, now frozen*
 
-**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble (easy as hell). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough - you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
+**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble (easy enough). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough - you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
 
-**Total Time:** 7-9 hours across 2 days (most of it is roasting and overnight chilling while you sleep, plus 30-40 minutes of actively working while your kitchen smells fucking incredible)
+**Total Time:** 7-9 hours across 2 days (most of it is roasting and overnight chilling while you sleep, plus 30-40 minutes of actively working while your kitchen smells absolutely incredible)
 
 Tarte Tatin is one of those legendary French desserts with an actual origin story - created by accident in the 1880s at the Hotel Tatin in the Loire Valley when one of the Tatin sisters either forgot to put pastry in the pan first or tried to rescue a burnt apple tart by flipping it upside down (stories vary, but the result is the same). What you get is deeply caramelized apples cooked in butter and sugar, traditionally served warm with the pastry on top after being inverted.
 
 This ice cream captures that essential Tarte Tatin character - butter-roasted apples with calvados (Norman apple brandy, because if you're going French, go all the way), plus a buttery pastry crumble that echoes the tart's crust. The apples get roasted until they're jammy and caramelized, the calvados adds that distinctly French apple-region boozy depth, and the pastry crumble gives you that crucial textural contrast.
 
-It tastes like walking past a French patisserie and deciding fuck it, you're eating dessert for breakfast.
+It tastes like walking past a French patisserie and deciding you know what, you're eating dessert for breakfast.
 
 ## Ingredients
 
@@ -1398,29 +1398,29 @@ It tastes like walking past a French patisserie and deciding fuck it, you're eat
 
 **Buttery Pastry Crumble (make this first, can be made up to 3 days ahead):**
 
-Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie - that's what creates flaky, crispy texture when it bakes.
+Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, friend - that's what creates flaky, crispy texture when it bakes.
 
 If the mixture seems too dry and won't hold together when you squeeze it, add the ice water a teaspoon at a time. It should just barely come together when pressed. Don't overwork it or add too much water - you want crumbly, not doughy.
 
 Spread the mixture on a parchment-lined baking sheet, breaking it into irregular crumbles ranging from pea-sized to marble-sized. Bake for 15-20 minutes, stirring once halfway through, until golden brown and crispy. It should smell buttery and toasted, like pie crust.
 
-Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, dude. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
+Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work, pal. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
-Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400°F is the sweet spot, pal.
+Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot enough to caramelize the sugars on the apple's surface and trigger Maillard reactions (that's the browning that creates complex, savory-sweet flavors), but not so hot that the outside burns before the inside softens. Lower temps would steam the apples more than roast them. Higher temps would char the edges before the centers got tender. 400°F is the sweet spot, friend.
 
 Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big enough to maintain some texture after roasting, but small enough to cook through in reasonable time. Too small and they'll turn to mush. Too big and you'll have raw centers and burnt edges.
 
 Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated - the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
 
-Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, friend. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
+Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives, pal. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
 
 When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan - that's concentrated flavor right there, don't leave it behind.
 
 Let cool for about 15-20 minutes until they're warm but not steaming hot.
 
-Here's the two-texture approach, homie: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest - you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
+Here's the two-texture approach, friend: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest - you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
 
 **Make Vanilla Custard:**
 
@@ -1444,7 +1444,7 @@ Cool over an ice bath, stirring occasionally to prevent a skin from forming. Ref
 
 Churn the custard until it reaches soft-serve consistency.
 
-In the last minute of churning - and this timing matters, chief - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
+In the last minute of churning - and this timing matters, friend - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
 
 Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl - you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
 
@@ -1454,11 +1454,11 @@ Freeze at least 4 hours before serving.
 
 **About roasting and why you can't skip it:**
 
-Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "holy shit, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize - a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
+Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "oh wow, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize - a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
 
 The butter and brown sugar accelerate this browning process. Butter provides fat that helps conduct heat evenly and adds richness. Brown sugar adds molasses notes and extra sugar for caramelization. Together they create these glossy, caramelized pieces that taste like concentrated apple essence with layers of caramel complexity.
 
-If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, homie.
+If you use raw apples, you'll get bland apple ice cream that tastes like nothing much. The roasting is what makes this taste like actual Tarte Tatin, pal.
 
 **About calvados:**
 
@@ -1492,7 +1492,7 @@ Vanilla extract is fine and honestly most people won't notice the difference in 
 
 This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
-The key is keeping it dry and airtight until you're ready to use it, dude. Even a little moisture will make it lose its crispness. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
+The key is keeping it dry and airtight until you're ready to use it, dude. Even a little moisture will make it lose its crispness, pal. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 
 **Make-ahead strategy:**
 
@@ -1819,13 +1819,13 @@ Warm amber base with prominent allspice—that characteristic Jamaican pimento f
 
 *Bright yellow and somehow it works*
 
-**Difficulty:** LEGIT - You're making two fig components (syrup and reduction), dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the fig reduction takes 30-45 minutes of babysitting. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, homie.
+**Difficulty:** LEGIT - You're making two fig components (syrup and reduction), dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the fig reduction takes 30-45 minutes of babysitting. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, friend.
 
-**Total Time:** 7-9 hours across 2 days (includes lots of simmering and overnight chilling, plus time spent staring at your very yellow custard and wondering if you fucked up - you didn't)
+**Total Time:** 7-9 hours across 2 days (includes lots of simmering and overnight chilling, plus time spent staring at your very yellow custard and wondering if you messed up - you didn't)
 
 Golden milk - haldi doodh in Hindi - is an Indian drink made with turmeric, and yes, it makes ice cream *very* yellow. Surprisingly yellow. Aggressively yellow. "Did someone spill highlighter ink in this?" yellow. "Is this food coloring?" yellow. But paired with the deep sweetness of figs, it actually works. The turmeric's earthy warmth plays nicely with fig's jammy richness in a way that makes total sense once you taste it, even though it sounds completely unhinged on paper.
 
-You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, homie. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
+You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, pal. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
 
 ## Ingredients
 
@@ -1857,11 +1857,11 @@ You'll spend a moment wondering if you added too much turmeric. You probably did
 
 Combine 1 cup of chopped dried figs, 1.5 cups water, 1/2 cup sugar, and a squeeze of lemon in a saucepan. Simmer over medium-low heat for 20-30 minutes until the figs are completely soft and broken down. They should look pretty pathetic and mushy by the end - falling apart, no longer holding their shape, basically disintegrating into the liquid. That's exactly what we want. The figs are releasing their natural sugars and pectin into the water, creating a syrup that tastes intensely of fig without being chunky.
 
-Strain through a fine-mesh sieve, pressing HARD on those solids to extract all the liquid. Really lean into it - you want every drop of that fig-infused syrup. You should get about 1 to 1.25 cups of liquid. This is your fig syrup, friend. Set it aside to cool.
+Strain through a fine-mesh sieve, pressing HARD on those solids to extract all the liquid. Really lean into it - you want every drop of that fig-infused syrup. You should get about 1 to 1.25 cups of liquid. This is your fig syrup, pal. Set it aside to cool.
 
 Now here's where it gets efficient: take those squeezed fig solids (which still have flavor left in them, trust me) and return them to the pan. Don't wash the pan - any stuck-on bits add flavor. Add 1/2 cup water, 2 tbsp honey, a splash of balsamic vinegar or lemon juice, and optional spice if you're using it.
 
-Simmer this mixture over low heat for 30-45 minutes, stirring occasionally. You're concentrating it down into a thick, jammy reduction that's intense as hell. How do you know when it's ready? It should coat the back of a spoon and stay there when you drag your finger through it - the classic nappe test. Or just eyeball it: when you drag a spoon through the pan, it should leave a trail that takes a second to fill back in. It should look glossy, dark, and thick - think fig jam consistency. If it's still watery and loose, keep cooking. If you're not sure, err on the side of cooking it longer - you want this thick enough to create distinct ribbons when you swirl it into the ice cream, not dissolve into the base.
+Simmer this mixture over low heat for 30-45 minutes, stirring occasionally. You're concentrating it down into a thick, jammy reduction that's seriously intense. How do you know when it's ready? It should coat the back of a spoon and stay there when you drag your finger through it - the classic nappe test. Or just eyeball it: when you drag a spoon through the pan, it should leave a trail that takes a second to fill back in. It should look glossy, dark, and thick - think fig jam consistency. If it's still watery and loose, keep cooking. If you're not sure, err on the side of cooking it longer - you want this thick enough to create distinct ribbons when you swirl it into the ice cream, not dissolve into the base.
 
 You can strain this for a smooth swirl or leave it chunky with fig seeds for texture. Honestly? I like leaving it chunky. The little seeds add textural interest and make it obvious this is real fig, not some artificial flavoring. Your call though. Cool both the syrup and reduction completely, then refrigerate. They'll thicken even more as they cool, which is exactly what you want.
 
@@ -1869,7 +1869,7 @@ You can strain this for a smooth swirl or leave it chunky with fig seeds for tex
 
 Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180°F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
-Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
+Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, friend. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
@@ -1877,7 +1877,7 @@ Now make your custard with the egg yolks, sugar, and 1/4 cup of that fig syrup u
 
 Strain it through a fine-mesh sieve. This catches any possible turmeric clumps you might have missed and any cooked egg bits. Cool over an ice bath, stirring occasionally until it's not hot anymore. 
 
-Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with fig sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not fuck around when it comes to color.
+Taste it when it's cold. It should taste of warm spices (turmeric, ginger, cinnamon, cardamom all mingling together), with fig sweetness underneath and this beautiful earthy quality that's hard to describe but distinctly golden-milk-ish. The color will be VERY yellow. Like, "did I add too much turmeric?" yellow. You didn't. That's what turmeric does. It's a powerhouse pigment and it does not hold back when it comes to color.
 
 Refrigerate at least 4 hours, preferably overnight so the spices can bloom and meld.
 
@@ -1914,7 +1914,7 @@ If you skip this step and just dump powder into cold custard base, you'll end up
 
 **About the color (yes, we need to talk about it):**
 
-Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for fuck's sake), and it does not hold back.
+Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for goodness' sake), and it does not hold back.
 
 The fig swirls provide essential visual contrast with their dark purple-brown color. Without them, you're just staring at a container of bright yellow and wondering if you've made a terrible mistake. With them, it looks intentional and interesting - like you meant for it to be this way, which you did.
 
@@ -1950,7 +1950,7 @@ Earthy, warm, slightly peppery from the turmeric - but in a good way, not a "why
 
 The texture is creamy and rich despite the relatively low yolk count (only 3), thanks to the fig syrup's natural pectin and sugars. When you hit a pocket of fig reduction, you get intense fruit flavor with a slightly chewy, jammy texture that contrasts nicely with the smooth base.
 
-It's more interesting than it sounds on paper, chief. The combination of earthy spices and sweet fruit works in this unexpected way that makes you think "wait, this is good?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk decided to get fancy.
+It's more interesting than it sounds on paper, friend. The combination of earthy spices and sweet fruit works in this unexpected way that makes you think "wait, this is good?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk decided to get fancy.
 
 ---
 
@@ -1960,7 +1960,7 @@ It's more interesting than it sounds on paper, chief. The combination of earthy 
 
 *Buttermilk custard with caramelized bread crumble and whiskey*
 
-**Difficulty:** LEGIT - Look, you're making custard (you've done this), toasting bread with butter and sugar until it turns into candy (requires attention but mostly just standing there feeling like a genius), and making whiskey caramel (an excellent excuse to have whiskey in your kitchen). The bread crumble is the only weird part, and it's really just "don't burn it" which—let's be honest—you're gonna do at least once anyway. Nothing here will break you, pal. Your dignity when you explain to guests that you made bread ice cream, maybe. But not you.
+**Difficulty:** LEGIT - Look, you're making custard (you've done this), toasting bread with butter and sugar until it turns into candy (requires attention but mostly just standing there feeling like a genius), and making whiskey caramel (an excellent excuse to have whiskey in your kitchen). The bread crumble is the only weird part, and it's really just "don't burn it" which—let's be honest—you're gonna do at least once anyway. Nothing here will break you, friend. Your dignity when you explain to guests that you made bread ice cream, maybe. But not you.
 
 **Total Time:** 8-10 hours across 2 days (sounds dramatic, but you're mostly waiting for things to cool and chill while you question why you didn't just buy ice cream)
 
@@ -1968,7 +1968,7 @@ Brown bread ice cream is a legitimate traditional Irish flavor—not some Pinter
 
 The result tastes like buttered toast met toffee met whole grain nuttiness, and honestly it tastes like a hug from someone who genuinely likes you. It's comforting and sophisticated at the same time—the kind of flavor that makes people go "wait, is this BREAD?" and then shove their spoon back in before you can answer.
 
-Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, homie. Trust the process.
+Adding Irish whiskey caramel reinforces that classic Irish coffee vibe and deepens the caramel notes from the toasted bread. (Also it means you get to keep whiskey around "for cooking purposes." You're welcome.) The buttermilk base keeps everything from being too sweet and adds this subtle tang that's very Irish—they put buttermilk in everything from scones to soda bread to pancakes. The Irish understand dairy, friend. Trust the process.
 
 This is one of those flavors that sounds absolutely unhinged until you taste it, and then you'll be mad you didn't believe me sooner.
 
@@ -2003,21 +2003,21 @@ This is one of those flavors that sounds absolutely unhinged until you taste it,
 
 **Brown Bread Crumble (make this first, can be done up to 3 days ahead):**
 
-If you're making your own brown bread, do that first and let it cool completely before proceeding, chief. (Patience. I know.) Otherwise, start with store-bought brown bread or whole wheat bread. No judgment. We've all got lives.
+If you're making your own brown bread, do that first and let it cool completely before proceeding, friend. (Patience. I know.) Otherwise, start with store-bought brown bread or whole wheat bread. No judgment. We've all got lives.
 
 Preheat your oven to 350°F. Cut the bread into roughly 1/2-inch cubes—don't worry about perfect uniformity because honestly, who are you trying to impress? Irregular pieces actually work better because they toast unevenly and give you different textures. Your sloppiness is a feature here. You want about 3 cups of cubed bread total.
 
 In a large bowl, toss the bread cubes with melted butter, both sugars, cinnamon, and salt until everything is evenly coated. The bread should look glossy and sticky, like it's been partying. You'll want to eat some now. Don't. (Okay, eat one piece. But that's IT.)
 
-Spread the coated bread cubes on a parchment-lined baking sheet in a single layer—don't crowd them or they'll steam instead of toast and you'll have sad, chewy disappointment cubes. Bake for 15-20 minutes, stirring every 5 minutes, until the bread is deep golden brown and crispy. Watch this carefully in the last 5 minutes because the sugar can go from perfectly caramelized to "oh no oh fuck" in about 45 seconds. Ask me how I know. Actually, don't.
+Spread the coated bread cubes on a parchment-lined baking sheet in a single layer—don't crowd them or they'll steam instead of toast and you'll have sad, chewy disappointment cubes. Bake for 15-20 minutes, stirring every 5 minutes, until the bread is deep golden brown and crispy. Watch this carefully in the last 5 minutes because the sugar can go from perfectly caramelized to "oh no oh no" in about 45 seconds. Ask me how I know. Actually, don't.
 
 Here's what you're looking for: the bread should be crunchy all the way through (not just crispy on the outside with a sad soft interior), dark golden brown, and smell like butter toffee had a baby with a bakery. When you break a piece open, it should snap rather than squish. If it squishes, back in the oven it goes. No shame.
 
-Let it cool completely on the baking sheet. I know you want to touch it. Don't. That sugar is molten hellfire right now. As it cools, the sugar coating will harden into a candy-like shell. Once cool, break into smaller clusters—somewhere between pea-sized and chickpea-sized pieces. Store in an airtight container at room temperature, where you will definitely "test for quality" multiple times.
+Let it cool completely on the baking sheet. I know you want to touch it. Don't. That sugar is molten lava right now. As it cools, the sugar coating will harden into a candy-like shell. Once cool, break into smaller clusters—somewhere between pea-sized and chickpea-sized pieces. Store in an airtight container at room temperature, where you will definitely "test for quality" multiple times.
 
 **Irish Whiskey Caramel:**
 
-Have your warmed cream, whiskey, and butter measured and sitting right next to the stove—mise en place, baby. Caramel waits for no one and gives exactly zero shits about your organizational chaos.
+Have your warmed cream, whiskey, and butter measured and sitting right next to the stove—mise en place, baby. Caramel waits for no one and could not care less about your organizational chaos.
 
 Combine sugar and water in a light-colored saucepan (so you can actually see what's happening instead of playing "is it brown or burnt?" roulette). Heat over medium-high WITHOUT STIRRING. I cannot stress this enough. Put the spoon down. Walk away from the spoon. Stirring makes it crystallize and then you're starting over and crying. Let it reach deep amber—think copper penny, think good bourbon, think "is that too dark? no wait it's fine."
 
@@ -2031,7 +2031,7 @@ Let cool to room temperature, then refrigerate. Should be thick but pourable whe
 
 **Make Buttermilk Custard:**
 
-Combine the cream and whole milk in a saucepan and heat until steaming. While that heats, whisk the egg yolks with the sugar until pale and thick. You know this drill by now, dude—you've read the custard fundamentals. This is the easy part.
+Combine the cream and whole milk in a saucepan and heat until steaming. While that heats, whisk the egg yolks with the sugar until pale and thick. You know this drill by now, friend—you've read the custard fundamentals. This is the easy part.
 
 Temper the yolks with the hot dairy mixture (slowly, like you're introducing two people who might not get along), then return everything to the pan. Cook over medium heat, stirring constantly like your ice cream depends on it (because it does), until it reaches 170-175°F and coats the back of a spoon.
 
@@ -2039,7 +2039,7 @@ Strain through a fine-mesh sieve to catch any bits of cooked egg. Even if you th
 
 Let cool for about 10 minutes—you don't want to add the buttermilk to scorching hot custard or it'll curdle and you'll have expensive cottage cheese.
 
-Once the custard has cooled slightly (warm but not "ow fuck" hot), whisk in the buttermilk, vanilla, and salt. The buttermilk adds this subtle tang that balances all the rich caramel sweetness later. Don't add it when the custard is too hot or the acidity will cause it to separate, and then you'll be sad and I'll be sad and nobody wants that.
+Once the custard has cooled slightly (warm but not "ouch" hot), whisk in the buttermilk, vanilla, and salt. The buttermilk adds this subtle tang that balances all the rich caramel sweetness later. Don't add it when the custard is too hot or the acidity will cause it to separate, and then you'll be sad and I'll be sad and nobody wants that.
 
 Cool over an ice bath, stirring occasionally, then refrigerate at least 4 hours or overnight. Overnight is better—it lets the buttermilk flavor integrate fully. Plus it gives you an excuse to pour yourself a glass of that whiskey you definitely bought just for the recipe.
 
@@ -2047,9 +2047,9 @@ Cool over an ice bath, stirring occasionally, then refrigerate at least 4 hours 
 
 Churn the buttermilk custard until it reaches soft-serve consistency. The buttermilk makes this slightly tangy and creamy in a way that's different from regular custard—almost like frozen yogurt's fancy older sibling who studied abroad.
 
-Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, you coward), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
+Now the fun part. Layer into your storage container: spread one-third of the ice cream, drizzle some whiskey caramel (be generous, don't be shy), scatter brown bread crumble clusters. Repeat twice more. Use a knife to gently swirl the caramel through—you want ribbons and pockets, not complete integration. Think "art" not "stirred to oblivion."
 
-Don't overmix or the bread will get soggy, homie. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole damn point.
+Don't overmix or the bread will get soggy, pal. You didn't spend all that time making perfect crunchy bread candy to turn it into mush. You want distinct clusters of crunchy caramelized bread throughout, not bread-flavored sadness. The contrast between creamy custard and crunchy bread is the whole entire point.
 
 Freeze at least 4 hours before serving. Yes, four hours. No, you cannot "just check if it's ready" after two. Go do something else. Touch grass. Call your mother. The ice cream will be there when you get back.
 
@@ -2093,7 +2093,7 @@ The bread crumble will stay crunchy for several days in the freezer, but over ti
 
 If you want maximum crunch, eat this ice cream within 3-4 days of making it. I believe in you. This will not be difficult.
 
-You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do, buddy. Now you know their secrets. Use this power wisely.
+You can also reserve some of the bread crumble and sprinkle it on top just before serving for guaranteed crunch, which is what fancy restaurants do, pal. Now you know their secrets. Use this power wisely.
 
 **Make-ahead timeline:**
 
@@ -2115,7 +2115,7 @@ Creamy and tangy from the buttermilk custard, with these incredible clusters of 
 
 The whole grain character from the brown bread keeps it from being one-note sweet—there's nuttiness and complexity and a certain "I'm an adult who eats sophisticated things" energy, even though you're literally eating bread ice cream in your kitchen at 11pm.
 
-It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
+It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely wildly addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
 
 ---
 
@@ -2234,13 +2234,13 @@ Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than 
 
 *Tropical fruit meets caffeine*
 
-**Difficulty:** LEGIT - You've got three separate components here (candied coffee beans, coffee-panela caramel, and guava custard), plus some candy work at soft ball stage. The caramel moves faster than bad news and the timing matters, but nothing here will actually break you. You'll watch a thermometer, stand around feeling like a creep while things caramelize, and feel pretty damn accomplished when it's done.
+**Difficulty:** LEGIT - You've got three separate components here (candied coffee beans, coffee-panela caramel, and guava custard), plus some candy work at soft ball stage. The caramel moves faster than bad news and the timing matters, but nothing here will actually break you. You'll watch a thermometer, stand around feeling like a creep while things caramelize, and feel pretty darn accomplished when it's done.
 
 **Total Time:** 6-8 hours (includes 2-4 hours of coffee beans drying while you do literally anything else, plus 4+ hours custard chilling)
 
-Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
+Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely ridiculously delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
 
-More components than strictly necessary, but they all earn their place. No freeloaders here, homie.
+More components than strictly necessary, but they all earn their place. No freeloaders here, friend.
 
 ## Ingredients
 
@@ -2274,7 +2274,7 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, friend.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it, pal.
 
 Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
@@ -2290,7 +2290,7 @@ Strain through a fine-mesh sieve to remove any lumps or weird bits. Cool complet
 
 **Coffee-Panela Caramel Swirl:**
 
-Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
+Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, friend.
 
 Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
 
@@ -2310,7 +2310,7 @@ Cook over medium-low heat, stirring constantly with a spatula, until the custard
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Fold in that cooled guava syrup while the custard is still warm, whisking until completely incorporated. Should turn this gorgeous bright pink and smell of tropical guava.
 
-Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
+Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as can be.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -2332,7 +2332,7 @@ Already contains panela, giving it authentic Colombian depth. If unavailable, us
 
 **Panela:**
 
-Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, pal.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine, friend.
 
 **Coffee:**
 
@@ -2356,7 +2356,7 @@ Bright pink guava base with dark brown coffee-caramel swirls and glossy dark can
 
 **What it tastes like:**
 
-Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
+Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, friend.
 
 ---
 
