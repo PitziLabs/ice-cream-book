@@ -50,14 +50,14 @@ ice_cream_book/
 ├── .git/                          # Git repository
 ├── front_matter/                  # Book introduction (9 files, ~31KB)
 │   ├── 01_table_of_contents.md
-│   ├── 01b_title_and_intro.md
-│   ├── 02_what_makes_different.md
-│   ├── 03_philosophy.md
-│   ├── 04_how_to_use.md
-│   ├── 05_difficulty_ratings.md
-│   ├── 06_the_flavors.md
-│   ├── 07_custard_fundamentals.md
-│   └── 08_final_thoughts.md
+│   ├── 02_title_and_intro.md
+│   ├── 03_what_makes_different.md
+│   ├── 04_philosophy.md
+│   ├── 05_how_to_use.md
+│   ├── 06_difficulty_ratings.md
+│   ├── 07_the_flavors.md
+│   ├── 08_custard_fundamentals.md
+│   └── 09_final_thoughts.md
 ├── recipes/                       # Individual recipes (27 files, ~325KB)
 │   ├── 01_cardamom_pistachio_kulfi.md
 │   ├── 02_vietnamese_avocado.md
@@ -518,7 +518,7 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 6. **Check all required elements** are present before completing edits
 7. **Test compilation** after significant changes (optional but recommended)
 8. **Write descriptive commit messages** in imperative mood
-9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/06_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
+9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/07_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
 
 ### Dual-Version Markers
 
@@ -886,7 +886,7 @@ grep -r "â€"" recipes/
 - **README.md** - Workflow documentation
 - **EXAMPLE_recipe_02_chili_mango.md** - Complete example recipe
 - **EXAMPLE_front_matter_01_title_and_intro.md** - Front matter example
-- **front_matter/07_custard_fundamentals.md** - Comprehensive custard tutorial
+- **front_matter/08_custard_fundamentals.md** - Comprehensive custard tutorial
 
 ---
 
