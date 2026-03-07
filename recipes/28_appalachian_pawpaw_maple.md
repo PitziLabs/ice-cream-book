@@ -6,6 +6,8 @@
 
 **Total Time:** 6-8 hours (includes 4+ hours custard chilling, plus the entire year you spent waiting for pawpaw season to arrive again)
 
+**Allergen Information:** Tree nuts (walnuts)
+
 Listen, homie—this recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
 
 This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's difficult as hell to source the star ingredient. That's the point.
@@ -97,10 +99,6 @@ The brittle can be made days in advance and stored airtight. The bourbon-maple g
 
 **About the Bourbon-Maple Glaze:** 
 This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
-
-**Allergen Information:** 
-Contains: Tree nuts (walnuts)
-
 **Why OVERKILL Difficulty:** 
 Not because the technique is hard, but because sourcing pawpaws is a goddamn treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's pretty fucking cool.
 

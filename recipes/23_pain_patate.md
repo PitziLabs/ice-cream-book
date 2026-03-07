@@ -6,6 +6,8 @@
 
 **Total Time:** 12-14 hours (most of that is passive drying and chilling while you do literally anything else with your life)
 
+**Allergen Information:** 
+
 Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
 
 This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
@@ -183,8 +185,5 @@ While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain p
 **What it tastes like:**
 
 Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nutmeg, ginger, cloves, star anise), rich banana-coconut base, rum depth throughout, lime brightness, pockets of rum-soaked raisins. Tastes like celebration, like home, like Haiti. Tastes like love made frozen, homie.
-
-**Allergen Information:** Contains coconut (tree nut)
-
 ---
 

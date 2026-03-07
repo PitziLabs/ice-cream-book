@@ -146,11 +146,6 @@ The key is keeping it dry and airtight until you're ready to use it. Even a litt
 
 Breaking it into stages: Day 1 - make pastry crumble and roast apples. Day 2 - make custard. Day 3 - churn and serve. This way it never feels overwhelming.
 
-**What it tastes like:**
-
-Caramelized apples up front - sweet, tart, with that deep butter-caramel complexity that only comes from proper roasting. Vanilla provides a classic French patisserie note. Subtle calvados adds this boozy apple depth without being overwhelming or identifiable as "alcohol" - it just makes the apple flavor taste more complete. The pastry crumbles provide crucial textural contrast - buttery, crispy, tasting exactly like good pie crust.
-
-When you hit a chunk of roasted apple, you get this burst of concentrated tart-sweet apple with jammy edges, just like biting into an actual Tarte Tatin. The whole thing tastes like you deconstructed the famous French tart and turned it into frozen custard. Sophisticated without being fussy, classic without being boring - exactly what you want when you're eating dessert for breakfast and feeling absolutely no shame about it.
 
 **Serving suggestion:**
 
@@ -158,5 +153,11 @@ Serve this with a small glass of calvados on the side for adults - the apple bra
 
 Small scoops work best - this is rich and intensely flavored. The pastry crumbles stay crunchiest for the first few days, so eat it relatively fresh if you want maximum textural contrast.
 
+
+**What it tastes like:**
+
+Caramelized apples up front - sweet, tart, with that deep butter-caramel complexity that only comes from proper roasting. Vanilla provides a classic French patisserie note. Subtle calvados adds this boozy apple depth without being overwhelming or identifiable as "alcohol" - it just makes the apple flavor taste more complete. The pastry crumbles provide crucial textural contrast - buttery, crispy, tasting exactly like good pie crust.
+
+When you hit a chunk of roasted apple, you get this burst of concentrated tart-sweet apple with jammy edges, just like biting into an actual Tarte Tatin. The whole thing tastes like you deconstructed the famous French tart and turned it into frozen custard. Sophisticated without being fussy, classic without being boring - exactly what you want when you're eating dessert for breakfast and feeling absolutely no shame about it.
 ---
 

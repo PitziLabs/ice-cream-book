@@ -6,6 +6,8 @@
 
 **Total Time:** 8-10 hours (includes 4+ hours soaking cashews while you do literally anything else, plus 4+ hours base chilling because patience is a virtue you're learning)
 
+**Allergen Information:** Tree nuts (cashews)
+
 **VEGAN**
 
 Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
@@ -152,10 +154,6 @@ Creamy tan-beige base with golden toasted coconut flakes, caramel-colored candie
 **Serving note:**
 
 Let this sit at room temperature for 5-10 minutes before scooping. Allows the fats to soften and flavors to come forward. The caramel ribbons soften faster than the base, creating nice textural contrast that's worth the wait.
-
-**Allergen Information:** 
-Contains: Tree nuts (cashews)
-
 **Make-Ahead:** 
 Candied cashews can be made up to a week ahead and stored airtight. Toasted coconut keeps for 3-4 days airtight. Piri piri caramel keeps refrigerated for up to a week. The base benefits from overnight chilling for best flavor development.
 

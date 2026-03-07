@@ -6,14 +6,13 @@
 
 **Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other shit)
 
+**Allergen Information:** 
+
 Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, homie. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually addictive as hell.
 
 Adding rose water is traditional in Turkish sweets - it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
 
 This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move, friend.
-
-**Allergen Information:** Contains sesame (tahini and halva), tree nuts (pistachios). This is definitely not for anyone with sesame or nut allergies.
-
 ## Ingredients
 
 **Tahini Custard Base:**
@@ -132,15 +131,16 @@ The halva chunks soften slightly when frozen but maintain their characteristic c
 
 The candied pistachios stay crunchy because of the sugar coating protecting them from moisture. Between those and the halva, you get good textural variety against the creamy tahini base - crunch, chew, and smooth all in one bite.
 
-**What it tastes like:**
-
-Rich, deeply nutty, intensely sesame-forward from the tahini base, with pockets of even more concentrated sesame sweetness from the halva chunks that melt on your tongue and leave behind that characteristic chalky-but-pleasant texture. The rose water comes through as this subtle floral note that makes everything feel more elegant and complex - you might not be able to identify it immediately if you've never had it before, but you'd definitely notice if it wasn't there. It's like the difference between good vanilla extract and vanilla-flavored whatever - one adds depth, the other just adds sweet. Candied pistachios add crunch and reinforce that classic Middle Eastern flavor combination. The honey swirl brings concentrated sweetness and ties the rose water through the whole thing, creating ribbons of floral honey that punctuate the nutty richness.
-
-This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will lose their fucking minds over this. People who think vanilla is adventurous might find it too intense. Know your audience, chief.
 
 **Serving suggestion:**
 
 Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the freshness of the mint cuts through the richness beautifully. Pairs beautifully with baklava if you want to go full Turkish dessert experience, but honestly it's rich enough to stand alone. A small scoop goes a long way - this is dense and intensely flavored, not a three-scoop-in-a-waffle-cone situation. If you want to go full Turkish dessert spread, serve with fresh figs when they're in season and a drizzle of extra honey on the plate. The combination of cold tahini ice cream with warm figs is actually incredible.
 
+
+**What it tastes like:**
+
+Rich, deeply nutty, intensely sesame-forward from the tahini base, with pockets of even more concentrated sesame sweetness from the halva chunks that melt on your tongue and leave behind that characteristic chalky-but-pleasant texture. The rose water comes through as this subtle floral note that makes everything feel more elegant and complex - you might not be able to identify it immediately if you've never had it before, but you'd definitely notice if it wasn't there. It's like the difference between good vanilla extract and vanilla-flavored whatever - one adds depth, the other just adds sweet. Candied pistachios add crunch and reinforce that classic Middle Eastern flavor combination. The honey swirl brings concentrated sweetness and ties the rose water through the whole thing, creating ribbons of floral honey that punctuate the nutty richness.
+
+This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will lose their fucking minds over this. People who think vanilla is adventurous might find it too intense. Know your audience, chief.
 ---
 

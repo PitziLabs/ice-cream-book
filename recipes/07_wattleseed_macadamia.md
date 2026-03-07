@@ -6,6 +6,8 @@
 
 **Total Time:** 6-8 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
 
+**Allergen Information:** 
+
 Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
 
 Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
@@ -120,19 +122,19 @@ Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 time
 
 This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage, dude.
 
-**What it tastes like:**
-
-Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
 
 **Visual:**
 
 Warm tan-coffee colored base studded with golden-brown candied macadamia pieces and deep amber golden syrup ribbons. Earthy and elegant. Looks expensive even though you made it in your kitchen.
 
+
 **Serving note:**
 
 Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
 
-**Allergen Information:** Contains tree nuts (macadamias)
 
+**What it tastes like:**
+
+Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
 ---
 

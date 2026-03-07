@@ -123,11 +123,6 @@ The rice milk infusion can be made up to 2 days ahead and refrigerated. The cand
 
 Day one: make rice milk and candied almonds. Day two: make custard and swirl, churn, assemble. Breaking it up like this means it never feels overwhelming - you're doing one or two tasks per day instead of everything at once.
 
-**What it tastes like:**
-
-Creamy and sweet up front, then warm cinnamon that builds as you eat, with a subtle rice-y sweetness underneath everything - almost like rice pudding but cleaner, less starchy. The almond extract and candied almonds add this nutty depth without being obvious about it - it just makes the whole thing taste more complete, more layered. The cinnamon swirl gives you pockets of concentrated spice and caramel sweetness that punch through the richness. Texture-wise, the candied almonds provide crucial crunch against the creamy base.
-
-If you've had good horchata, you'll immediately recognize the flavor profile, but it's richer and more complex than the drink. If you haven't, imagine if rice pudding and cinnamon toast had a frozen baby. That's this.
 
 **Serving suggestion:**
 
@@ -135,5 +130,11 @@ This is excellent on its own, but holy shit does it work next to chocolate - chu
 
 Small to medium scoops work best - this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
 
+
+**What it tastes like:**
+
+Creamy and sweet up front, then warm cinnamon that builds as you eat, with a subtle rice-y sweetness underneath everything - almost like rice pudding but cleaner, less starchy. The almond extract and candied almonds add this nutty depth without being obvious about it - it just makes the whole thing taste more complete, more layered. The cinnamon swirl gives you pockets of concentrated spice and caramel sweetness that punch through the richness. Texture-wise, the candied almonds provide crucial crunch against the creamy base.
+
+If you've had good horchata, you'll immediately recognize the flavor profile, but it's richer and more complex than the drink. If you haven't, imagine if rice pudding and cinnamon toast had a frozen baby. That's this.
 ---
 

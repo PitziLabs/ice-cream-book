@@ -6,6 +6,8 @@
 
 **Total Time:** 8-10 hours (includes hunting down kataifi dough, candy-making, and overnight chilling while you wonder if putting goat cheese in ice cream is a mistake—it's not)
 
+**Allergen Information:** 
+
 Knafeh is the undisputed queen of Levantine desserts, originating from Nablus. Traditionally, it's this insane combination of shredded phyllo dough (*kataifi*) layered with warm, stretchy, salty cheese, soaked in scented sugar syrup, and topped with pistachios. It's salty, sweet, crunchy, gooey, and floral all at once.
 
 This ice cream takes that hot, gooey experience and freezes it without losing the soul of the dish. We're swapping the hard-to-find Nabulsi cheese for a blend of goat cheese (for the funk and salt) and cream cheese (for the texture). We're candying the kataifi until it's essentially sweet pasta-brittle to ensure it stays crunchy in the freezer. And we're tying it all together with an orange blossom syrup that smells like a garden.
@@ -100,5 +102,3 @@ Stark white base (from the fresh cheeses) contrasting with deep amber candied pa
 
 **What it tastes like:**
 Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, pal. It hits every part of your palate—savory, sweet, floral, textural. It tastes like the Old City.
-
-**Allergen Information:** Contains wheat (gluten) and tree nuts (pistachios).

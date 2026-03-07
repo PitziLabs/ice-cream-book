@@ -6,6 +6,8 @@
 
 **Total Time:** 6-8 hours (most of which is ginger drying and base chilling—you'll have plenty of time to do other shit)
 
+**Allergen Information:**  Can be made without coconut for nut-free version
+
 Allspice is THE signature spice of Jamaica—it's called pimento locally and has this warm, complex flavor that tastes like cinnamon, nutmeg, and cloves all decided to have a threesome. Combined with rum-caramelized bananas, candied ginger, and a rum-butterscotch swirl, you get something that feels like a party where everyone's having a genuinely good time. Bright, spirited, deeply flavorful.
 
 You might flambe some bananas. This is optional but absolutely fucking fun, homie.
@@ -160,14 +162,14 @@ Dark brown sugar in the base, caramelized bananas, and butterscotch creates this
 
 Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice—as it should.
 
-**What it tastes like:**
-
-Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
-
-## Allergen Information
 
 **Contains:** Tree nuts (if using coconut)
 
+
 **Note:** Can be made without coconut for nut-free version
 
+
+**What it tastes like:**
+
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
 ---
