@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide for Ice Cream to Fight Over
 
-**Last Updated:** 2025-11-19
+**Last Updated:** 2026-03-07
 **Repository:** ice_cream_book
 **Project Type:** Modular Markdown-based Cookbook
 
@@ -48,13 +48,14 @@
 ```
 ice_cream_book/
 ├── .git/                          # Git repository
-├── front_matter/                  # Book introduction (8 files, ~31KB)
+├── front_matter/                  # Book introduction (9 files, ~31KB)
 │   ├── 01_title_and_intro.md
+│   ├── 01b_table_of_contents.md
 │   ├── 02_what_makes_different.md
 │   ├── 03_philosophy.md
 │   ├── 04_how_to_use.md
-│   ├── 05_the_flavors.md
-│   ├── 06_difficulty_ratings.md
+│   ├── 05_difficulty_ratings.md
+│   ├── 06_the_flavors.md
 │   ├── 07_custard_fundamentals.md
 │   └── 08_final_thoughts.md
 ├── recipes/                       # Individual recipes (27 files, ~325KB)
@@ -79,7 +80,7 @@ ice_cream_book/
 
 | Directory | Purpose | Files | Size |
 |-----------|---------|-------|------|
-| `front_matter/` | Book introduction, philosophy, fundamentals | 8 numbered files | 31KB |
+| `front_matter/` | Book introduction, TOC, philosophy, fundamentals | 9 numbered files | 31KB |
 | `recipes/` | Individual recipe files | 27 numbered files | 325KB |
 | `back_matter/` | Closing remarks | 1 file | 4KB |
 | Root | Build scripts, documentation, compiled output | 7 files | ~355KB |
@@ -285,7 +286,7 @@ Clean-only paragraph goes here.
 - Typical recipe has ~8-15 markers (profanity + casual addresses)
 - Block markers (`{{v:start}}`/`{{c:start}}`) are for rare cases where entire paragraphs differ
 
-**Migration status:** Front matter intro and recipe 13 (Atole de Anis) are converted as proof of concept. Remaining files can be converted incrementally -- any file without markers works for both versions unchanged.
+**Migration status:** All source files have been converted. Any file without markers compiles identically for both versions.
 
 ### Compilation Behavior
 
@@ -517,7 +518,7 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 6. **Check all required elements** are present before completing edits
 7. **Test compilation** after significant changes (optional but recommended)
 8. **Write descriptive commit messages** in imperative mood
-9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/05_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
+9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/06_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
 
 ### Dual-Version Markers
 
@@ -847,7 +848,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 ### File Paths Quick Reference
 
 ```
-front_matter/##_section_name.md    - Intro, philosophy, fundamentals
+front_matter/##_section_name.md    - Intro, TOC, philosophy, fundamentals
 recipes/##_recipe_name.md          - Individual recipes
 back_matter/99_closing.md          - Closing remarks
 STYLE_GUIDE.md                     - Comprehensive style documentation

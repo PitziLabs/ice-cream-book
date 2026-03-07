@@ -13,11 +13,12 @@ You'll need to manually split `Ice_Cream_to_Fight_Over_COMPLETE.md` into individ
 
 **Front Matter Files:**
 - `front_matter/01_title_and_intro.md` - From "# Ice Cream to Fight Over" through end of Introduction
+- `front_matter/01b_table_of_contents.md` - Table of Contents
 - `front_matter/02_what_makes_different.md` - "## What Makes These Recipes Different" section
-- `front_matter/03_the_flavors.md` - "## The Flavors" list
+- `front_matter/03_philosophy.md` - "## The Philosophy" section
 - `front_matter/04_how_to_use.md` - "## How to Actually Use This Book" section
-- `front_matter/05_philosophy.md` - "## The Philosophy" section
-- `front_matter/06_difficulty_ratings.md` - "## A Note on Difficulty" section
+- `front_matter/05_difficulty_ratings.md` - "## A Note on Difficulty" section
+- `front_matter/06_the_flavors.md` - "## The Flavors" list
 - `front_matter/07_custard_fundamentals.md` - "## The Custard Fundamentals" section
 - `front_matter/08_final_thoughts.md` - "## Final Thoughts" section
 
