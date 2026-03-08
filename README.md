@@ -1,5 +1,6 @@
 # Ice Cream to Fight Over - Modular Structure
 
+
 ## Quick Start
 
 ### 1. Create Directory Structure
