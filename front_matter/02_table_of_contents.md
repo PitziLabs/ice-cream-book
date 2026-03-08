@@ -16,7 +16,7 @@
 *CHILL*
 
 - [Coconut Pandan](#coconut-pandan)
-- [Bơ Chanh](#bơ-chanh)
+- [Sinh To Bo](#sinh-to-bo)
 - [Cardamom-Pistachio Kulfi](#cardamom-pistachio-kulfi)
 
 *LEGIT*
