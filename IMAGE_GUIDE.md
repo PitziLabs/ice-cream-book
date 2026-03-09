@@ -1,13 +1,14 @@
-# The "Flavor Dream" Satellite-Scale Prompt
+# The "Flavor Dream" Master Template: Satellite Surrealism
 
-A detailed, refined full-color illustration in a **clear-line comic art style** inspired by **Alex Ross, Frank Quitely, and Mœbius**. 
+**Style:** A detailed, refined full-color illustration in a **clear-line comic art style** inspired by **Alex Ross, Frank Quitely, and Mœbius**. 
 
-The scene features a **vast, sprawling aerial vista** of **[City, Country]**, with an immense scale and perspective identical to a **3D satellite map**. The landscape is highly detailed, retaining specific architectural landmarks like **[Landmark 1]** and **[Landmark 2]**, with a clear grid of streets and buildings stretching to the horizon.
+**The Vista:** A **vast, sprawling aerial vista** of **[City, Country]**, rendered with the immense scale and perspective of a **3D satellite map**. The landscape is highly detailed, featuring a dense, realistic grid of streets, buildings, and specific landmarks like **[Landmark 1]** and **[Landmark 2]** stretching to the horizon.
 
-Floating **colossal, city-sized objects** loom in the pastel-colored (**[Color 1, Color 2, Color 3]**) cloudscape above. One colossal, hyper-detailed **[Primary Ingredient]** hovers centrally, casting a **massive, distinct, and physically accurate shadow** over the city blocks and geography directly below it. 
+**The Anomalies:** * **Primary:** One colossal, city-sized, hyper-detailed **[Primary Ingredient]** hovers centrally in a pastel cloudscape (**[Color 1, Color 2, Color 3]**). It must cast a **massive, distinct, and physically accurate shadow** over the specific city blocks directly below it.
+* **Secondary:** Large **[Secondary Ingredients]** drift like massive moons, each casting its own **long, dramatic shadow** onto the geography.
+* **Details:** A winding river tinted **[Color/Flavor]** flows through the city. Small, stylized flying **[Vehicle Type]** move among the clouds. **[Texture/Botanical Elements]** drift through the air like cosmic dust.
 
-Surrounding it are several large, floating **[Secondary Ingredients]**, drifting like massive moons and casting their own **long, dramatic shadows** onto the landscape. A winding river flows through the scene, subtly tinted **[Color/Flavor tint]**. 
+**The Text:** Integrated into the upper third of the sky is a striking, excerpted phrase from the recipe: **"[INSERT PROFANE/STRIKING PHRASE HERE]"**. 
+* *Rendering:* The text should be rendered as either a **hand-drawn illuminated cartouche scroll** or as **surrealist 3D typography** appearing as a physical, glowing monument floating among the clouds.
 
-Small, clean, stylized flying vehicles, like **[Vehicle Type]**, navigate the cloud formations. Scattered floating **[Texture Element]** and delicate **[Botanical Element]** drift through the air. 
-
-Integrated into the scene the top-center sky, a single, elegant **illuminated cartouche scroll** holds clean, beautiful hand-drawn text: '**[TITLE]**'. The overall palette is soft and luminous, blending pastel sky tones with natural landscape colors. Decorative corner elements frame the image. **Tiny, ant-like figures and miniature cars** are visible on the ground to emphasize the immense, cosmic scale of the floating culinary anomalies.
+**The Scale:** To emphasize the "Flavor Dream" scale, **tiny, ant-like figures and miniature cars** must be visible on the ground within the shadows of the floating ingredients.
