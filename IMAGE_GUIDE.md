@@ -19,3 +19,32 @@
 **The Text:** Integrated into the sky as a **glowing, physical 3D monument** or an **illuminated cartouche** is a striking, excerpted phrase from the recipe: **"[User-Selected Striking Phrase]"**.
 
 **The Scale:** **Tiny, ant-like figures and miniature cars** must be visible on the ground within the soft shadows of the floating ingredients to emphasize the cosmic scale.
+
+---
+
+# AI Chat Protocol: Generating a Flavor Dream
+
+**Instructions for Future AI Sessions:**
+When requested to prepare a "Flavor Dream" for a recipe, you must strictly follow this interactive sequence:
+
+### **Step 1: Information Extraction**
+Read the provided recipe. Identify and extract potential candidates for the Master Template variables:
+* **Primary Ingredients:** Select 2-3 ingredients that possess distinct, interesting textures when scaled to monolithic proportions.
+* **Striking Phrases:** Isolate 3-4 short, punchy quotes directly from the recipe's text or attitude.
+* **Geographic Setting:** Determine the recipe's cultural origin city and identify 1-2 prominent, geographically accurate architectural landmarks and a natural feature (river, mountain, etc.).
+
+### **Step 2: The Pre-Flight Menu**
+**DO NOT generate the image yet.** You must first present the user with a "Pre-Flight Menu" detailing your proposed variables:
+1.  Provide the options for the Primary Ingredient.
+2.  Provide the options for the Striking Phrase.
+3.  Outline the proposed National-Culinary Palette (colors and geographic features).
+4.  Outline the proposed Geographic Setting (City, Landmarks, and stylized local vehicles).
+Ask the user to select their preferred Primary Ingredient and Striking Phrase.
+
+### **Step 3: User Confirmation**
+Wait for the user to make their selections or request adjustments to the menu options.
+
+### **Step 4: Generation and Delivery**
+Once the user locks in their choices, fill the variables into the v2.6 Master Template. When delivering the final result to the chat, you must adhere to this formatting rule:
+1. ALWAYS print out the final, completed text prompt used to generate the image.
+2. Deliver the generated image directly below the prompt.
