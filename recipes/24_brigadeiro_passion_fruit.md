@@ -60,7 +60,7 @@ Cook for 10-15 minutes, stirring constantly, until the mixture thickens signific
 
 Transfer to a buttered plate or shallow dish. Spread it out slightly to help it cool faster. Let it cool to room temperature, then refrigerate for at least 2 hours until firm enough to roll. Should be fudge-like and hold its shape, not some sad puddle of chocolate regret.
 
-Once chilled, butter your hands lightly (this prevents sticking). Scoop about 1 teaspoon of brigadeiro at a time and roll into small balls, about 1/2 inch diameter. You want these small because they're going into ice cream—bite-sized intensity bombs.
+Once chilled, butter your hands lightly (this prevents sticking). Scoop about 1 teaspoon of brigadeiro at a time and roll into small balls, about 1/2-inch diameter. You want these small because they're going into ice cream—bite-sized intensity bombs.
 
 Pour chocolate sprinkles into a shallow bowl. Roll each brigadeiro ball in the sprinkles until coated. Place on a parchment-lined plate.
 
@@ -74,7 +74,7 @@ Cut the passion fruits in half. Scoop out the pulp and seeds into a fine-mesh si
 
 In a small saucepan, whisk together the passion fruit juice, reserved seeds, sugar, and egg yolks until smooth. Add a pinch of salt.
 
-Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175 degrees Fahrenheit. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
+Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175°F. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
 
 Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively tropical as hell.
 
@@ -96,7 +96,7 @@ Cool to room temperature, then refrigerate. Should be thick but pourable when co
 
 **Make Brigadeiro-Style Chocolate Base:**
 
-In a medium saucepan, combine cream, milk, and sweetened condensed milk. Heat until steaming, about 170 degrees Fahrenheit. Don't boil it.
+In a medium saucepan, combine cream, milk, and sweetened condensed milk. Heat until steaming, about 170°F. Don't boil it.
 
 Add the chopped dark chocolate and cocoa powder. Let sit for 1 minute to soften the chocolate, then whisk until completely smooth and glossy.
 
@@ -106,7 +106,7 @@ In a separate bowl, whisk together egg yolks and sugar until thick and pale.
 
 Temper the yolks by slowly drizzling about a cup of the hot chocolate mixture into them while whisking constantly. Once tempered, pour everything back into the saucepan.
 
-Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175 degrees Fahrenheit. Takes about 5-8 minutes. Should coat the spatula and leave a clear line when you run your finger through it.
+Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175°F. Takes about 5-8 minutes. Should coat the spatula and leave a clear line when you run your finger through it.
 
 Pull it off the heat. Stir in vanilla and salt. Strain through a fine-mesh sieve into a clean bowl to remove any bits of cooked egg.
 
@@ -128,75 +128,22 @@ Freeze at least 4 hours or overnight.
 
 ## Notes
 
-**Brigadeiro cultural context:**
+**The Soul of Brigadeiro:**
+Brigadeiro is to Brazil what chocolate chip cookies are to America—THE childhood sweet, the birthday party staple, the thing everyone's grandmother makes. Created in the 1940s during Brigadier Eduardo Gomes's presidential campaign, these chocolate fudge balls became so popular they outlasted the campaign by about 80 years and counting. Traditional brigadeiro relies entirely on the caramelized milk sugars and thick texture of sweetened condensed milk (Moça is traditional, but Nestlé or Eagle Brand work). You absolutely cannot substitute regular milk and sugar here, homie. And don't skimp on the sprinkles—authentic Brazilian granulado (chocolate sprinkles) are non-negotiable for the true experience.
 
-Brigadeiro is to Brazil what chocolate chip cookies are to America—THE childhood sweet, the birthday party staple, the thing everyone's grandmother makes. Created in the 1940s during Brigadier Eduardo Gomes's presidential campaign, these chocolate fudge balls became so popular they outlasted the campaign by about eighty years and counting.
+**Passion Fruit Sourcing:**
+Maracuja (passion fruit) is EVERYWHERE in Brazilian cuisine. Fresh juice at breakfast, mousses for dessert, ice cream at the beach. Fresh is always better if you can get it—look for wrinkled passion fruits that feel heavy for their size, which means they're ripe and juicy inside. Frozen passion fruit pulp (found at Latin American markets) works well in a pinch. It usually comes pre-seeded, which saves effort but loses some textural interest. If using frozen, you'll need about half a cup.
 
-Every Brazilian has memories of brigadeiros at birthday parties, weddings, baby showers, and random Tuesday afternoons when someone felt like making them. The traditional version is just sweetened condensed milk, cocoa powder, and butter cooked until thick, rolled in chocolate sprinkles. Simple ingredients, perfect execution, eternal love.
+**Chocolate Quality & Cocoa:**
+Use good dark chocolate (60-70% cacao) for the base. You want complexity here, not just sweetness. The sweetened condensed milk provides plenty of sweetness, so the chocolate should bring depth and slight bitterness to balance. Pair that with Dutch-process (alkalized) cocoa—it's smoother, darker, and less acidic than natural cocoa. Traditional brigadeiro uses Nestlé or Garoto brand cocoa powder, which are both Dutch-process.
 
-This ice cream honors that tradition by making actual brigadeiro pieces for mix-ins and using sweetened condensed milk in the base to capture that characteristic creamy-sweet richness. It's not trying to BE brigadeiro (which doesn't freeze well on its own), but to translate those flavors into frozen form.
-
-**Passion fruit in Brazil:**
-
-Maracuja (passion fruit) is EVERYWHERE in Brazilian cuisine. Fresh juice at breakfast, mousses for dessert, ice cream at the beach, cocktails at night. Brazil is one of the world's largest passion fruit producers, and the fruit is deeply embedded in daily life.
-
-The variety most common in Brazil is the yellow passion fruit, which is slightly larger and more acidic than the purple variety common elsewhere. Either works for this recipe. The key is that distinctive tart-tropical flavor and those crunchy seeds.
-
-**Fresh vs. frozen passion fruit pulp:**
-
-Fresh is always better if you can get it—more vibrant flavor, better acidity. Look for wrinkled passion fruits that feel heavy for their size—they're ripe and juicy inside.
-
-Frozen passion fruit pulp (found at Latin American or Brazilian markets) works well in a pinch. Usually comes pre-seeded, which saves effort but loses some textural interest. If using frozen, you'll need about half a cup.
-
-**Sweetened condensed milk:**
-
-This is CRITICAL to brigadeiro's character, homie. The caramelized milk sugars, the thick texture, the specific sweetness profile—can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
-
-**Dutch-process cocoa:**
-
-Dutch-process (alkalized) cocoa is smoother, darker, less acidic than natural cocoa. Traditional brigadeiro uses Nestle or Garoto brand cocoa powder, both Dutch-process. If you only have natural cocoa, it'll work but taste slightly more acidic and less smooth.
-
-**Chocolate quality:**
-
-Use good dark chocolate (60-70 percent cacao) for the base. You want complexity here, not just sweetness. The sweetened condensed milk provides plenty of sweetness, so the chocolate should bring depth and slight bitterness to balance.
-
-**The sprinkles question:**
-
-Traditional brigadeiro sprinkles are chocolate sprinkles—called granulado in Brazil. Not rainbow sprinkles, not nonpareils. Chocolate sprinkles. You can find them at any grocery store, but if you want authentic Brazilian granulado, check Latin American markets or order online.
-
-**Rolling brigadeiro:**
-
-Butter your hands lightly before rolling—prevents sticking and makes the process smoother. The mixture should be firm enough to hold shape but soft enough to roll without cracking. If it's too soft, refrigerate longer. If it's too hard, let it sit at room temperature for a few minutes.
-
-**Dulce de leche connection:**
-
+**Dulce de Leche Connection:**
 While not traditionally paired with brigadeiro, dulce de leche (doce de leite in Portuguese) is another beloved Brazilian sweet. The optional caramel here nods to that tradition and adds another layer of caramelized milk richness. Totally optional, but it does add this beautiful golden swirl that complements both the chocolate and passion fruit.
 
-**Make-ahead timeline:**
+**Make-Ahead Timeline:**
+Day one: Make brigadeiro pieces, passion fruit curd, dulce de leche caramel if using. All components can be made ahead and refrigerated. Day two: Make chocolate custard base, chill overnight. Day three: Churn and freeze. Or do it all in one long day if you're feeling ambitious as hell.
 
-Day one: Make brigadeiro pieces, passion fruit curd, dulce de leche caramel if using. All components can be made ahead and refrigerated.
+**Allergen Information:** Contains soy (check your chocolate and sprinkles).
 
-Day two: Make chocolate custard base, chill overnight.
-
-Day three: Churn and freeze.
-
-Or do it all in one long day if you're feeling ambitious as hell.
-
-**Texture notes:**
-
-The brigadeiro pieces stay soft and fudgy even when frozen due to the sweetened condensed milk—they won't freeze rock hard like chocolate chips. This creates these amazing pockets of intense fudge throughout the ice cream.
-
-The passion fruit curd provides tart ribbons that cut through the chocolate richness. The seeds add little crunchy bursts of tropical flavor.
-
-**Visual:**
-
-Dark brown chocolate base studded with darker brigadeiro fudge balls rolled in chocolate sprinkles, bright yellow-orange passion fruit curd ribbons with visible black seeds, optional golden dulce de leche swirls. Looks festive, looks Brazilian, looks like a party in a container.
-
-**What it tastes like:**
-
-Intensely chocolatey base with that characteristic brigadeiro creaminess from sweetened condensed milk. Pockets of soft chocolate fudge that melt on your tongue. Tart, tropical passion fruit curd ribbons that provide bright contrast against all that chocolate richness. Optional dulce de leche adds caramelized milk depth. The interplay between rich chocolate and tart fruit is what makes this work—neither overpowers the other, they dance together like they've been doing this for years.
-
-This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, homie. Absolutely fucking worth the effort.
-
----
-
+**What it Tastes Like:**
+Intensely chocolatey base—thick with that characteristic sweetened condensed milk richness. Soft, chewy pockets of chocolate fudge that melt on your tongue. Tart, bright yellow ribbons of passion fruit curd cutting straight through the dark chocolate—crunchy black seeds popping. Golden dulce de leche swirls adding caramelized depth. Rich meets bright. Chocolate meets fruit. Tastes like a party. Tastes like Brazilian joy made frozen. Absolutely fucking worth it.
