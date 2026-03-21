@@ -1,0 +1,42 @@
+# .github/workflows/trigger-deploy.yml
+#
+# Recipe content changed → tell the infra repo to redeploy.
+#
+# This workflow lives in cpitzi/ice_cream_book and sends a
+# repository_dispatch event to cpitzi/aws-lab-infra whenever
+# recipe markdown files change on main.
+#
+# The infra repo's deploy.yml listens for this event and runs
+# the full build & deploy pipeline (Astro build → Docker → ECR → ECS).
+#
+# Authentication: uses a fine-grained PAT stored as DEPLOY_TRIGGER_PAT
+# in this repo's secrets. The PAT needs Contents: Read+Write on aws-lab-infra.
+# (GITHUB_TOKEN can't do cross-repo dispatch — it's scoped to this repo only.)
+
+name: Trigger Deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'recipes/**'       # Only fire when actual recipe content changes
+      - 'front_matter/**'  # Or book front/back matter
+      - 'back_matter/**'
+
+jobs:
+  notify-infra:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger deploy in aws-lab-infra
+        run: |
+          curl -L \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.DEPLOY_TRIGGER_PAT }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/cpitzi/aws-lab-infra/dispatches \
+            -d '{"event_type":"recipe-updated","client_payload":{"sha":"${{ github.sha }}","message":"${{ github.event.head_commit.message }}"}}'
+
+          echo "✅ Dispatch sent to cpitzi/aws-lab-infra"
+          echo "   Event: recipe-updated"
+          echo "   Commit: ${{ github.sha }}"
