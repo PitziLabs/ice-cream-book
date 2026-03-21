@@ -162,14 +162,14 @@ Dark brown sugar in the base, caramelized bananas, and butterscotch creates this
 
 Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice—as it should.
 
+**Cultural context:**
 
-**Contains:** Tree nuts (if using coconut)
+Jamaica's relationship with rum, banana, and allspice isn't a flavor trend—it's geography and history. Allspice (pimento) is native to Jamaica and the surrounding Caribbean, and Jamaicans have been cooking with it for centuries in everything from jerk seasoning to desserts. Rum production has been central to Caribbean economies since the 17th century, and rum-soaked fruit desserts are a staple across the islands—from Jamaican rum cake to Trinidadian black cake. Banana cultivation arrived via Southeast Asia and became one of Jamaica's major crops. These three ingredients didn't get paired because some chef had a clever idea—they grew in the same soil, lived in the same kitchens, and ended up in the same bowls because that's what was there. This ice cream respects that by letting those core flavors lead instead of treating them as exotic accents.
 
-
-**Note:** Can be made without coconut for nut-free version
-
+**Allergen Information:** Contains tree nuts (if using coconut). Can be made without coconut for nut-free version.
 
 **What it tastes like:**
 
-Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
----
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—and rum depth that builds as it melts on your tongue. Caramelized banana sweetness, not raw-fruit sweet but dark and complex. Chewy-crystalline ginger hits in pockets of concentrated heat. Dark butterscotch ribbons run through everything—concentrated, almost smoky sweetness. Optional coconut crunch adds textural contrast.
+
+Spirited. Lively. Celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."

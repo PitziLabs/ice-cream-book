@@ -107,11 +107,11 @@ If you can't find or make Irish brown bread, use good quality whole wheat bread 
 
 **Why this works:**
 
-The magic happens when you toast bread with butter and sugar - it's basically making bread into candy. The starches in the bread caramelize, the butter adds richness, and the sugar creates that crunchy toffee coating. It's the same principle as making croutons, but sweet instead of savory.
+The magic happens when you toast bread with butter and sugar—it's basically making bread into candy. The starches in the bread caramelize, the butter adds richness, and the sugar creates that crunchy toffee coating. It's the same principle as making croutons, but sweet instead of savory.
 
-Using whole wheat bread instead of white bread is crucial. Whole wheat has more complex flavors - nutty, slightly bitter, wheaty - that hold up to the caramelization and create depth. White bread would just taste like generic sweet crunchies. The whole grain character is what makes this distinctly Irish and interesting.
+Using whole wheat bread instead of white bread is crucial. Whole wheat has more complex flavors—nutty, slightly bitter, wheaty—that hold up to the caramelization and create depth. White bread would just taste like generic sweet crunchies. The whole grain character is what makes this distinctly Irish and interesting.
 
-Buttermilk in the custard serves multiple purposes: it adds tang that balances sweetness, it's culturally appropriate (very Irish), and it keeps the ice cream from being cloying despite all the caramel elements. Think of it like how sour cream cuts the richness in Eastern European desserts - same principle.
+Buttermilk in the custard serves multiple purposes: it adds tang that balances sweetness, it's culturally appropriate (very Irish), and it keeps the ice cream from being cloying despite all the caramel elements. Think of it like how sour cream cuts the richness in Eastern European desserts—same principle.
 
 **Irish whiskey vs. other whiskeys:**
 
@@ -139,7 +139,7 @@ You can also reserve some of the bread crumble and sprinkle it on top just befor
 
 **Make-ahead timeline:**
 
-The bread crumble can be made up to 3 days ahead and stored airtight at room temperature - actually, it's better if you make it a day ahead so it has time to fully harden. The whiskey caramel keeps for a week refrigerated. The custard base benefits from overnight chilling. This is naturally a two-day project: Day one, make bread crumble and caramel. Day two, make custard, churn, assemble.
+The bread crumble can be made up to 3 days ahead and stored airtight at room temperature—actually, it's better if you make it a day ahead so it has time to fully harden. The whiskey caramel keeps for a week refrigerated. The custard base benefits from overnight chilling. This is naturally a two-day project: Day one, make bread crumble and caramel. Day two, make custard, churn, assemble.
 
 **Allergen Information:**
 
@@ -153,11 +153,6 @@ If you want to go full Irish dessert spread, serve it alongside Irish coffee (th
 
 **What it tastes like:**
 
-Creamy and tangy from the buttermilk custard, with these incredible clusters of crunchy, buttery, caramelized bread that taste like fancy toffee got a whole grain education. The whiskey caramel adds depth and that classic Irish coffee note—you get caramel sweetness with a subtle boozy warmth that makes you go "oh, THAT'S why I made this."
+Tangy buttermilk custard underneath—smooth, creamy, slightly sour in the best way. Then you hit a cluster of caramelized bread and everything changes. Crunchy, buttery, almost toffee-like, with whole grain nuttiness that keeps it from being one-note sweet. Whiskey caramel runs through in ribbons—deep, boozy warmth that makes you go "oh, THAT'S why I made this."
 
-The whole grain character from the brown bread keeps it from being one-note sweet—there's nuttiness and complexity and a certain "I'm an adult who eats sophisticated things" energy, even though you're literally eating bread ice cream in your kitchen at 11pm.
-
-It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
-
----
-
+Smooth against crunchy is the real star here. You'll tell yourself "one more bite" approximately seventeen times. Absolutely fucking addictive. Comfort food disguised as sophistication.

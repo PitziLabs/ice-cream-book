@@ -145,5 +145,6 @@ Day one: Make brigadeiro pieces, passion fruit curd, dulce de leche caramel if u
 
 **Allergen Information:** Contains soy (check your chocolate and sprinkles).
 
-**What it Tastes Like:**
+**What it tastes like:**
+
 Intensely chocolatey base—thick with that characteristic sweetened condensed milk richness. Soft, chewy pockets of chocolate fudge that melt on your tongue. Tart, bright yellow ribbons of passion fruit curd cutting straight through the dark chocolate—crunchy black seeds popping. Golden dulce de leche swirls adding caramelized depth. Rich meets bright. Chocolate meets fruit. Tastes like a party. Tastes like Brazilian joy made frozen. Absolutely fucking worth it.

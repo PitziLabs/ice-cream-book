@@ -154,5 +154,3 @@ This recipe has a lot of components but none of them are hard to do ahead. Sprea
 Rich tawny-amber base with pervasive brown butter nuttiness throughout—not subtle, PERVASIVE. Sorghum's tangy-sweet complexity, and pockets of glossy bourbon-candied pecans and dark butterscotch ribbons. Tastes like Southern heritage—sophisticated enough for fine dining, comforting enough for Sunday supper after church.
 
 The triple brown butter approach (candied nuts, infused base, butterscotch swirl) creates this unified nutty depth throughout rather than one-note sweetness. It's a lot. In the best way. Like the South itself—excessive, unapologetic, absolutely fucking delicious.
-
----

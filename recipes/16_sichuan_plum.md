@@ -104,16 +104,18 @@ Classic Chinese combination that goes back centuries. In traditional Chinese med
 
 Candied ginger (tang jiang) is traditional in Chinese sweets and preserved fruits—it's been made for over a thousand years as both a confection and a digestive aid. The crystalline coating gives you textural contrast against the creamy ice cream while the ginger heat cuts through the richness. It's one of those things that just *works*, and you don't question it.
 
+**Cultural context:**
+
+Sichuan cuisine is famous for "mala"—the numbing-hot flavor profile that comes from combining Sichuan peppercorns (the numbing) with chili peppers (the hot). It's the defining characteristic of an entire regional cuisine, and it's been that way for centuries. This ice cream borrows the numbing half of that equation and pairs it with roasted plums and five-spice, which draws on a different but equally deep Chinese tradition: preserved fruits. Li hing mui, huamei, and other spiced dried plums have been popular snacks across China (and throughout the Chinese diaspora) for generations. The idea of pairing stone fruit with warming spices and a tingling sensation isn't experimental—it's deeply rooted in Chinese flavor logic. We're just freezing it.
+
 **Make-Ahead:**
 
 - Candied ginger: Make up to 2 weeks ahead, store airtight (also makes a great snack, but pace yourself)
 - Roasted plums: Make a day ahead, refrigerate (puree and chunks separately)
 - Custard base: Make the night before churning—the five-spice mellows and melds overnight in a really good way
 
-Spread this out and it's barely any work on churn day. Don't be a hero, chief. Use the time.
+Spread this out and it's barely any work on churn day. Don't be a hero. Use the time.
 
 **What it tastes like:**
 
-Deep, wine-like plum flavor up front, then warm five-spice—especially that licorice-y star anise note—then occasional pockets of crystalline-chewy ginger that add heat and texture. You might notice a subtle tingling sensation from the Sichuan peppercorns that makes your tongue feel alive. Complex and sophisticated without being pretentious about it. Like wearing a really nice jacket to a barbecue.
-
----
+Deep wine-like plum up front—not candy-sweet, real plum, dark and jammy with tart edges. Five-spice builds underneath, warm and complex—especially that licorice-y star anise note humming through everything. Crystalline-chewy ginger hits in pockets of concentrated heat and texture. Then a subtle tingling across your tongue from the Sichuan peppercorns—not spicy exactly, just this electric alive feeling that makes everything taste brighter and more interesting. Complex and sophisticated without being pretentious about it. Like wearing a really nice jacket to a barbecue, chief.

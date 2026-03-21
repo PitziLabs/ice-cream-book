@@ -60,7 +60,7 @@ ice_cream_book/
 │   └── 09_final_thoughts.md
 ├── recipes/                       # Individual recipes (27 files, ~325KB)
 │   ├── 01_cardamom_pistachio_kulfi.md
-│   ├── 02_vietnamese_avocado.md
+│   ├── 02_sinh_to_bo.md
 │   ├── ... (27 total)
 │   ├── 27_new_orleans_chicory_beignet.md
 │   └── re.sh                      # Recipe renumbering utility
@@ -363,7 +363,7 @@ Every recipe MUST have:
 - No custard anxiety
 - Minimal technique
 - Almost no opportunity for catastrophic failure
-- Examples: Bơ Chanh, basic blends
+- Examples: Sinh Tố Bơ, basic blends
 
 **LEGIT:**
 - Multiple components
@@ -715,7 +715,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 - **Cultural depth:** Recipe 07 (Wattleseed & Macadamia), Recipe 03 (Cardamom-Pistachio Kulfi)
 - **Teaching moments:** Recipe 17 (Brown Butter Pecan)
 - **Complex recipe management:** Recipe 27 (New Orleans Chicory Coffee & Beignet)
-- **Egg-free recipes:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Bơ Chanh)
+- **Egg-free recipes:** Recipe 03 (Cardamom-Pistachio Kulfi), Recipe 02 (Sinh Tố Bơ)
 
 ---
 

@@ -8,9 +8,9 @@
 
 **Allergen Information:** 
 
-Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
+Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
 
-This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
+This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
 
 ## Ingredients
 
@@ -78,11 +78,11 @@ Add brown sugar and butter, stir until melted and combined. Simmer gently for 5-
 
 Pull it off the heat, add a squeeze of lime juice. Cool completely, then refrigerate.
 
-The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth—like a pirate's treasure chest if it was edible.
+The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth—like a pirate's treasure chest if it was edible.
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk. Should smell nutty and tropical.
 
 Transfer to a plate immediately to stop cooking. Cool completely. Store airtight.
 
@@ -90,11 +90,11 @@ Transfer to a plate immediately to stop cooking. Cool completely. Store airtight
 
 Peel the bananas and cut into 1/2-inch thick rounds. Melt butter in a large skillet over medium-high heat. Add the brown sugar, stir until melted and bubbling, about 1 minute.
 
-Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding together.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding together.
 
-Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
-Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
+Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
 
 Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smooth. Should be thick, mahogany-colored, deeply spiced. Chop the remaining 1/3 into 1/2-inch pieces. Refrigerate both separately.
 
@@ -102,9 +102,9 @@ Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smoot
 
 Combine heavy cream, coconut milk, and evaporated milk in a saucepan. Add the whole star anise and half the lime zest.
 
-Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
+Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
 
-Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
+Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
 
 **Make Custard:**
 
@@ -114,15 +114,15 @@ Make your custard with egg yolks using the standard method to 170-175°F. The mi
 
 Pull it off the heat. Stir in vanilla, salt, and the remaining fresh lime zest. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
+Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
 
-Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
+Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
 
 Refrigerate at least 4 hours or overnight for best flavor development.
 
 **Churn:**
 
-Churn until soft-serve—may take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
+Churn until soft-serve—may take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
 
 Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-raisin swirl with raisins in ribbons, repeat twice. Gently swirl with a knife.
 
@@ -132,13 +132,13 @@ Freeze 4+ hours.
 
 **Pain patate context:**
 
-This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions—weddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
+This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions—weddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
 
 Represents Haitian home cooking at its most comforting and celebratory. This captures the essential flavors without sweet potato (which doesn't translate to ice cream well), doubling down on banana instead.
 
 **Haitian spice tradition:**
 
-This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
+This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
 
 **Rum selection:**
 
@@ -152,7 +152,7 @@ Pain patate traditionally uses BOTH, creating this specific richness and sweetne
 
 **Bananas:**
 
-Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
+Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
 
 **Raisins:**
 
@@ -160,7 +160,7 @@ Golden raisins are traditional in pain patate. The rum-raisin swirl pays homage 
 
 **Lime zest:**
 
-ESSENTIAL for brightness. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
+ESSENTIAL for brightness. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
 
 **Texture note:**
 
@@ -176,14 +176,12 @@ Or do it all in one long day if you're committed to the chaos.
 
 **Visual:**
 
-Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting—looks like comfort food, tastes like home.
+Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting—looks like comfort food, tastes like home.
 
 **Cultural authenticity:**
 
-While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration—it's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
+While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration—it's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
 
 **What it tastes like:**
 
-Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nutmeg, ginger, cloves, star anise), rich banana-coconut base, rum depth throughout, lime brightness, pockets of rum-soaked raisins. Tastes like celebration, like home, like Haiti. Tastes like love made frozen, homie.
----
-
+Dense. Intensely spiced. Deeply satisfying. Warm five-spice—cinnamon, nutmeg, ginger, cloves, star anise—over a rich banana-coconut base with rum depth throughout. Lime brightness keeps it honest. Pockets of rum-soaked raisins burst with boozy sweetness. Tastes like celebration, like home, like Haiti.
