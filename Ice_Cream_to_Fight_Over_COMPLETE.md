@@ -457,21 +457,21 @@ Creamy coconut richness with this incredible aromatic complexity from the pandan
 
 ---
 
-# Sinh To Bo
+# Sinh Tố Bơ
 
 *Vietnam's beloved avocado smoothie, frozen solid and ready to fight*
 
-**Difficulty:** CHILL - This is almost offensively easy, homie. You're blending ripe avocado with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological - your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly scrambled.
+**Difficulty:** CHILL - This is almost offensively easy, homie. You're blending ripe avocado with sweetened condensed milk and lime juice, then freezing the result. No heating, no tempering, no custard anxiety. The only challenge is psychological—your Western brain is going to scream "avocado is for guacamole, not dessert!" but Vietnamese cuisine has known for generations that avocado's buttery richness works beautifully in sweets. Trust the process, blend the fruit, and prepare to have your assumptions thoroughly fucking scrambled.
 
 **Total Time:** 4-6 hours (15 minutes active work, the rest is just freezing while you contemplate how wrong this seemed before you tasted it)
 
-Sinh to bo - Vietnam's avocado smoothie - is one of those drinks that stops Western tourists cold the first time they order it by accident. Thick, sweet, and blended with condensed milk, it tastes nothing like the savory avocado experience they were expecting. It's served at street stalls and cafes across Vietnam, often over ice, sometimes with tapioca pearls or coconut milk drizzled on top. It's a whole thing. A beloved, deeply traditional thing.
+Sinh tố bơ—Vietnam's avocado smoothie—is one of those drinks that stops Western tourists cold the first time they order it by accident. Thick, sweet, and blended with condensed milk, it tastes nothing like the savory avocado experience they were expecting. It's served at street stalls and cafes across Vietnam, often over ice, sometimes with tapioca pearls or coconut milk drizzled on top. It's a whole thing. A beloved, deeply traditional thing.
 
-This recipe is that drink, frozen. That's it. We're not reinventing anything or being clever about it - we're just asking what happens when you take one of Vietnam's great dessert drinks and churn it into ice cream. The answer, it turns out, is something impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory.
+This recipe is that drink, frozen. That's it. We're not reinventing anything or being clever about it—we're just asking what happens when you take one of Vietnam's great dessert drinks and churn it into ice cream. The answer, it turns out, is something impossibly creamy and smooth, subtly sweet, with avocado's natural buttery richness playing against the condensed milk's caramel notes. The lime juice keeps everything bright and prevents oxidation. It tastes like the best version of avocado you've ever had, just sweet instead of savory.
 
-The French brought condensed milk to Vietnam during colonial times, and it embedded itself into Vietnamese sweets in ways nobody planned. Avocados came later and fit naturally into that existing sweet tradition - the same way they show up in sweet drinks throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
+The French brought condensed milk to Vietnam during colonial times, and it embedded itself into Vietnamese sweets in ways nobody planned. Avocados came later and fit naturally into that existing sweet tradition—the same way they show up in sweet drinks throughout Southeast Asia and parts of Latin America. Only in the US and Europe did we collectively decide avocado had to be savory. This recipe is an invitation to unlearn that arbitrary rule.
 
-This is genuinely one of the easiest recipes in the book. If you can operate a blender, you can make this ice cream.
+This is, no shit, one of the easiest recipes in the book. If you can operate a blender, you can make this ice cream.
 
 ## Ingredients
 
@@ -488,23 +488,23 @@ This is genuinely one of the easiest recipes in the book. If you can operate a b
 
 **Prepare the Avocados:**
 
-Cut your avocados in half, remove the pits, and scoop the flesh into a blender or food processor. You want avocados that are perfectly ripe - they should yield to gentle pressure but not be mushy or brown inside. If you've got avocados that are almost there but not quite, let them sit on the counter for a day or two. This recipe doesn't work with hard, unripe avocados because they won't blend smooth and they taste bitter and grassy instead of rich and buttery.
+Cut your avocados in half, remove the pits, and scoop the flesh into a blender or food processor. You want avocados that are perfectly ripe—they should yield to gentle pressure but not be mushy or brown inside. If you've got avocados that are almost there but not quite, let them sit on the counter for a day or two. This recipe doesn't work with hard, unripe avocados because they won't blend smooth and they taste bitter and grassy instead of rich and buttery.
 
 **Blend Everything:**
 
 Add the condensed milk, heavy cream, whole milk, lime juice, salt, and vanilla (if using) to the blender with the avocados. Blend on high speed until completely smooth and uniform, about 1-2 minutes. Stop and scrape down the sides halfway through to make sure everything incorporates evenly.
 
-The mixture should be pale green, completely smooth with no chunks, and should taste like a really good avocado smoothie - sweet, creamy, bright from the lime, with that characteristic avocado richness coming through. If it tastes too rich or heavy, add another tablespoon or two of regular milk. If it's not sweet enough, add a bit more condensed milk. The lime juice is crucial - it provides acidity that balances the richness and prevents the avocado from oxidizing and turning brown.
+The mixture should be pale green, completely smooth with no chunks, and should taste like a really good avocado smoothie—sweet, creamy, bright from the lime, with that characteristic avocado richness coming through. If it tastes too rich or heavy, add another tablespoon or two of regular milk. If it's not sweet enough, add a bit more condensed milk. The lime juice is crucial—it provides acidity that balances the richness and prevents the avocado from oxidizing and turning brown.
 
 **Chill:**
 
-Pour the mixture into a container and refrigerate for at least 2 hours, or until completely cold. This step matters because churning warm or room-temperature base gives you icy, grainy texture instead of smooth creaminess.
+Pour the mixture into a container and refrigerate for at least 2 hours, or until completely cold. This step matters—churning warm or room-temperature base gives you icy, grainy texture instead of smooth creaminess. (Yes, even for a recipe this simple. Cold base, smooth ice cream. That's the deal.)
 
 **Churn:**
 
 Churn in your ice cream maker until soft-serve consistency. The mixture is already quite thick from the avocado's natural fat content, so it'll get there faster than a standard custard base. Don't over-churn or you'll incorporate too much air and make it fluffy instead of dense and creamy.
 
-Alternatively, you can skip churning entirely and just freeze the mixture in a container, stirring every 30-45 minutes for the first 3 hours to break up ice crystals. This is closer to how sinh to bo gets served on ice, and it gives you a denser, almost gelato-like texture. Either method works.
+Alternatively, you can skip churning entirely and just freeze the mixture in a container, stirring every 30-45 minutes for the first 3 hours to break up ice crystals. This is closer to how sinh tố bơ gets served on ice, and it gives you a denser, almost gelato-like texture. Either method works.
 
 **Freeze:**
 
@@ -514,17 +514,17 @@ Transfer to a freezer-safe container and freeze for at least 4 hours before serv
 
 **About the avocados:**
 
-Ripeness is everything here, friend. You need avocados that are perfectly ripe - the flesh should be bright green with no brown spots, and the texture should be buttery and smooth. Under-ripe avocados won't blend properly and taste grassy and bitter. Over-ripe avocados with brown spots will give you brown streaks in your ice cream and an off flavor. When you press gently on the avocado, it should yield but not feel mushy.
+Ripeness is everything here, friend. You need avocados that are perfectly ripe—the flesh should be bright green with no brown spots, and the texture should be buttery and smooth. Under-ripe avocados won't blend properly and taste grassy and bitter. Over-ripe avocados with brown spots will give you brown streaks in your ice cream and an off flavor. When you press gently on the avocado, it should yield but not feel mushy.
 
 Hass avocados work best because they're fattier and more flavorful than the larger, smoother-skinned varieties. The fat content matters for creating that creamy texture without eggs.
 
 **The lime juice is damn crucial:**
 
-Lime juice does two things here. First, it provides acidity that balances the richness and sweetness, keeping the ice cream from feeling heavy or cloying. Second, it prevents oxidation - without it, your beautiful green ice cream will turn brown within hours. Don't skip the lime or substitute lemon. Lime's specific flavor profile works with avocado in a way lemon doesn't.
+Lime juice does two things here. First, it provides acidity that balances the richness and sweetness, keeping the ice cream from feeling heavy or cloying. Second, it prevents oxidation—without it, your beautiful green ice cream will turn brown within hours. Don't skip the lime or substitute lemon. Lime's specific flavor profile works with avocado in a way lemon doesn't.
 
 **Cultural context:**
 
-Sinh to bo is a staple of Vietnamese street food and cafe culture - you'll find it everywhere from Hanoi to Ho Chi Minh City. The name breaks down simply: sinh to means smoothie or blended drink, and bo means avocado (also butter, which is not a coincidence - Vietnamese cuisine recognized avocado's butteriness and ran with it). It's typically made with condensed milk, sometimes coconut milk, sometimes both, always sweet. This recipe freezes that drink rather than inventing some new thing. The addition of heavy cream and the churning are the only real departures from tradition, and both exist to serve the texture goals of ice cream rather than change what the flavor is. Credit where it's due, homie.
+Sinh tố bơ is a staple of Vietnamese street food and cafe culture—you'll find it everywhere from Hanoi to Ho Chi Minh City. The name breaks down simply: sinh tố means smoothie or blended drink, and bơ means avocado (also butter, which is not a coincidence—Vietnamese cuisine recognized avocado's butteriness and ran with it). It's typically made with condensed milk, sometimes coconut milk, sometimes both, always sweet. This recipe freezes that drink rather than inventing some new thing. The addition of heavy cream and the churning are the only real departures from tradition, and both exist to serve the texture goals of ice cream rather than change what the flavor is. Credit where it's due, homie.
 
 **Make-ahead:**
 
@@ -532,11 +532,11 @@ The base can be made and refrigerated up to 24 hours before churning, though the
 
 **Visual:**
 
-Pale green, smooth and creamy, almost the color of a honeydew melon or key lime pie filling. When you scoop it, it should look dense and rich rather than fluffy and airy. No visible texture or graininess, just smooth uniformity. It looks exactly like what it is - avocado that got really serious about being a dessert.
+Pale green, smooth and creamy, almost the color of a honeydew melon or key lime pie filling. When you scoop it, it should look dense and rich rather than fluffy and airy. No visible texture or graininess, just smooth uniformity. It looks exactly like what it is—avocado that got really serious about being a dessert.
 
 **What it tastes like:**
 
-Impossibly creamy and rich, with avocado's characteristic buttery smoothness translated into a sweet context. The condensed milk adds caramel-like sweetness without being cloying. The lime keeps everything bright and prevents that heavy feeling you'd get from pure fat and sugar. It tastes tropical and subtle and fundamentally different from any other ice cream you've had. Your first bite will make you pause and recalibrate everything you thought you knew about avocado. Your second bite will make you wonder why this isn't everywhere. By the third bite you'll be a convert, and you'll be pissed nobody told you sooner.
+Buttery. That's the first hit—pure, smooth, almost obscenely rich avocado that has no business being this good frozen. Condensed milk adds caramel sweetness underneath without ever getting cloying. Lime cuts through all of it—bright, sharp, keeping the richness honest. The whole thing tastes tropical and subtle and fundamentally unlike any ice cream you've had. Smooth as hell, dense without being heavy, sweet without being loud. First bite, you pause. Second bite, you're wondering why this isn't everywhere. Third bite, you're a convert—and you're pissed nobody told you sooner.
 
 ---
 
@@ -544,13 +544,13 @@ Impossibly creamy and rich, with avocado's characteristic buttery smoothness tra
 
 *India's frozen dessert tradition, now achievable on a Tuesday*
 
-**Difficulty:** CHILL - No eggs, no churning required, just condensed milk magic and some spice infusion. The actual work is minimal—blooming saffron, grinding pistachios, warming milk—but you're working with ingredients that might be new to you (cardamom pods, saffron threads, rose water) and managing flavor balance. Plus the 6-8 hour freeze time requires patience. Not hard, just requires attention to detail and knowing when to stop with the rose water before it tastes like potpourri.
+**Difficulty:** CHILL - No eggs, no churning required, just condensed milk magic and some spice infusion. The actual work is minimal—blooming saffron, grinding pistachios, warming milk—but you're working with ingredients that might be new to you (cardamom pods, saffron threads, rose water) and managing flavor balance. Plus the 6-8 hour freeze time requires patience. Not hard, just requires attention to detail and knowing when to stop with the rose water before it tastes like potpourri.
 
 **Total Time:** 7-9 hours (20 minutes of active work mixing dairy and spices, then an eternity of waiting for it to freeze because kulfi doesn't rush for anyone)
 
-**Allergen Information:** 
+**Allergen Information:** Contains tree nuts (pistachios).
 
-Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
+Look, homie—kulfi is India's traditional frozen dessert that predates Western ice cream by centuries, and it's denser, richer, and more intensely flavored than anything you'll get from a churned custard base. Traditionally, you'd reduce milk for 2+ hours until it's thick as hell. And yeah, that tastes incredible. But you know what? Most people making kulfi at home in India TODAY use this condensed milk shortcut method, and it's not "cheating"—it's being a practical human being who has other shit to do.
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
 
@@ -593,37 +593,37 @@ Crush those saffron threads slightly between your fingers to release the oils an
 
 If your pistachios still have their papery brown skins on, blanch them: drop into boiling water for 1 minute, drain, then slip the skins off by squeezing each nut between your fingers. It's tedious but worth it for that bright green color.
 
-If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky bastard.
+If you bought pre-skinned pistachios (sold at Indian grocery stores specifically for sweets), you're ahead of the game—skip to the next step, lucky bastard.
 
-Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste—no graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
+Take about 1/2 cup of the skinned pistachios and grind them with 3 tbsp milk in a food processor or high-powered blender until you have a completely smooth paste—no graininess, no chunks. This paste gets mixed into the base for pistachio flavor throughout. Set aside.
 
-Coarsely chop the remaining 1/4 cup pistachios—these are for texture and visual appeal. Set aside separately.
+Coarsely chop the remaining 1/4 cup pistachios—these are for texture and visual appeal. Set aside separately.
 
 **Make the Base:**
 
 Pour both cans of sweetened condensed milk and both cans of evaporated milk into a large, heavy-bottomed saucepan. Add the heavy cream and milk powder if using. Add those lightly crushed cardamom pods.
 
-Whisk everything together until smooth and combined. The milk powder might clump initially—just keep whisking, it'll dissolve.
+Whisk everything together until smooth and combined. The milk powder might clump initially—just keep whisking, it'll dissolve.
 
 **Infuse Gently:**
 
 Place the saucepan over medium-low heat. You're NOT trying to boil this, dude—you're just warming it enough to infuse the cardamom flavor into the dairy. Stir occasionally to prevent anything from sticking to the bottom.
 
-Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges—about 170-180°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
+Heat until the mixture is steaming and just barely starting to show tiny bubbles around the edges—about 170-180°F if you're using a thermometer. Takes about 8-10 minutes. Should smell intensely of cardamom.
 
-Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, stirring occasionally. This isn't about reducing volume—you're just giving the cardamom time to do its thing.
+Once hot, reduce heat to low and let it simmer VERY gently for about 5 minutes, stirring occasionally. This isn't about reducing volume—you're just giving the cardamom time to do its thing.
 
 **Add the Flavor Bombs:**
 
-Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
+Remove from heat. Fish out the cardamom pods with a spoon and discard them—they've done their job. You might see some little black cardamom seeds floating around; that's fine, they're flavorful.
 
 Add the pistachio paste and whisk vigorously until it's completely incorporated into the hot mixture. Should turn slightly green and smell incredible.
 
-Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
+Pour in the bloomed saffron milk, including all those saffron threads. Stir thoroughly. The mixture should turn this pale golden color and smell absolutely INCREDIBLE—cardamom, saffron, pistachios, caramelized sweetness from the condensed milk all hanging out together.
 
 **Taste It:**
 
-This is important—stick a spoon in there and taste it while it's still warm. Should be:
+This is important—stick a spoon in there and taste it while it's still warm. Should be:
 - Sweet but not cloying (condensed milk is already sweet, so this should taste noticeably sweet)
 - Cardamom-forward (you should DEFINITELY taste the cardamom)
 - Slightly floral from saffron
@@ -635,7 +635,7 @@ If the cardamom flavor is too mild, you can add 1/2 tsp ground cardamom and stir
 
 Strain the mixture through a fine-mesh sieve into a large bowl. This catches any remaining cardamom bits or pistachio chunks you don't want in the final product.
 
-Let it cool to room temperature, stirring occasionally to prevent a thick skin from forming on top. Once it's room temp, cover and refrigerate for at least 4 hours or overnight. The mixture will thicken considerably as it chills—this is normal and good.
+Let it cool to room temperature, stirring occasionally to prevent a thick skin from forming on top. Once it's room temp, cover and refrigerate for at least 4 hours or overnight. The mixture will thicken considerably as it chills—this is normal and good.
 
 **Optional Rose Water Swirl (make while base chills):**
 
@@ -645,13 +645,13 @@ In a small bowl, mix the rose water with 2 tbsp sweetened condensed milk and a t
 
 **Freeze It:**
 
-Give the chilled mixture a good stir to recombine everything—it may have separated slightly. Stir in the chopped pistachios until evenly distributed.
+Give the chilled mixture a good stir to recombine everything—it may have separated slightly. Stir in the chopped pistachios until evenly distributed.
 
 **Traditional Method (Molds, No Churning):**
 
 Pour into kulfi molds (conical molds from Indian grocery stores), popsicle molds, or small paper cups.
 
-If using the rose water swirl: Pour some kulfi mixture into each mold, add about 1 tsp of the rose water mixture, add more kulfi mixture on top, then use a chopstick or skewer to gently swirl. Don't overmix—you want visible ribbons.
+If using the rose water swirl: Pour some kulfi mixture into each mold, add about 1 tsp of the rose water mixture, add more kulfi mixture on top, then use a chopstick or skewer to gently swirl. Don't overmix—you want visible ribbons.
 
 If your molds don't have built-in sticks, cover with foil and insert wooden popsicle sticks or skewers through the foil into the center of each mold once the mixture is partially frozen (after about 2-3 hours).
 
@@ -661,7 +661,7 @@ Freeze for at least 6-8 hours or overnight until completely solid.
 
 **Ice Cream Maker Method (If You Want):**
 
-You CAN churn this even though it's not traditional, and honestly it makes it way easier to serve in bowls. Churn the chilled base until it reaches soft-serve consistency—thick, dense, and golden. The mixture is already quite thick from the condensed milk, so expect it to take a bit longer than standard ice cream.
+You CAN churn this even though it's not traditional, and honestly it makes it way easier to serve in bowls. Churn the chilled base until it reaches soft-serve consistency—thick, dense, and golden. The mixture is already quite thick from the condensed milk, so expect it to take a bit longer than standard ice cream.
 
 In the last minute of churning, add the chopped pistachios.
 
@@ -673,7 +673,7 @@ Freeze for at least 4 hours to firm up.
 
 **The Shortcut Method Philosophy:**
 
-Traditional kulfi involves reducing whole milk down to half or even one-third of its original volume—this takes 2+ hours of constant stirring and watching. The condensed/evaporated milk method is actually how most people in India make kulfi at home these days. It's not "dumbing it down"—it's practical adaptation.
+Traditional kulfi involves reducing whole milk down to half or even one-third of its original volume—this takes 2+ hours of constant stirring and watching. The condensed/evaporated milk method is actually how most people in India make kulfi at home these days. It's not "dumbing it down"—it's practical adaptation.
 
 Think of it as the difference between making stock from scratch versus using really good store-bought stock. The homemade is better, but the shortcut still gets you great results and nobody's going to kick you out of the kitchen for taking it.
 
@@ -688,7 +688,7 @@ Together they approximate that reduced milk texture and flavor without the actua
 
 **Cardamom is ESSENTIAL:**
 
-Green cardamom is what makes kulfi taste like kulfi instead of "sweet frozen milk." It's warm, floral, slightly citrusy, and completely transforms the dairy. Crush the whole pods to release the aromatic seeds and oils—way better than using pre-ground cardamom powder which loses potency fast.
+Green cardamom is what makes kulfi taste like kulfi instead of "sweet frozen milk." It's warm, floral, slightly citrusy, and completely transforms the dairy. Crush the whole pods to release the aromatic seeds and oils—way better than using pre-ground cardamom powder which loses potency fast.
 
 If you can't find whole pods or you're in a rush, you can substitute 1 tsp ground cardamom, but add it at the end with the pistachio paste instead of infusing it. Won't be quite as aromatic but it'll work.
 
@@ -696,11 +696,11 @@ If you can't find whole pods or you're in a rush, you can substitute 1 tsp groun
 
 Real saffron threads are expensive as hell—it's literally the most expensive spice in the world by weight. But you only need a pinch (15-20 threads) and it makes a huge difference in both flavor and that gorgeous golden color. Buy from Indian or Middle Eastern grocery stores where it's usually cheaper than regular supermarkets.
 
-If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent—just won't have that luxurious golden color or subtle earthy-floral note.
+If saffron is genuinely out of your budget, you can skip it and the kulfi will still be excellent—just won't have that luxurious golden color or subtle earthy-floral note.
 
 **Pistachio Options:**
 
-Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor—don't use them.
+Raw unsalted pistachios are traditional. Roasted/salted ones will fuck up the flavor—don't use them.
 
 You can buy pre-skinned pistachios (sometimes labeled "blanched pistachios" or "slivered pistachios") at Indian grocery stores, which saves you the blanching step. They're specifically sold for making Indian sweets.
 
@@ -715,19 +715,19 @@ All are traditional variations. Pistachio is just the most iconic.
 
 Rose water is traditional in many Indian desserts and adds this delicate floral note that people either love or hate. There's no middle ground. If you've never had it, maybe make half the batch without rose water and add it to the other half so you can taste the difference.
 
-Buy rose water from Indian or Middle Eastern stores—way better quality than the extract at regular grocery stores. Brands like Cortas or Dabur are good.
+Buy rose water from Indian or Middle Eastern stores—way better quality than the extract at regular grocery stores. Brands like Cortas or Dabur are good.
 
 Use it SPARINGLY. A little is elegant. Too much tastes like you're eating grandma's perfume. Start with 2 tbsp in the swirl and adjust from there.
 
 **Texture Expectations:**
 
-Kulfi is DENSE—way denser than American ice cream. Even the churned version will be denser than what you're used to. This is because:
+Kulfi is DENSE—way denser than American ice cream. Even the churned version will be denser than what you're used to. This is because:
 - No eggs (eggs add air when churned)
 - High fat and sugar content
 - Concentrated dairy solids
 - Minimal air incorporation (especially if unmolded)
 
-This density is the POINT. Kulfi should feel rich and substantial. You eat a small portion and you're satisfied. It's not "light summer refreshment"—it's frozen milk fudge that got exotic.
+This density is the POINT. Kulfi should feel rich and substantial. You eat a small portion and you're satisfied. It's not "light summer refreshment"—it's frozen milk fudge that got exotic.
 
 **Milk Powder Addition:**
 
@@ -747,7 +747,7 @@ If you can't find traditional molds:
 **Serving Traditions:**
 
 In India, kulfi is often served with:
-- **Falooda**: Rose syrup, basil seeds, vermicelli noodles, and kulfi on top—a whole dessert experience
+- **Falooda**: Rose syrup, basil seeds, vermicelli noodles, and kulfi on top—a whole dessert experience
 - **Fresh mango**: Sliced mangoes alongside kulfi (seasonal, summer)
 - **Rabri**: Another reduced milk dessert, served together
 - **Plain**: Just kulfi with extra chopped pistachios and maybe rose petals
@@ -782,33 +782,31 @@ Traditional flavors are cardamom-pistachio-saffron, mango, or rose. But kulfi ma
 
 **Cultural Context:**
 
-Kulfi dates back to the Mughal era in 16th-century India. The word "kulfi" comes from the Persian "qulfi" meaning "covered cup"—it was traditionally frozen in metal cones packed in ice and salt. It spread throughout South Asia and is now beloved in India, Pakistan, Bangladesh, and anywhere the diaspora settled.
+Kulfi dates back to the Mughal era in 16th-century India. The word "kulfi" comes from the Persian "qulfi" meaning "covered cup"—it was traditionally frozen in metal cones packed in ice and salt. It spread throughout South Asia and is now beloved in India, Pakistan, Bangladesh, and anywhere the diaspora settled.
 
-Making kulfi at home—even with the shortcut method—connects you to centuries of tradition. It's celebration food, summer food, special occasion food. The fact that modern cooks use condensed milk instead of standing over a pot for hours doesn't make it less authentic—it makes it accessible, which means more people can enjoy it, which means the tradition continues.
+Making kulfi at home—even with the shortcut method—connects you to centuries of tradition. It's celebration food, summer food, special occasion food. The fact that modern cooks use condensed milk instead of standing over a pot for hours doesn't make it less authentic—it makes it accessible, which means more people can enjoy it, which means the tradition continues.
 
-**What It Tastes Like:**
+**What it tastes like:**
 
-Rich, sweet, intensely cardamom-forward with that characteristic warmth. Saffron adds subtle earthiness and luxury. Pistachios provide nutty depth and textural interest. The rose water swirl (if you use it) adds delicate floral notes that make everything feel elegant. The texture is dense and fudgy—you're not eating this quickly. You're savoring small bites that are deeply satisfying.
+Rich. Dense. Intensely cardamom-forward—that warm, almost minty heat spreading through everything. Saffron underneath, subtle and golden. Pistachios add nutty crunch and reinforce the green. Rose water—if you use it—floats through in delicate floral bursts that make the whole thing feel elegant without trying. The texture is fudgy and slow—you savor this in small bites, not big scoops.
 
-It tastes like India. Like summer afternoons and celebration dinners. Like your favorite street vendor or your grandmother's kitchen, depending on where you're coming from. It's familiar and exotic at the same time, which is pretty much the perfect dessert vibe.
-
-Now go make some kulfi without dedicating your afternoon to milk reduction, homie. This is the practical version that still tastes fucking amazing and honors the tradition without demanding you become a martyr to dairy.
+Tastes like India. Like summer afternoons and celebration dinners and the best street vendor's cart you've ever found. Familiar and surprising at the same time, homie.
 
 ---
 
 # Horchata
 
-*Rice, cinnamon, almonds - Mexico's agua fresca, now frozen*
+*Rice, cinnamon, almonds—Mexico's agua fresca, now frozen*
 
-**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to fuck up). The rice infusion is an extra step but it's not complicated - you're basically making horchata and then turning it into custard. Nothing here will break you, chief, just requires a bit of advance planning.
+**Difficulty:** LEGIT - You're soaking and blending rice to infuse the dairy (easy but takes time), making a cinnamon-sugar swirl (straightforward), and candying almonds (hard to fuck up). The rice infusion is an extra step but it's not complicated—you're basically making horchata and then turning it into custard. Nothing here will break you, chief, just requires a bit of advance planning.
 
-**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling - barely any actual work, )
+**Total Time:** 10-12 hours across 2 days (includes 4+ hours of rice soaking while you do literally anything else, plus overnight chilling—barely any actual work)
 
-Horchata is one of those drinks that defines Mexican street food culture - creamy, sweet, cooling, with that distinctive rice and cinnamon combo. It's what you order with tacos to balance the heat, what you drink on hot afternoons, what makes you forget you're in 95-degree weather.
+Horchata is one of those drinks that defines Mexican street food culture—creamy, sweet, cooling, with that distinctive rice and cinnamon combo. It's what you order with tacos to balance the heat, what you drink on hot afternoons, what makes you forget you're in 95-degree weather.
 
 This ice cream takes that classic flavor profile and makes it rich and frozen. The rice infusion gives you that characteristic slightly grainy sweetness, cinnamon comes through warm and aromatic, and candied almonds add crunch plus that nutty depth that traditional horchata sometimes has. It's familiar and comforting if you grew up drinking horchata, and a revelation if you didn't.
 
-Fair warning - this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal.
+Fair warning—this doesn't taste like the neon-white stuff from a restaurant drink dispenser. This is the real deal.
 
 ## Ingredients
 
@@ -847,45 +845,45 @@ Fair warning - this doesn't taste like the neon-white stuff from a restaurant dr
 
 **Rice Milk Base (start this 4-6 hours before making custard, or the night before):**
 
-Rinse the rice under cold water until the water runs clear - you're washing off excess surface starch that would make the final product gummy instead of creamy. Combine the rice, 2 cups of the milk, and the cinnamon stick in a bowl. Cover and refrigerate for at least 4 hours, or overnight. The rice needs time to soften and release its starches into the milk - this is what creates that distinctive horchata texture and flavor. You're essentially cold-brewing rice like you would coffee or tea, extracting flavor compounds and dissolved starches without cooking.
+Rinse the rice under cold water until the water runs clear—you're washing off excess surface starch that would make the final product gummy instead of creamy. Combine the rice, 2 cups of the milk, and the cinnamon stick in a bowl. Cover and refrigerate for at least 4 hours, or overnight. The rice needs time to soften and release its starches into the milk—this is what creates that distinctive horchata texture and flavor. You're essentially cold-brewing rice like you would coffee or tea, extracting flavor compounds and dissolved starches without cooking.
 
-After soaking, fish out the cinnamon stick and toss it. Pour the rice and milk mixture into a blender and blend on high for 1-2 minutes until the rice is completely pulverized - it should look like a thick, grainy white liquid, almost like if you blended up oatmeal. Don't worry if it's not perfectly smooth, pal. That slightly grainy texture is part of horchata's character.
+After soaking, fish out the cinnamon stick and toss it. Pour the rice and milk mixture into a blender and blend on high for 1-2 minutes until the rice is completely pulverized—it should look like a thick, grainy white liquid, almost like if you blended up oatmeal. Don't worry if it's not perfectly smooth, pal. That slightly grainy texture is part of horchata's character.
 
-Strain this through a fine-mesh sieve lined with cheesecloth, pressing firmly on the solids to extract as much liquid as possible. Really lean into it - you want every drop of that rice-infused milk because it's carrying dissolved starches, flavor compounds from the cinnamon, and that subtle sweetness rice develops when it soaks. What you're leaving behind is just spent rice fiber that's given up everything it has to offer.
+Strain this through a fine-mesh sieve lined with cheesecloth, pressing firmly on the solids to extract as much liquid as possible. Really lean into it—you want every drop of that rice-infused milk because it's carrying dissolved starches, flavor compounds from the cinnamon, and that subtle sweetness rice develops when it soaks. What you're leaving behind is just spent rice fiber that's given up everything it has to offer.
 
-Discard the rice solids (or compost them, or whatever - they've done their job). Add the remaining 1 cup of milk and the 1/4 tsp vanilla to your strained rice milk. You should have about 2 cups of rice milk total. Set this aside.
+Discard the rice solids (or compost them, or whatever—they've done their job). Add the remaining 1 cup of milk and the 1/4 tsp vanilla to your strained rice milk. You should have about 2 cups of rice milk total. Set this aside.
 
 **Candied Almonds (can be made up to a week ahead):**
 
-Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage) - this takes about 5-7 minutes. You need a candy thermometer for this. Don't guess.
+Line a baking sheet with parchment. Combine sugar, water, and vanilla in a medium saucepan over medium heat. Stir until the sugar dissolves completely, then stop stirring and let it cook until it reaches 240°F (soft ball stage)—this takes about 5-7 minutes. You need a candy thermometer for this. Don't guess.
 
-Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts - this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
+Add the sliced almonds and salt, and stir constantly. The mixture will look weird and sandy for a minute as the sugar crystallizes around the nuts—this is supposed to happen, don't panic. It's the sugar reverting to crystal form as it cools slightly on contact with the almonds. Keep stirring over medium heat and the sugar will melt again, coating the almonds in a glossy caramel. This transformation takes 3-5 minutes of constant stirring.
 
-When the almonds are evenly coated and golden brown, immediately spread them on the parchment in a single layer. Work fast - this sets up quicker than regret. Let cool completely, then break into smaller clusters. Store airtight until ready to use.
+When the almonds are evenly coated and golden brown, immediately spread them on the parchment in a single layer. Work fast—this sets up quicker than regret. Let cool completely, then break into smaller clusters. Store airtight until ready to use.
 
 **Cinnamon-Sugar Swirl:**
 
-Have your warmed cream, butter, and cinnamon measured and ready next to the stove - caramel moves faster than bad news and you need to be ready. Combine the sugar and water in a light-colored saucepan over medium-high heat. Don't stir - just let it cook, swirling the pan occasionally, until it reaches deep amber, about 7-10 minutes. You're looking for copper penny color.
+Have your warmed cream, butter, and cinnamon measured and ready next to the stove—caramel moves faster than bad news and you need to be ready. Combine the sugar and water in a light-colored saucepan over medium-high heat. Don't stir—just let it cook, swirling the pan occasionally, until it reaches deep amber, about 7-10 minutes. You're looking for copper penny color.
 
-Pull from heat and carefully add the warmed cream - it'll bubble violently and hiss like an angry cat, but that's normal as hell. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
+Pull from heat and carefully add the warmed cream—it'll bubble violently and hiss like an angry cat, but that's normal as hell. The temperature differential between 350°F caramel and 120°F cream creates instant steam. Whisk until smooth, then add the butter, cinnamon, and salt. Whisk thoroughly so the cinnamon distributes evenly instead of clumping into spice bombs.
 
-The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brown. Let it cool to room temperature, then refrigerate. When cold, it should be thick but pourable - honey consistency.
+The finished swirl should be smooth, fragrant with cinnamon, and deep amber-brown. Let it cool to room temperature, then refrigerate. When cold, it should be thick but pourable—honey consistency.
 
 **Make Custard:**
 
-Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming - small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
+Combine the rice milk mixture and heavy cream in a saucepan and heat until steaming—small bubbles around the edges, no rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes. This pre-mixing is important because it starts dissolving the sugar and prevents graininess in your final custard.
 
-Temper the yolks with the hot dairy mixture - you know this drill. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
+Temper the yolks with the hot dairy mixture—you know this drill. Slowly drizzle about a cup of the hot liquid into the yolks while whisking constantly, then return everything to the pan. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line.
 
-Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks - this is exactly what you want.
+Strain through a fine-mesh sieve to catch any bits of cooked egg. Stir in both extracts, ground cinnamon, and salt. The custard will be off-white with visible cinnamon specks—this is exactly what you want.
 
-Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better - it lets all those flavors meld together and gives the rice starches time to fully hydrate, which creates a smoother final texture.
+Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better—it lets all those flavors meld together and gives the rice starches time to fully hydrate, which creates a smoother final texture.
 
 **Churn and Assemble:**
 
-Churn the custard until it reaches soft-serve consistency. The rice milk makes this slightly denser than standard custard - more starch content means different freezing properties - so it might take a bit longer than you expect. Don't worry, just let it go until it's thick and creamy.
+Churn the custard until it reaches soft-serve consistency. The rice milk makes this slightly denser than standard custard—more starch content means different freezing properties—so it might take a bit longer than you expect. Don't worry, just let it go until it's thick and creamy.
 
-Layer into your storage container: spread one-third of the ice cream, drizzle some cinnamon swirl in ribbons, scatter candied almond clusters. Repeat twice more. Use a knife to gently swirl the cinnamon ripple through - you want ribbons and pockets of concentrated spice, not a uniform tan mess where everything's mixed to death.
+Layer into your storage container: spread one-third of the ice cream, drizzle some cinnamon swirl in ribbons, scatter candied almond clusters. Repeat twice more. Use a knife to gently swirl the cinnamon ripple through—you want ribbons and pockets of concentrated spice, not a uniform tan mess where everything's mixed to death.
 
 Freeze at least 4 hours before serving.
 
@@ -893,47 +891,47 @@ Freeze at least 4 hours before serving.
 
 **About the rice:**
 
-Long-grain white rice is traditional for horchata. Some recipes use jasmine rice, which adds a subtle floral note - that's fine too if you want to go that route. The key is to soak it long enough that it actually softens and releases its starches. If you're in a rush, you can soak it in warm milk (not hot, just warm) for 2-3 hours instead of cold for 4-6 hours, but overnight is still better because extended cold soaking extracts more flavor compounds without cooking anything.
+Long-grain white rice is traditional for horchata. Some recipes use jasmine rice, which adds a subtle floral note—that's fine too if you want to go that route. The key is to soak it long enough that it actually softens and releases its starches. If you're in a rush, you can soak it in warm milk (not hot, just warm) for 2-3 hours instead of cold for 4-6 hours, but overnight is still better because extended cold soaking extracts more flavor compounds without cooking anything.
 
-The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, homie. Don't skip it or try to substitute rice milk from a carton - that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
+The rice infusion is what makes this actually taste like horchata instead of just cinnamon ice cream, homie. Don't skip it or try to substitute rice milk from a carton—that stuff is designed for drinking, not for infusing into custard, and it won't give you the right flavor, texture, or that characteristic slightly grainy sweetness that makes horchata taste like horchata.
 
 **Cinnamon varieties:**
 
-Mexican canela (Ceylon cinnamon) is softer and more delicate than the cassia cinnamon you typically find in American grocery stores. It's traditional in horchata and worth seeking out if you can find it at a Mexican market or online. Tastes sweeter, less sharp, more complex - almost floral. But regular cinnamon works fine too. This isn't a dealbreaker.
+Mexican canela (Ceylon cinnamon) is softer and more delicate than the cassia cinnamon you typically find in American grocery stores. It's traditional in horchata and worth seeking out if you can find it at a Mexican market or online. Tastes sweeter, less sharp, more complex—almost floral. But regular cinnamon works fine too. This isn't a dealbreaker.
 
-For the ground cinnamon in the custard and swirl, use whatever you've got, but make sure it's relatively fresh. Cinnamon loses its potency over time - those volatile oils that make it smell and taste like cinnamon break down and evaporate. Nobody wants bland spice in their ice cream. If your cinnamon has been sitting in the cabinet for three years, spring for a fresh jar.
+For the ground cinnamon in the custard and swirl, use whatever you've got, but make sure it's relatively fresh. Cinnamon loses its potency over time—those volatile oils that make it smell and taste like cinnamon break down and evaporate. Nobody wants bland spice in their ice cream. If your cinnamon has been sitting in the cabinet for three years, spring for a fresh jar.
 
 **Almond options:**
 
-Some horchata recipes are almond-heavy, others just use them as a subtle background note. This recipe splits the difference - the almond extract gives you that nutty undertone in the base, while the candied almonds add texture and reinforce the flavor without being overwhelming. If you want more almond presence, you can increase the extract to 3/4 tsp, but don't go higher than that or it starts tasting artificial, like cheap marzipan.
+Some horchata recipes are almond-heavy, others just use them as a subtle background note. This recipe splits the difference—the almond extract gives you that nutty undertone in the base, while the candied almonds add texture and reinforce the flavor without being overwhelming. If you want more almond presence, you can increase the extract to 3/4 tsp, but don't go higher than that or it starts tasting artificial, like cheap marzipan.
 
-Sliced almonds candy better than whole almonds because they have more surface area for the caramel to grab onto. Plus they're easier to eat in ice cream - nobody wants to bite into a whole almond when they're expecting creamy frozen dessert. That's just jarring texture in the wrong way.
+Sliced almonds candy better than whole almonds because they have more surface area for the caramel to grab onto. Plus they're easier to eat in ice cream—nobody wants to bite into a whole almond when they're expecting creamy frozen dessert. That's just jarring texture in the wrong way.
 
 **Cultural context:**
 
-Horchata has roots in medieval Spain, where it was made from nuts (chufa) - not actually nuts, but small root vegetables that taste nutty and sweet. When the drink came to Mexico during the colonial period, it evolved into a rice-based version, which is now what most people think of when they hear "horchata." Different Latin American countries have their own versions - some use seeds, some use nuts, some use different grains - but the Mexican rice-and-cinnamon style is the most common in the US.
+Horchata has roots in medieval Spain, where it was made from nuts (chufa)—not actually nuts, but small root vegetables that taste nutty and sweet. When the drink came to Mexico during the colonial period, it evolved into a rice-based version, which is now what most people think of when they hear "horchata." Different Latin American countries have their own versions—some use seeds, some use nuts, some use different grains—but the Mexican rice-and-cinnamon style is the most common in the US.
 
-It's traditionally served ice-cold at taquerias as the antidote to spicy food - sweet, cooling, perfect for balancing heat. The ice cream version loses some of that refreshing drink quality but gains this rich, creamy depth that makes it work as a dessert in its own right. You're trading one set of virtues for another.
+It's traditionally served ice-cold at taquerias as the antidote to spicy food—sweet, cooling, perfect for balancing heat. The ice cream version loses some of that refreshing drink quality but gains this rich, creamy depth that makes it work as a dessert in its own right. You're trading one set of virtues for another.
 
 **Make-ahead timeline:**
 
-The rice milk infusion can be made up to 2 days ahead and refrigerated. The candied almonds last for weeks in an airtight container - I usually make a double batch and snack on the extras (they're dangerously good, friend). The cinnamon swirl keeps for a week refrigerated. The custard base benefits from overnight chilling, so this is naturally a two-day project anyway. 
+The rice milk infusion can be made up to 2 days ahead and refrigerated. The candied almonds last for weeks in an airtight container—I usually make a double batch and snack on the extras (they're dangerously good, friend). The cinnamon swirl keeps for a week refrigerated. The custard base benefits from overnight chilling, so this is naturally a two-day project anyway. 
 
-Day one: make rice milk and candied almonds. Day two: make custard and swirl, churn, assemble. Breaking it up like this means it never feels overwhelming - you're doing one or two tasks per day instead of everything at once.
-
+Day one: make rice milk and candied almonds. Day two: make custard and swirl, churn, assemble. Breaking it up like this means it never feels overwhelming—you're doing one or two tasks per day instead of everything at once.
 
 **Serving suggestion:**
 
-This is excellent on its own, but holy shit does it work next to chocolate - churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
+This is excellent on its own, but holy shit does it work next to chocolate—churros with chocolate sauce, Mexican hot chocolate brownies, tres leches cake, all of it. The cinnamon and rice flavors play beautifully with chocolate's bitter notes, creating this sweet-spicy-rich thing that's greater than the sum of its parts. Also pairs beautifully with coffee, which is why it makes a great after-dinner dessert for people who usually skip sweets but want something with their espresso.
 
-Small to medium scoops work best - this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
+Small to medium scoops work best—this is rich enough that a little goes a long way, but not so intense that you can't eat a proper portion.
 
+**Allergen Information:** Contains tree nuts (almonds).
 
 **What it tastes like:**
 
-Creamy and sweet up front, then warm cinnamon that builds as you eat, with a subtle rice-y sweetness underneath everything - almost like rice pudding but cleaner, less starchy. The almond extract and candied almonds add this nutty depth without being obvious about it - it just makes the whole thing taste more complete, more layered. The cinnamon swirl gives you pockets of concentrated spice and caramel sweetness that punch through the richness. Texture-wise, the candied almonds provide crucial crunch against the creamy base.
+Creamy and sweet up front. Warm cinnamon builds as you eat—not sharp, not cloying, just this steady glow underneath everything. Rice-milk sweetness hums in the background, almost like rice pudding but cleaner, less starchy. Almond extract and candied almonds add nutty depth without announcing themselves—they just make the whole thing taste more complete. Cinnamon swirl hits in pockets—concentrated spice and caramel that punch through the richness. Candied almonds give you crunch right when you need it.
 
-If you've had good horchata, you'll immediately recognize the flavor profile, but it's richer and more complex than the drink. If you haven't, imagine if rice pudding and cinnamon toast had a frozen baby. That's this.
+If you've had good horchata, you'll recognize this immediately—richer and more complex than the drink, but unmistakably the same thing. If you haven't, imagine rice pudding and cinnamon toast had a frozen baby. That's this.
 
 ---
 
@@ -941,13 +939,13 @@ If you've had good horchata, you'll immediately recognize the flavor profile, bu
 
 *Umami in ice cream (trust us)*
 
-**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision - skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll fuck it up, pal.
+**Difficulty:** LEGIT - You're sifting matcha and whisking it in a specific W or M pattern (not circular, or you'll trap clumps), dissolving miso in warm cream without making paste-balls, and timing when to add what to hot custard. The techniques are straightforward but demand precision—skip the sifting or rush the whisking and you'll have gritty green bits forever. Follow the steps exactly and you're fine. Wing it and you'll fuck it up, pal.
 
 **Total Time:** 6-8 hours across 2 days (includes toasting rice, overnight chilling, plus 30-60 seconds of very aggressive matcha whisking that'll make your arm tired)
 
-Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it fucking *works* in ice cream - specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way - it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
+Yes, there's miso in this. Yes, miso is salty and savory and usually goes in soup. And yes, it fucking *works* in ice cream—specifically with matcha. I know you're skeptical. I would be too. But the white miso adds this subtle depth that amplifies the matcha's vegetal notes while adding a whisper of umami that makes the whole thing more interesting rather than weird. It's not "sweet meets savory" in an obvious way—it's more like the miso turns up the volume on everything else, making the matcha taste more like itself.
 
-The toasted rice crispies echo genmaicha - Japanese green tea with toasted rice - which is a classic pairing that's been around for centuries. So while this combination sounds modern and experimental, you're actually tapping into a traditional Japanese flavor profile. You're just doing it in frozen form, which is where it gets interesting.
+The toasted rice crispies echo genmaicha—Japanese green tea with toasted rice—which is a classic pairing that's been around for centuries. So while this combination sounds modern and experimental, you're actually tapping into a traditional Japanese flavor profile. You're just doing it in frozen form, which is where it gets interesting.
 
 You'll probably make a face when you first read this ingredient list. That's normal, homie. Everyone does. Then they taste it and get quiet for a second while they process what just happened. Then they ask for more. It's a whole journey.
 
@@ -970,27 +968,27 @@ You'll probably make a face when you first read this ingredient list. That's nor
 
 ## Instructions
 
-**Toasted Rice Crispies (make this first - it needs to cool):**
+**Toasted Rice Crispies (make this first—it needs to cool):**
 
 Melt butter in a large skillet over medium heat. Add the rice cereal and toast it while stirring constantly for 3-4 minutes until it's golden and smells nutty as hell. You'll notice the cereal darkening slightly and the aroma shifting from bland cereal to toasted, almost popcorn-like. That's what you want.
 
-The toasting process is doing a few things: driving off moisture (making them crunchier), triggering Maillard reactions (creating nutty, toasted flavors), and basically transforming boring puffed rice into something that tastes intentional. This is the same principle behind genmaicha - toasted rice adds this warm, nutty quality that complements green tea's vegetal bitterness.
+The toasting process is doing a few things: driving off moisture (making them crunchier), triggering Maillard reactions (creating nutty, toasted flavors), and basically transforming boring puffed rice into something that tastes intentional. This is the same principle behind genmaicha—toasted rice adds this warm, nutty quality that complements green tea's vegetal bitterness.
 
-Sprinkle the sugar and salt over the cereal, stir for 1 more minute as the sugar melts and coats everything. The sugar will create a light glaze that helps the pieces stick together slightly and adds a touch of sweetness. Spread it on parchment to cool completely. It'll crisp up even more as it cools. Store airtight until you're ready to churn - these will stay crunchy for several days as long as you keep moisture out.
+Sprinkle the sugar and salt over the cereal, stir for 1 more minute as the sugar melts and coats everything. The sugar will create a light glaze that helps the pieces stick together slightly and adds a touch of sweetness. Spread it on parchment to cool completely. It'll crisp up even more as it cools. Store airtight until you're ready to churn—these will stay crunchy for several days as long as you keep moisture out.
 
 **Prepare Matcha (and understand why this step matters):**
 
-Here's the thing about matcha: it's finely ground tea leaves - so fine that the particles are almost powder-like, around 5-10 microns in diameter. These tiny particles have a naturally hydrophobic (water-repelling) coating from oils in the tea leaves. When you try to mix matcha powder directly into liquid without proper technique, the particles clump together into these stubborn little balls that won't break down no matter how hard you whisk. You'll end up with green streaks and gritty bits in your ice cream, which is nobody's idea of a good time.
+Here's the thing about matcha: it's finely ground tea leaves—so fine that the particles are almost powder-like, around 5-10 microns in diameter. These tiny particles have a naturally hydrophobic (water-repelling) coating from oils in the tea leaves. When you try to mix matcha powder directly into liquid without proper technique, the particles clump together into these stubborn little balls that won't break down no matter how hard you whisk. You'll end up with green streaks and gritty bits in your ice cream, which is nobody's idea of a good time.
 
 The solution is a two-step process: sifting and proper whisking.
 
-Sift the matcha through a fine-mesh sieve into a small bowl. This breaks up any clumps that formed during storage and separates the particles so they're not already stuck together before you even start whisking. Take your time with this - press gently with a spoon if needed to push it through. You want fine, powdery matcha with no visible clumps.
+Sift the matcha through a fine-mesh sieve into a small bowl. This breaks up any clumps that formed during storage and separates the particles so they're not already stuck together before you even start whisking. Take your time with this—press gently with a spoon if needed to push it through. You want fine, powdery matcha with no visible clumps.
 
-Heat 1/4 cup milk to 165-175°F - hot enough to help break down the hydrophobic barrier on the matcha particles, but not boiling (boiling would damage the delicate flavor compounds). Pour the hot milk over the sifted matcha.
+Heat 1/4 cup milk to 165-175°F—hot enough to help break down the hydrophobic barrier on the matcha particles, but not boiling (boiling would damage the delicate flavor compounds). Pour the hot milk over the sifted matcha.
 
-Now here's the whisking technique that actually matters: whisk vigorously in a W or M pattern rather than circular. Why this specific pattern? When you whisk in circles, you create a vortex that can actually trap air bubbles and matcha clumps in the center - they spin around with the liquid instead of being broken down. The W or M pattern (also called a zigzag) forces the whisk to move through the liquid in different directions, creating more shear force and turbulence that actually breaks apart the matcha particles and distributes them evenly.
+Now here's the whisking technique that actually matters: whisk vigorously in a W or M pattern rather than circular. Why this specific pattern? When you whisk in circles, you create a vortex that can actually trap air bubbles and matcha clumps in the center—they spin around with the liquid instead of being broken down. The W or M pattern (also called a zigzag) forces the whisk to move through the liquid in different directions, creating more shear force and turbulence that actually breaks apart the matcha particles and distributes them evenly.
 
-Whisk hard for 30-60 seconds until the mixture is completely smooth and lump-free. It should be this vibrant, almost electric green - bright and uniform with no darker spots or streaks. If you see any clumps, keep whisking. If they're really stubborn, you can use a tiny whisk or even a small fork to specifically attack those clumps before they get set.
+Whisk hard for 30-60 seconds until the mixture is completely smooth and lump-free. It should be this vibrant, almost electric green—bright and uniform with no darker spots or streaks. If you see any clumps, keep whisking. If they're really stubborn, you can use a tiny whisk or even a small fork to specifically attack those clumps before they get set.
 
 The matcha paste should be thick, smooth, and gorgeously green. Set it aside.
 
@@ -1000,33 +998,33 @@ White miso paste is thick, sticky, and doesn't want to dissolve in cold liquid. 
 
 The solution: warm cream acts as a solvent and helps break down the miso's thick, paste-like texture into something that can actually mix into the custard.
 
-Warm 1/2 cup cream gently to about 100°F - just barely warm to the touch, like bathwater. You don't want it hot because high heat can damage the beneficial enzymes and probiotics in miso, even though we're ultimately going to pasteurize it later. Add the white miso and whisk until it's completely dissolved and smooth. You should have a pale tan, uniform liquid with no chunks or streaks. If you see any miso clumps, keep whisking. This should take about 30-60 seconds of vigorous whisking.
+Warm 1/2 cup cream gently to about 100°F—just barely warm to the touch, like bathwater. You don't want it hot because high heat can damage the beneficial enzymes and probiotics in miso, even though we're ultimately going to pasteurize it later. Add the white miso and whisk until it's completely dissolved and smooth. You should have a pale tan, uniform liquid with no chunks or streaks. If you see any miso clumps, keep whisking. This should take about 30-60 seconds of vigorous whisking.
 
-The miso-cream mixture should look completely homogeneous - smooth, pourable, and one unified color. Set it aside.
+The miso-cream mixture should look completely homogeneous—smooth, pourable, and one unified color. Set it aside.
 
 **Make Custard:**
 
-Combine the remaining milk, cream, and sugar in a saucepan. Heat over medium until steaming. Make your standard custard with the 4 egg yolks - temper them with hot cream, return to pan, cook to 170-175°F while stirring constantly. You know this drill by now.
+Combine the remaining milk, cream, and sugar in a saucepan. Heat over medium until steaming. Make your standard custard with the 4 egg yolks—temper them with hot cream, return to pan, cook to 170-175°F while stirring constantly. You know this drill by now.
 
-The moment - and I mean the MOMENT - you pull the custard off the heat, immediately whisk in the matcha paste vigorously. You want to do this while the custard is still hot for two reasons. First, the heat helps the matcha incorporate more smoothly into the custard. Second, if you wait until the custard cools, the matcha can settle or separate, and you'll have a harder time getting it evenly distributed.
+The moment—and I mean the MOMENT—you pull the custard off the heat, immediately whisk in the matcha paste vigorously. You want to do this while the custard is still hot for two reasons. First, the heat helps the matcha incorporate more smoothly into the custard. Second, if you wait until the custard cools, the matcha can settle or separate, and you'll have a harder time getting it evenly distributed.
 
-The custard should turn this gorgeous pale green - like a green tea latte, but more subtle. Whisk hard for 15-20 seconds until you see uniform color with no streaks or dark spots.
+The custard should turn this gorgeous pale green—like a green tea latte, but more subtle. Whisk hard for 15-20 seconds until you see uniform color with no streaks or dark spots.
 
-Then whisk in the miso-cream mixture until everything is homogeneous. The miso will lighten the color very slightly - you'll have this beautiful, soft green custard that smells faintly of matcha with this subtle savory-sweet undertone that's hard to pinpoint unless you know what you're looking for.
+Then whisk in the miso-cream mixture until everything is homogeneous. The miso will lighten the color very slightly—you'll have this beautiful, soft green custard that smells faintly of matcha with this subtle savory-sweet undertone that's hard to pinpoint unless you know what you're looking for.
 
-Add a pinch of salt. This isn't just for seasoning - it's enhancing the umami in both the matcha and miso, making them taste more intense and complex.
+Add a pinch of salt. This isn't just for seasoning—it's enhancing the umami in both the matcha and miso, making them taste more intense and complex.
 
 Strain the custard through a fine-mesh sieve to catch any possible matcha clumps you might have missed or any cooked egg bits. Cool over an ice bath, stirring occasionally.
 
-Taste it when it's cold. The matcha should be present but not aggressively bitter - not like you're drinking straight tea powder or eating grass clippings. You should taste clear green tea flavor with this subtle vegetal quality. The miso should add this interesting savory-sweet undertone that's noticeable but not identifiable unless you're actively looking for it. It shouldn't taste "salty" or "like soup." It should feel unified and complex, not like two separate flavors awkwardly existing in the same space.
+Taste it when it's cold. The matcha should be present but not aggressively bitter—not like you're drinking straight tea powder or eating grass clippings. You should taste clear green tea flavor with this subtle vegetal quality. The miso should add this interesting savory-sweet undertone that's noticeable but not identifiable unless you're actively looking for it. It shouldn't taste "salty" or "like soup." It should feel unified and complex, not like two separate flavors awkwardly existing in the same space.
 
-If it tastes too bitter (too much matcha) or too grassy, you can balance it slightly by adding another tablespoon of sugar. If it tastes flat or one-dimensional, you might not have used enough miso or matcha - nothing to do about it now, but adjust for next time.
+If it tastes too bitter (too much matcha) or too grassy, you can balance it slightly by adding another tablespoon of sugar. If it tastes flat or one-dimensional, you might not have used enough miso or matcha—nothing to do about it now, but adjust for next time.
 
 Refrigerate at least 4 hours, preferably overnight. The flavors will meld and develop more complexity with time.
 
 **Churn:**
 
-Churn until it hits soft-serve consistency. This may take slightly longer than usual because matcha contains natural tannins and compounds that can slightly interfere with the ice cream's structure, making it freeze a bit more slowly. Just be patient - it'll get there.
+Churn until it hits soft-serve consistency. This may take slightly longer than usual because matcha contains natural tannins and compounds that can slightly interfere with the ice cream's structure, making it freeze a bit more slowly. Just be patient—it'll get there.
 
 In the last minute of churning, add those cooled toasted rice crispies. You want them mixed in but not pulverized. They should stay relatively whole and crunchy.
 
@@ -1036,13 +1034,13 @@ Transfer to your container and freeze for at least 4 hours until firm.
 
 **Matcha quality and why it actually matters:**
 
-Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality - vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works damn well for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
+Matcha comes in different grades, and the difference is significant. Ceremonial grade is the highest quality—vibrant green, smooth, almost sweet, with minimal bitterness. Culinary grade is slightly less expensive, a bit more bitter, and works damn well for ice cream where it's being mixed with other ingredients. What you want to avoid is cheap, brownish-green matcha that tastes like bitter grass and looks dull. That's old matcha or low-quality matcha, and it'll make your ice cream taste like disappointment.
 
-Good matcha should be bright, vivid green - almost unnaturally green. It should smell fresh and slightly sweet, not musty or stale. Store opened matcha in an airtight container in the freezer to preserve color and flavor, because it oxidizes and fades fast when exposed to air and light. Matcha that's been sitting in your cupboard for six months will be brownish and bitter. Frozen matcha stays vibrant.
+Good matcha should be bright, vivid green—almost unnaturally green. It should smell fresh and slightly sweet, not musty or stale. Store opened matcha in an airtight container in the freezer to preserve color and flavor, because it oxidizes and fades fast when exposed to air and light. Matcha that's been sitting in your cupboard for six months will be brownish and bitter. Frozen matcha stays vibrant.
 
 **The critical importance of sifting and proper whisking:**
 
-The matcha MUST be sifted and whisked into hot liquid using proper technique, or it will clump. This isn't optional fussiness - it's preventing a real problem. Matcha particles are coated with natural oils that make them repel water. When you add unsifted matcha powder directly to liquid, the particles clump together into these stubborn balls that won't break down no matter how much you whisk afterward. You'll end up with grainy green bits throughout your ice cream that taste intensely bitter and have a chalky texture.
+The matcha MUST be sifted and whisked into hot liquid using proper technique, or it will clump. This isn't optional fussiness—it's preventing a real problem. Matcha particles are coated with natural oils that make them repel water. When you add unsifted matcha powder directly to liquid, the particles clump together into these stubborn balls that won't break down no matter how much you whisk afterward. You'll end up with grainy green bits throughout your ice cream that taste intensely bitter and have a chalky texture.
 
 Sifting separates the particles. Hot liquid helps break down the hydrophobic coating. The W or M whisking pattern creates the turbulence needed to evenly distribute the particles. Skip any of these steps and you're asking for clumpy matcha. Don't skip them, pal.
 
@@ -1050,23 +1048,29 @@ Sifting separates the particles. Hot liquid helps break down the hydrophobic coa
 
 You need white miso (shiro miso), not red miso or any darker varieties. White miso is milder, sweeter, and less intensely salty than darker misos. It's fermented for a shorter time, which means it has this gentle, almost sweet savoriness rather than the aggressive, funky saltiness of aged miso.
 
-White miso must be dissolved in warm cream first - it won't incorporate properly if you just try to stir it into custard like some kind of animal who doesn't understand emulsification. The warm cream helps break down the thick paste into a smooth liquid that can integrate evenly into the custard.
+White miso must be dissolved in warm cream first—it won't incorporate properly if you just try to stir it into custard like some kind of animal who doesn't understand emulsification. The warm cream helps break down the thick paste into a smooth liquid that can integrate evenly into the custard.
 
 Find white miso in the refrigerated section of Asian markets or well-stocked grocery stores. It usually comes in plastic tubs or pouches. Once opened, it keeps in the fridge for months because the salt and fermentation preserve it naturally.
 
 **The umami synergy between matcha and miso:**
 
-Here's where it gets interesting: both matcha and miso contain glutamates - compounds that create the savory, mouth-filling taste we call umami. When you combine two umami-rich ingredients, they don't just add together - they actually amplify each other in a synergistic effect. This is why combinations like tomatoes and parmesan, or mushrooms and soy sauce, taste way more complex and satisfying than either ingredient alone.
+Here's where it gets interesting: both matcha and miso contain glutamates—compounds that create the savory, mouth-filling taste we call umami. When you combine two umami-rich ingredients, they don't just add together—they actually amplify each other in a synergistic effect. This is why combinations like tomatoes and parmesan, or mushrooms and soy sauce, taste way more complex and satisfying than either ingredient alone.
 
-In this ice cream, the matcha's natural umami (from the tea's glutamic acid) and the miso's umami (from fermentation-produced glutamates) create this depth and complexity you wouldn't get from matcha alone. The miso isn't making the ice cream taste "salty" or "savory" in an obvious way. It's turning up the volume on the matcha's natural complexity and making everything taste more interesting. It's like adding a tiny bit of salt to caramel - you don't taste the salt, but everything else tastes better.
+In this ice cream, the matcha's natural umami (from the tea's glutamic acid) and the miso's umami (from fermentation-produced glutamates) create this depth and complexity you wouldn't get from matcha alone. The miso isn't making the ice cream taste "salty" or "savory" in an obvious way. It's turning up the volume on the matcha's natural complexity and making everything taste more interesting. It's like adding a tiny bit of salt to caramel—you don't taste the salt, but everything else tastes better.
 
 This creates a more compelling, layered flavor that keeps you coming back for another bite to figure out what's happening. Straight matcha ice cream can be one-note and bitter. Matcha with miso has depth, complexity, and this subtle savory-sweet balance that makes it way more addictive.
 
 **Toasted rice and the genmaicha connection:**
 
-Genmaicha is a traditional Japanese tea made by mixing green tea leaves with toasted rice. It's been popular in Japan for centuries - originally because adding rice was a way to bulk out expensive tea, but now because people genuinely love the combination. The toasted rice adds nutty, warm, almost popcorn-like notes that complement green tea's vegetal bitterness perfectly.
+Genmaicha is a traditional Japanese tea made by mixing green tea leaves with toasted rice. It's been popular in Japan for centuries—originally because adding rice was a way to bulk out expensive tea, but now because people genuinely love the combination. The toasted rice adds nutty, warm, almost popcorn-like notes that complement green tea's vegetal bitterness perfectly.
 
-By adding toasted rice crispies to this ice cream, you're echoing that classic flavor pairing. It's not random - it's drawing on a well-established Japanese tradition. The nutty, toasted flavor of the rice complements the matcha naturally and adds textural interest. Every few bites you hit a crunchy piece of toasted rice and it reminds you "oh right, this is referencing genmaicha," even if you can't consciously identify why the combination feels right.
+By adding toasted rice crispies to this ice cream, you're echoing that classic flavor pairing. It's not random—it's drawing on a well-established Japanese tradition. The nutty, toasted flavor of the rice complements the matcha naturally and adds textural interest. Every few bites you hit a crunchy piece of toasted rice and it reminds you "oh right, this is referencing genmaicha," even if you can't consciously identify why the combination feels right.
+
+**Cultural context:**
+
+Matcha has been central to Japanese tea ceremony—chanoyu—since Buddhist monks brought powdered tea practices from China in the 12th century. The ceremony elevated tea preparation into a meditative art form built around precision, intention, and respect for ingredients. That philosophy shows up in this recipe whether you realize it or not: the specific whisking pattern, the temperature control, the insistence on quality matcha. These aren't fussy steps—they're techniques refined over centuries because they actually work.
+
+Miso, meanwhile, has been a cornerstone of Japanese cuisine for over a thousand years—originally adapted from Chinese fermented soybean paste and developed into something distinctly Japanese. The idea of combining umami-rich ingredients to create depth greater than any single component is fundamental to Japanese cooking. This ice cream isn't fusion for the sake of novelty—it's applying traditional Japanese flavor logic (umami amplification, genmaicha pairing, respect for ingredient quality) to a Western format.
 
 **Make-ahead strategy:**
 
@@ -1080,17 +1084,15 @@ Breaking it up: Day 1 - toast rice crispies. Day 2 - make custard. Day 3 - churn
 
 **Visual description:**
 
-The final product is this beautiful, soft green color - like a green tea latte or matcha powder mixed with cream. It's not bright neon green (that would be food coloring), but a natural, gentle green with slightly grayish undertones from the miso. When you scoop it, you'll see golden-brown toasted rice crispies distributed throughout, creating visual contrast and making it obvious this isn't just straight matcha ice cream - there's something else happening here.
+The final product is this beautiful, soft green color—like a green tea latte or matcha powder mixed with cream. It's not bright neon green (that would be food coloring), but a natural, gentle green with slightly grayish undertones from the miso. When you scoop it, you'll see golden-brown toasted rice crispies distributed throughout, creating visual contrast and making it obvious this isn't just straight matcha ice cream—there's something else happening here.
 
 The texture is smooth and creamy with occasional crunchy bites from the rice. The green color stays relatively stable in the freezer, though it may darken very slightly over time as the matcha continues to oxidize gently. It looks sophisticated and intentional, like something you'd get at a Japanese dessert shop that takes itself seriously.
 
+**Allergen Information:** Contains soy (white miso paste).
+
 **What it tastes like:**
 
-Green, vegetal matcha up front - you taste tea, clearly and immediately. Then this interesting depth develops that's hard to pinpoint unless you know what you're looking for (that's the miso doing its thing, adding umami and complexity). The overall effect is earthy, slightly sweet, with this subtle savory-sweet undertone that makes your brain go "wait, there's something interesting happening here."
-
-The toasted rice crispies add crunchy texture and these nutty, toasted notes that complement the matcha perfectly - if you've ever had genmaicha, you'll immediately recognize the combination. The umami from the matcha and miso creates this mouth-filling, satisfying quality that makes the ice cream feel more substantial and complex than sweet alone.
-
-It's more interesting and layered than straight matcha ice cream, which can sometimes taste one-note and bitter. This has depth. It's surprisingly compelling and weirdly addictive - the kind of flavor that makes you take another bite just to experience the complexity again and figure out what's happening. Not overtly sweet, not obviously savory, just... interesting in a way that keeps you engaged.
+Green tea, clearly and immediately—vegetal, earthy, unmistakable. Then something deeper underneath that you can't quite name. That's the miso—not salty, not savory in any obvious way, just this quiet complexity turning up the volume on everything else. Toasted rice crispies hit in crunchy bursts—warm, nutty, genmaicha in every bite. The whole thing is more layered than straight matcha ice cream, more interesting, less bitter. Not overtly sweet, not obviously savory. Just this compelling, slightly addictive thing that makes you take another spoonful to figure out what's happening. You won't figure it out. You'll keep eating anyway.
 
 ---
 
@@ -1102,7 +1104,7 @@ It's more interesting and layered than straight matcha ice cream, which can some
 
 **Total Time:** 6-8 hours (most of which is chilling time while you wonder if you added enough hot sauce)
 
-Okay homie, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture—specifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right* - and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
+Okay homie, if you've ever bought mango from a street cart in Mexico City, you know the deal: sweet fruit meets chile, lime, and salt in this perfect balance that makes your brain short-circuit. Thai food does something similar with that sweet-spicy-sour-salty thing, but this ice cream is inspired by Mexican street food culture—specifically that Tajin-dusted, chamoy-drizzled mango situation. The whole deal hinges on getting the heat level *right*—and here's the thing: cold absolutely murders spice. Like, brutally. What tastes aggressively spicy at room temperature will be just right when frozen.
 
 You'll definitely need to taste-test this one. Multiple times. For science. (Ask me how I know. Actually, don't.)
 
@@ -1135,11 +1137,11 @@ You'll definitely need to taste-test this one. Multiple times. For science. (Ask
 
 **Spiced Pepitas:**
 
-Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through - you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely.
+Preheat your oven to 325°F. Toss those pepitas with olive oil, spread 'em on a baking sheet, and toast for 8-10 minutes, stirring halfway through—you want them golden and puffing up like tiny popcorn. Immediately toss with Tajin while they're hot (the heat helps the seasoning stick). Let 'em cool completely.
 
 **Prepare Mango:**
 
-Puree the flesh from 3 ripe mangos until it's smooth as hell. Then - and this is important, dude - strain it through a fine-mesh sieve to catch any stringy fibers. You want *silky* puree. You need 2 cups total.
+Puree the flesh from 3 ripe mangos until it's smooth as hell. Then—and this is important, dude—strain it through a fine-mesh sieve to catch any stringy fibers. You want *silky* puree. You need 2 cups total.
 
 Dice up the remaining mango into little 1/3-inch cubes and toss with a tiny squeeze of lime (keeps them from browning and adds a hit of acid). Stick 'em in the fridge.
 
@@ -1147,23 +1149,23 @@ Dice up the remaining mango into little 1/3-inch cubes and toss with a tiny sque
 
 Combine cream, milk, sugar, and corn syrup in a saucepan. Heat over medium, stirring occasionally, until everything dissolves and the mixture is steaming.
 
-Make your custard using the standard method (see Custard Fundamentals) with the egg yolks. The custard will stay fairly thin because of the low yolk count - this is totally expected and correct. Don't fucking panic.
+Make your custard using the standard method (see Custard Fundamentals) with the egg yolks. The custard will stay fairly thin because of the low yolk count—this is totally expected and correct. Don't fucking panic.
 
 Pull it off the heat and let it chill out for 5 minutes while you stir it occasionally. Stir in the lime juice, zest, and salt. Add the mango puree and stir until everything's incorporated and looking gorgeously tropical.
 
-Here's the tricky part: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold* - you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
+Here's the tricky part: Start with 2 tbsp of Yellowbird and stir thoroughly. Put a spoonful in the freezer for 5 minutes, then taste it *cold*—you should feel noticeable warmth building in your mouth. Not burning, but definitely there. If it's too mild, add more hot sauce, remembering that cold is a spice assassin. Better to err on the side of more heat. You can always add; you can't take away. (Ask me how I know. Actually, don't. It involved wasted mango and regret.)
 
 Strain the whole thing through a fine-mesh sieve one more time (gets rid of any eggy bits or zest chunks). Cool it over an ice bath, stirring occasionally until it's not hot anymore. Then refrigerate for at least 4 hours or overnight. Patience, homie.
 
 **Spicy Honey Swirl:**
 
-Warm the honey until it's pourable - like 10 seconds in the microwave or a minute in a small pot. Stir in 1.5-2 tbsp Yellowbird. This should be spicier than your base - it's the *spicy* honey swirl, after all. Add a squeeze of lime juice for brightness. Let it cool, then refrigerate.
+Warm the honey until it's pourable—like 10 seconds in the microwave or a minute in a small pot. Stir in 1.5-2 tbsp Yellowbird. This should be spicier than your base—it's the *spicy* honey swirl, after all. Add a squeeze of lime juice for brightness. Let it cool, then refrigerate.
 
 **Churn:**
 
-Churn your base until it reaches soft-serve consistency - thick, creamy, and holding its shape. The corn syrup makes it slightly softer than usual, so it may look a touch looser than you're used to. This is normal and actually helps keep everything creamy later on.
+Churn your base until it reaches soft-serve consistency—thick, creamy, and holding its shape. The corn syrup makes it slightly softer than usual, so it may look a touch looser than you're used to. This is normal and actually helps keep everything creamy later on.
 
-Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife - just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this.
+Now for the fun part: Layer into your storage container like you're building a lasagna. One-third of the ice cream, drizzle some of that spicy honey swirl around, scatter mango chunks and pepitas. Repeat twice more. Gently swirl with a butter knife—just a couple swooshes so people can navigate toward or away from the heat pockets depending on their spice tolerance. Don't overthink this.
 
 Freeze for at least 4 hours before serving. (I know you want to eat it now. Seriously, wait.)
 
@@ -1171,25 +1173,25 @@ Freeze for at least 4 hours before serving. (I know you want to eat it now. Seri
 
 **Mexican street food tradition:**
 
-This ice cream is directly inspired by the Mexican tradition of fresh mango served with chile, lime, and salt - a street cart staple from Mexico City to Tijuana. Vendors slice fresh mango into "flowers," dust them with Tajin (a chile-lime seasoning that's become iconic), and sometimes drizzle chamoy (a sweet-salty-spicy-sour sauce made from pickled fruit). It's the same flavor philosophy as Thai food - that magical balance of sweet, spicy, sour, and salty - but it comes from a completely different culinary tradition. Tajin specifically has become so ubiquitous that it's moved way beyond fruit: it's on micheladas, paletas, esquites, and basically anything that needs a hit of chile-lime magic.
+This ice cream is directly inspired by the Mexican tradition of fresh mango served with chile, lime, and salt—a street cart staple from Mexico City to Tijuana. Vendors slice fresh mango into "flowers," dust them with Tajin (a chile-lime seasoning that's become iconic), and sometimes drizzle chamoy (a sweet-salty-spicy-sour sauce made from pickled fruit). It's the same flavor philosophy as Thai food—that magical balance of sweet, spicy, sour, and salty—but it comes from a completely different culinary tradition. Tajin specifically has become so ubiquitous that it's moved way beyond fruit: it's on micheladas, paletas, esquites, and basically anything that needs a hit of chile-lime magic.
 
 **About the mangos:**
 
-Use Ataulfo mangos - also called Champagne or Honey mangos - if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call.
+Use Ataulfo mangos—also called Champagne or Honey mangos—if you can find them. They're naturally sweeter and have way less fiber, which means they puree into something smooth and dreamy. The common Tommy Atkins mangos work too but they're more fibrous, so you'll be doing more straining. Your call.
 
 **Why corn syrup:**
 
-Look, I get it - corn syrup sounds sketchy. But hear me out, dude. It creates a noticeably smoother, creamier texture without muting that bright-ass mango flavor. It also helps prevent ice crystals in this lighter custard (we're only using 2 yolks here). The improved texture means the chili heat registers more clearly as the ice cream melts on your tongue, which is kind of the whole point. Plus it keeps the ice cream scoopable longer - stays creamy even after a week in the freezer instead of turning into a brick.
+Look, I get it—corn syrup sounds sketchy. But hear me out, dude. It creates a noticeably smoother, creamier texture without muting that bright-ass mango flavor. It also helps prevent ice crystals in this lighter custard (we're only using 2 yolks here). The improved texture means the chili heat registers more clearly as the ice cream melts on your tongue, which is kind of the whole point. Plus it keeps the ice cream scoopable longer—stays creamy even after a week in the freezer instead of turning into a brick.
 
 **The light custard:**
 
-This recipe uses only 2 egg yolks instead of the usual 4-6, which creates a lighter, less rich base. This is intentional - you want the bright, fresh mango flavor to be the star, not buried under heavy custard richness. The corn syrup compensates for the lower fat content and keeps the texture smooth. Think sorbet-meets-ice-cream rather than full-on custard bomb.
+This recipe uses only 2 egg yolks instead of the usual 4-6, which creates a lighter, less rich base. This is intentional—you want the bright, fresh mango flavor to be the star, not buried under heavy custard richness. The corn syrup compensates for the lower fat content and keeps the texture smooth. Think sorbet-meets-ice-cream rather than full-on custard bomb.
 
 **About the spice level:**
 
-Cold really does murder spice. What tastes like "oh shit that's too hot" at room temperature will be perfectly balanced when frozen. ALWAYS taste your base cold before churning - freeze a small spoonful for 5 minutes and see how it feels on your tongue. You can always add more hot sauce, but you can't take it out once it's in there.
+Cold really does murder spice. What tastes like "oh shit that's too hot" at room temperature will be perfectly balanced when frozen. ALWAYS taste your base cold before churning—freeze a small spoonful for 5 minutes and see how it feels on your tongue. You can always add more hot sauce, but you can't take it out once it's in there.
 
-Yellowbird has this fruity complexity that plays beautifully with mango - not just hot for hot's sake. But you can use any habanero sauce you like. Just taste as you go.
+Yellowbird has this fruity complexity that plays beautifully with mango—not just hot for hot's sake. But you can use any habanero sauce you like. Just taste as you go.
 
 **The swirl technique:**
 
@@ -1197,15 +1199,15 @@ Layering the spicy honey swirl rather than mixing it in completely means people 
 
 **Make-ahead strategy:**
 
-The pepitas can be made up to a week ahead and stored airtight at room temperature - they'll stay crunchy. The honey swirl keeps in the fridge for up to 2 weeks. The mango chunks are best made the day you're churning (they'll start releasing juice and getting mushy after 24 hours). The custard base needs at least 4 hours to chill, so plan accordingly - make base and honey swirl one day, prep fresh mango and churn the next.
+The pepitas can be made up to a week ahead and stored airtight at room temperature—they'll stay crunchy. The honey swirl keeps in the fridge for up to 2 weeks. The mango chunks are best made the day you're churning (they'll start releasing juice and getting mushy after 24 hours). The custard base needs at least 4 hours to chill, so plan accordingly—make base and honey swirl one day, prep fresh mango and churn the next.
 
 **Visual:**
 
-Bright orange-yellow base swirled with darker honey ribbons, studded with chunks of fresh mango and olive-green pepitas. Looks tropical as hell - like vacation in a container. The Tajin on the pepitas adds little flecks of red that make it obvious this isn't your average mango ice cream.
+Bright orange-yellow base swirled with darker honey ribbons, studded with chunks of fresh mango and olive-green pepitas. Looks tropical as hell—like vacation in a container. The Tajin on the pepitas adds little flecks of red that make it obvious this isn't your average mango ice cream.
 
 **What it tastes like:**
 
-Bright, tropical mango smacks you first. Then lime tartness cuts through. Then - *then* - this building habanero heat that creeps up on you like a slow burn. The Tajin-spiced pepitas add crunch and reinforce that sweet-salty-spicy-sour thing Mexican street food does so damn well. It's refreshing, it's complex, and it tastes exactly like standing at a street cart in Mexico City on a hot afternoon - except frozen.
+Bright, tropical mango smacks you first—sweet and loud and unapologetic. Lime tartness cuts through a half-second later. Then—*then*—this building habanero warmth that creeps up like a slow burn, starting at the back of your tongue and spreading. Spicy honey swirl hits in concentrated pockets—sweet heat that rewards the adventurous. Tajin pepitas crunch through with that sweet-salty-spicy-sour thing Mexican street food does so damn well. The whole experience tastes exactly like standing at a cart in Mexico City on a hot afternoon—except frozen, and you made it yourself.
 
 ---
 
@@ -1219,9 +1221,9 @@ Bright, tropical mango smacks you first. Then lime tartness cuts through. Then -
 
 **Allergen Information:** 
 
-Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
+Wattleseed is Aboriginal bush tucker—roasted and ground seeds that taste like coffee-chocolate-hazelnut had a mysterious Australian cousin who's cooler than all of them. Paired with buttery macadamias (native to Australia) and golden syrup (beloved in Australian baking), you get something that tastes distinctly Australian while being completely approachable, even for people who've never left their hometown.
 
-Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
+Fair warning, chief: wattleseed can be hard to source, but it's worth seeking out from suppliers that work with Aboriginal communities. This isn't just ingredients—it's cultural heritage.
 
 ## Ingredients
 
@@ -1255,25 +1257,25 @@ Fair warning, chief: wattleseed can be hard to source, but it's worth seeking ou
 
 **Candied Macadamias (make this first, needs 2-4 hours drying):**
 
-Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
+Preheat your oven to 325°F. Spread the macadamias on a baking sheet, toast for 8-10 minutes until fragrant and lightly golden. Watch these fuckers CAREFULLY—macadamias burn quicker than your paycheck disappears due to their insanely high fat content. Set aside.
 
 Line another baking sheet with parchment, set it nearby.
 
 In a saucepan, combine golden syrup, corn syrup, sugar, butter, and salt. Heat over medium-high, stirring until the butter melts and sugar dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240-250°F (soft ball stage)—should be bubbling vigorously and thickened, about 5-7 minutes. You'll stand there wondering if you're doing it right. You are.
+Cook WITHOUT STIRRING to 240-250°F (soft ball stage)—should be bubbling vigorously and thickened, about 5-7 minutes. You'll stand there wondering if you're doing it right. You are.
 
-Pull it off the heat IMMEDIATELY when it hits temp. Add the toasted macadamias, stir quickly to coat completely—every single nut needs that glossy treatment.
+Pull it off the heat IMMEDIATELY when it hits temp. Add the toasted macadamias, stir quickly to coat completely—every single nut needs that glossy treatment.
 
 Working FAST because this sets up faster than you can process what just happened, pour onto the prepared parchment and spread in a single layer using two forks to separate the nuts. Should look glossy and deeply golden, like Australian sunshine in candy form.
 
-Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Chop roughly into small pieces—some whole, some broken. The variety is good. Store airtight.
+Let air dry completely at room temperature for 2-4 hours until the coating is hard and glassy, not tacky. Break apart any clusters. Chop roughly into small pieces—some whole, some broken. The variety is good. Store airtight.
 
 **Infuse Wattleseed:**
 
-Combine cream and milk in a saucepan. Add the ground wattleseed. Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes.
+Combine cream and milk in a saucepan. Add the ground wattleseed. Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 20-25 minutes.
 
-Wattleseed needs longer infusion than most spices because it's stubborn like that. Taste at 20 minutes—should have these nutty, coffee-chocolate notes with a hint of hazelnut that's honestly kind of magical.
+Wattleseed needs longer infusion than most spices because it's stubborn like that. Taste at 20 minutes—should have these nutty, coffee-chocolate notes with a hint of hazelnut that's honestly kind of magical.
 
 Strain through a fine-mesh sieve lined with cheesecloth, pressing gently on the solids to extract all that flavor. Discard the grounds.
 
@@ -1285,11 +1287,11 @@ Return the infused cream to the saucepan, add half the sugar, heat until steamin
 
 The wattleseed will give it this beautiful tan-coffee color. Pull it off the heat. Stir in vanilla and salt.
 
-Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream.
+Strain through a fine-mesh sieve ONE MORE TIME to remove any remaining wattleseed particles—nobody wants gritty ice cream.
 
 Cool over an ice bath.
 
-Taste it cold—should have this complex nutty-roasted flavor reminiscent of coffee and chocolate with subtle sweetness. Not bitter at all, just deep and interesting.
+Taste it cold—should have this complex nutty-roasted flavor reminiscent of coffee and chocolate with subtle sweetness. Not bitter at all, just deep and interesting.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -1299,7 +1301,7 @@ In a small saucepan, warm the golden syrup over low heat until it's pourable. Ad
 
 Should be thick but pourable when cooled, like honey. Cool to room temperature, then refrigerate.
 
-Golden syrup adds this distinctly Australian sweetness—different from maple or honey, with treacle-like depth that makes you understand why Australians put it on everything.
+Golden syrup adds this distinctly Australian sweetness—different from maple or honey, with treacle-like depth that makes you understand why Australians put it on everything.
 
 **Churn:**
 
@@ -1315,23 +1317,23 @@ Freeze 4+ hours.
 
 Native Australian ingredient, traditional Aboriginal bush tucker food for literally thousands of years. The roasted and ground seeds create this nutty, coffee-chocolate flavor with hazelnut notes. Sometimes called "Australian bush coffee" which is pretty fucking accurate.
 
-Buy from reputable suppliers that source ethically from Aboriginal communities—look for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly—store it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
+Buy from reputable suppliers that source ethically from Aboriginal communities—look for brands like Outback Pride, Australian Superfood Co, or Tucker Bush. Ground wattleseed loses potency quickly—store it in the freezer. Use within 3-4 months of purchase or it'll taste like disappointment.
 
 **Macadamia nuts:**
 
-Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn scary fast. Watch them like a damn hawk, friend.
+Indigenous to Queensland and northern New South Wales rainforests. Australia is one of the world's largest macadamia producers. These nuts are buttery, creamy, with this mild sweet flavor. The high fat content—75%, which is INSANE—means they toast beautifully but burn scary fast. Watch them like a damn hawk, friend.
 
 **Golden syrup:**
 
-While invented in Britain (Lyle's brand), golden syrup is hugely popular in Australian baking—it's basically their national sweetener. CSR is the iconic Australian brand. Provides this butterscotch-treacle sweetness that's distinct from maple or honey. If unavailable, substitute light corn syrup mixed with 1 tbsp molasses, though the flavor won't be identical.
+While invented in Britain (Lyle's brand), golden syrup is hugely popular in Australian baking—it's basically their national sweetener. CSR is the iconic Australian brand. Provides this butterscotch-treacle sweetness that's distinct from maple or honey. If unavailable, substitute light corn syrup mixed with 1 tbsp molasses, though the flavor won't be identical.
 
 **Lemon myrtle (optional):**
 
-Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 times more citral than actual lemons, which is bonkers. Use sparingly as an accent to brighten wattleseed's earthiness. Provides subtle bush character without overwhelming everything. If unavailable, add zest of 1/2 lemon instead—not the same, but it works.
+Native Australian citrus-scented leaf. Has INTENSE lemon flavor—like 10 times more citral than actual lemons, which is bonkers. Use sparingly as an accent to brighten wattleseed's earthiness. Provides subtle bush character without overwhelming everything. If unavailable, add zest of 1/2 lemon instead—not the same, but it works.
 
 **Cultural context:**
 
-This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage.
+This honors Aboriginal Australian bush tucker traditions by featuring wattleseed, while incorporating macadamias (native to Australia) and golden syrup (beloved in modern Australian cuisine). Wattleseed has been used by Aboriginal peoples for millennia—we're talking THOUSANDS of years. When buying wattleseed and other native ingredients, seek out Aboriginal-owned suppliers or brands that fairly compensate Aboriginal communities. This isn't just food, it's cultural heritage.
 
 
 **Visual:**
@@ -1341,12 +1343,12 @@ Warm tan-coffee colored base studded with golden-brown candied macadamia pieces 
 
 **Serving note:**
 
-Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
+Wattleseed's complex flavors actually develop and deepen after 24 hours in the freezer—something about the cold does magic things. Consider making this the day before serving for optimal flavor. Patience pays off, homie.
 
 
 **What it tastes like:**
 
-Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocolate undertones and a hint of hazelnut. Not bitter despite the coffee-esque character—just rich and interesting. Buttery macadamias add richness and crunch. Golden syrup ribbons provide treacle-butterscotch sweetness. Optional lemon myrtle adds this bright citrus top note that makes everything sing.
+Complex as hell. Deep nutty base—almost coffee-like with chocolate undertones and a whisper of hazelnut. Not bitter despite the coffee-esque character, just rich and layered and interesting in ways that keep you coming back. Buttery macadamias add crunch and richness that melts slow. Golden syrup ribbons run through in treacle-butterscotch streaks—concentrated sweetness that hits different from sugar. Optional lemon myrtle adds a bright citrus top note that lifts everything, makes the dark flavors sing. Sophisticated without being pretentious. Tastes like the Australian bush smells after rain—earthy, warm, quietly extraordinary.
 
 ---
 
@@ -1354,13 +1356,13 @@ Complex as hell. Sophisticated. Deep nutty, almost coffee-like base with chocola
 
 *France's iconic upside-down caramelized apple tart, now frozen*
 
-**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble (easy as hell). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough - you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
+**Difficulty:** LEGIT - You're roasting apples with butter and calvados (straightforward), making custard (standard), and creating a buttery pastry crumble (easy as hell). Nothing here is complicated. The judgment call is knowing when the apples are caramelized enough—you want deep golden brown with some darker edges, not pale and sad. You're also working with calvados, which is booze, so there's fire potential if you're not paying attention. But if you can make custard and watch a pan without wandering off, you're fine.
 
 **Total Time:** 7-9 hours across 2 days (most of it is roasting and overnight chilling while you sleep, plus 30-40 minutes of actively working while your kitchen smells fucking incredible)
 
-Tarte Tatin is one of those legendary French desserts with an actual origin story - created by accident in the 1880s at the Hotel Tatin in the Loire Valley when one of the Tatin sisters either forgot to put pastry in the pan first or tried to rescue a burnt apple tart by flipping it upside down (stories vary, but the result is the same). What you get is deeply caramelized apples cooked in butter and sugar, traditionally served warm with the pastry on top after being inverted.
+Tarte Tatin is one of those legendary French desserts with an actual origin story—created by accident in the 1880s at the Hotel Tatin in the Loire Valley when one of the Tatin sisters either forgot to put pastry in the pan first or tried to rescue a burnt apple tart by flipping it upside down (stories vary, but the result is the same). What you get is deeply caramelized apples cooked in butter and sugar, traditionally served warm with the pastry on top after being inverted.
 
-This ice cream captures that essential Tarte Tatin character - butter-roasted apples with calvados (Norman apple brandy, because if you're going French, go all the way), plus a buttery pastry crumble that echoes the tart's crust. The apples get roasted until they're jammy and caramelized, the calvados adds that distinctly French apple-region boozy depth, and the pastry crumble gives you that crucial textural contrast.
+This ice cream captures that essential Tarte Tatin character—butter-roasted apples with calvados (Norman apple brandy, because if you're going French, go all the way), plus a buttery pastry crumble that echoes the tart's crust. The apples get roasted until they're jammy and caramelized, the calvados adds that distinctly French apple-region boozy depth, and the pastry crumble gives you that crucial textural contrast.
 
 It tastes like walking past a French patisserie and deciding fuck it, you're eating dessert for breakfast.
 
@@ -1393,13 +1395,13 @@ It tastes like walking past a French patisserie and deciding fuck it, you're eat
 
 **Buttery Pastry Crumble (make this first, can be made up to 3 days ahead):**
 
-Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie - that's what creates flaky, crispy texture when it bakes.
+Preheat your oven to 350°F. Combine flour, sugar, and salt in a bowl. Add the cold cubed butter and work it in with your fingers or a pastry cutter until the mixture looks like coarse sand with some pea-sized butter bits. You want irregular chunks, homie—that's what creates flaky, crispy texture when it bakes.
 
-If the mixture seems too dry and won't hold together when you squeeze it, add the ice water a teaspoon at a time. It should just barely come together when pressed. Don't overwork it or add too much water - you want crumbly, not doughy.
+If the mixture seems too dry and won't hold together when you squeeze it, add the ice water a teaspoon at a time. It should just barely come together when pressed. Don't overwork it or add too much water—you want crumbly, not doughy.
 
 Spread the mixture on a parchment-lined baking sheet, breaking it into irregular crumbles ranging from pea-sized to marble-sized. Bake for 15-20 minutes, stirring once halfway through, until golden brown and crispy. It should smell buttery and toasted, like pie crust.
 
-Let cool completely on the baking sheet. The crumbles will crisp up as they cool - this is chemistry at work. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
+Let cool completely on the baking sheet. The crumbles will crisp up as they cool—this is chemistry at work. Once cool, break into smaller pieces if any are too large. Store in an airtight container at room temperature.
 
 **Roast Apples (do this at least 2 hours before making custard so they have time to cool):**
 
@@ -1407,21 +1409,21 @@ Preheat your oven to 400°F. Here's why this temperature matters: 400°F is hot 
 
 Peel, core, and cut the apples into roughly 3/4-inch chunks. You want them big enough to maintain some texture after roasting, but small enough to cook through in reasonable time. Too small and they'll turn to mush. Too big and you'll have raw centers and burnt edges.
 
-Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated - the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
+Toss them with butter, brown sugar, and salt in a roasting pan or baking dish. Make sure everything's coated—the butter helps conduct heat and creates browning, while the brown sugar adds molasses notes and extra caramelization.
 
-Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots - that's where all the flavor lives. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
+Roast for 30-40 minutes, stirring every 10-12 minutes. You're looking for deep golden brown edges with some darker caramelized spots—that's where all the flavor lives. The apples should be tender when you poke them with a fork, but still holding their shape, not falling apart into applesauce. Some of the pieces will have these gorgeous bronze-brown edges that look almost candied, like someone hit them with a blowtorch. That's exactly what you want.
 
-When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan - that's concentrated flavor right there, don't leave it behind.
+When the apples are done roasting, pull the pan from the oven and immediately add the calvados and vanilla extract. The residual heat will warm the calvados and help it integrate with the apple juices. Stir everything together, scraping up any caramelized bits stuck to the bottom of the pan—that's concentrated flavor right there, don't leave it behind.
 
 Let cool for about 15-20 minutes until they're warm but not steaming hot.
 
-Here's the two-texture approach, homie: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest - you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
+Here's the two-texture approach, homie: Puree half the roasted apples with all those pan juices until completely smooth. This pureed portion will integrate into the custard base, providing apple flavor throughout. Chop the remaining half into roughly 1/2-inch pieces. These chunks get mixed into the ice cream for textural interest—you'll bite into actual pieces of caramelized apple while eating it, just like cutting into a slice of Tarte Tatin. Refrigerate both the puree and the chunks.
 
 **Make Vanilla Custard:**
 
-If using a vanilla bean, split it lengthwise and scrape out the seeds. Combine cream and milk in a saucepan, add the vanilla bean pod and seeds (or if using extract, wait and add it at the end). Heat over medium until steaming - you want small bubbles around the edges but not a rolling boil.
+If using a vanilla bean, split it lengthwise and scrape out the seeds. Combine cream and milk in a saucepan, add the vanilla bean pod and seeds (or if using extract, wait and add it at the end). Heat over medium until steaming—you want small bubbles around the edges but not a rolling boil.
 
-While that heats, whisk the egg yolks with the sugar until pale and thick - about 2 minutes of whisking. This is important because it distributes the sugar evenly and starts dissolving it, which helps prevent graininess in the final custard.
+While that heats, whisk the egg yolks with the sugar until pale and thick—about 2 minutes of whisking. This is important because it distributes the sugar evenly and starts dissolving it, which helps prevent graininess in the final custard.
 
 Temper the yolks: slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly. This gradually raises the temperature of the yolks without scrambling them. Then pour the tempered yolk mixture back into the saucepan with the rest of the cream.
 
@@ -1439,9 +1441,9 @@ Cool over an ice bath, stirring occasionally to prevent a skin from forming. Ref
 
 Churn the custard until it reaches soft-serve consistency.
 
-In the last minute of churning - and this timing matters - add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
+In the last minute of churning—and this timing matters—add the chopped roasted apple pieces. If you add them too early, they'll get pulverized by the churning blade and turn into puree. If you add them after churning stops, they won't distribute evenly and you'll have clumps. Last minute of churning means they get mixed in thoroughly but maintain their chunky texture.
 
-Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl - you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
+Layer into your storage container: spread one-third of the ice cream, scatter some pastry crumble. Repeat twice more, finishing with a layer of crumble on top. Don't swirl—you want distinct layers of creamy apple ice cream and crunchy pastry bits, like deconstructed tart.
 
 Freeze at least 4 hours before serving.
 
@@ -1449,7 +1451,7 @@ Freeze at least 4 hours before serving.
 
 **About roasting and why you can't skip it:**
 
-Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "holy shit, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize - a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
+Raw apples are fine. They're nice. They're pleasant. But roasting transforms them from "nice" to "holy shit, what just happened?" Here's the science, explained in a way that actually matters: when you roast apples, several things happen simultaneously. The heat drives off water, concentrating the sugars. Those concentrated sugars begin to caramelize—a chemical process where sugar molecules break down and form hundreds of new flavor compounds. At the same time, the Maillard reaction occurs between the apples' natural sugars and amino acids, creating even more complex flavors: nutty, toasty, deep notes you'd never get from raw fruit.
 
 The butter and brown sugar accelerate this browning process. Butter provides fat that helps conduct heat evenly and adds richness. Brown sugar adds molasses notes and extra sugar for caramelization. Together they create these glossy, caramelized pieces that taste like concentrated apple essence with layers of caramel complexity.
 
@@ -1457,35 +1459,35 @@ If you use raw apples, you'll get bland apple ice cream that tastes like nothing
 
 **About calvados:**
 
-Calvados is apple brandy from Normandy, France - specifically from an AOC-protected region, which means it has to meet certain standards to be called calvados. It's made from cider apples, distilled, and aged in oak barrels. The result tastes like concentrated apple with vanilla, oak, and spice notes. It's what you'd use in a proper French Tarte Tatin if you were adding booze.
+Calvados is apple brandy from Normandy, France—specifically from an AOC-protected region, which means it has to meet certain standards to be called calvados. It's made from cider apples, distilled, and aged in oak barrels. The result tastes like concentrated apple with vanilla, oak, and spice notes. It's what you'd use in a proper French Tarte Tatin if you were adding booze.
 
-You can find calvados at better liquor stores - brands like Boulard, Busnel, or Pere Magloire are all good. If you can't find or don't want to spring for calvados, any apple brandy works - Laird's Applejack is the American version and it's fine. Even regular brandy would be okay in a pinch, though you lose the apple reinforcement.
+You can find calvados at better liquor stores—brands like Boulard, Busnel, or Pere Magloire are all good. If you can't find or don't want to spring for calvados, any apple brandy works—Laird's Applejack is the American version and it's fine. Even regular brandy would be okay in a pinch, though you lose the apple reinforcement.
 
 If making this for kids or you don't want alcohol, you can omit the calvados and add an extra tablespoon of vanilla extract. It'll still be good, just not as distinctly French.
 
 **Apple varieties matter:**
 
-Tarte Tatin traditionally uses tart, firm apples that hold their shape during cooking. Granny Smith is the classic choice - tart, crisp, holds up beautifully to roasting. Braeburn is another excellent option - slightly sweeter than Granny Smith but still tart enough, with great texture. Honeycrisp works if you can't find the others.
+Tarte Tatin traditionally uses tart, firm apples that hold their shape during cooking. Granny Smith is the classic choice—tart, crisp, holds up beautifully to roasting. Braeburn is another excellent option—slightly sweeter than Granny Smith but still tart enough, with great texture. Honeycrisp works if you can't find the others.
 
-What you want to avoid: Red Delicious (mealy texture, no flavor), Gala or Fuji (too sweet, too soft), or anything labeled "baking apples" that's already mushy. You want apples that taste tart and crisp when raw - those are the ones that will caramelize beautifully and maintain some texture.
+What you want to avoid: Red Delicious (mealy texture, no flavor), Gala or Fuji (too sweet, too soft), or anything labeled "baking apples" that's already mushy. You want apples that taste tart and crisp when raw—those are the ones that will caramelize beautifully and maintain some texture.
 
 **Cultural context:**
 
 The Tarte Tatin story is one of those perfect food accidents. In the 1880s, Stephanie Tatin was running a hotel with her sister Caroline in Lamotte-Beuvron, south of Paris. The story goes that she either started making a traditional apple tart and forgot to put the pastry in first, or she tried to rescue a burning tart by putting pastry on top and flipping it. Either way, what resulted was this gorgeous upside-down tart with deeply caramelized apples.
 
-It became the signature dish of the Hotel Tatin and eventually spread across France and beyond. The technique - cooking fruit in butter and sugar until caramelized, topping with pastry, then inverting - is now used for all kinds of fruit tarts, but apple Tarte Tatin is the original and still the best.
+It became the signature dish of the Hotel Tatin and eventually spread across France and beyond. The technique—cooking fruit in butter and sugar until caramelized, topping with pastry, then inverting—is now used for all kinds of fruit tarts, but apple Tarte Tatin is the original and still the best.
 
-The combination of tart apples, butter, caramelization, and calvados is quintessentially Norman French. Normandy is apple country - they make cider, calvados, and countless apple desserts. This ice cream captures all those classic flavors.
+The combination of tart apples, butter, caramelization, and calvados is quintessentially Norman French. Normandy is apple country—they make cider, calvados, and countless apple desserts. This ice cream captures all those classic flavors.
 
 **Vanilla bean vs. extract:**
 
-A real vanilla bean gives you better flavor - more complex, more aromatic, with those beautiful black specks throughout. Madagascar vanilla beans are the standard (rich, creamy, classic vanilla flavor). If you can get Tahitian vanilla, it's more floral and subtle, which works beautifully with apples.
+A real vanilla bean gives you better flavor—more complex, more aromatic, with those beautiful black specks throughout. Madagascar vanilla beans are the standard (rich, creamy, classic vanilla flavor). If you can get Tahitian vanilla, it's more floral and subtle, which works beautifully with apples.
 
-Vanilla extract is fine and honestly most people won't notice the difference in ice cream. Use good extract - the real stuff made from actual vanilla beans, not artificial vanilla flavoring which tastes like chemicals.
+Vanilla extract is fine and honestly most people won't notice the difference in ice cream. Use good extract—the real stuff made from actual vanilla beans, not artificial vanilla flavoring which tastes like chemicals.
 
 **The pastry crumble:**
 
-This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work - it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
+This is your substitute for the actual pastry crust on Tarte Tatin. Making a full pâte brisee (French pie dough) and trying to incorporate it into ice cream doesn't work—it gets soggy. But this streusel-style crumble gives you that buttery pastry flavor and crucial crunch without getting waterlogged.
 
 The key is keeping it dry and airtight until you're ready to use it. Even a little moisture will make it lose its crispness, dude. If you live somewhere humid, you might want to make this component the day you're churning rather than days ahead.
 
@@ -1496,21 +1498,21 @@ The key is keeping it dry and airtight until you're ready to use it. Even a litt
 - **Custard base**: Make the day before churning for best results
 - **Churning**: Day you want to eat it, or give it 4+ hours to firm up
 
-Breaking it into stages: Day 1 - make pastry crumble and roast apples. Day 2 - make custard. Day 3 - churn and serve. This way it never feels overwhelming.
-
+Breaking it into stages: Day 1—make pastry crumble and roast apples. Day 2—make custard. Day 3—churn and serve. This way it never feels overwhelming.
 
 **Serving suggestion:**
 
-Serve this with a small glass of calvados on the side for adults - the apple brandy reinforces the flavors beautifully. Also excellent with strong black coffee or espresso, very French cafe-style. If you want to go full French dessert experience, serve it alongside or on top of a warm slice of apple tart for maximum apple-butter-pastry decadence.
+Serve this with a small glass of calvados on the side for adults—the apple brandy reinforces the flavors beautifully. Also excellent with strong black coffee or espresso, very French cafe-style. If you want to go full French dessert experience, serve it alongside or on top of a warm slice of apple tart for maximum apple-butter-pastry decadence.
 
-Small scoops work best - this is rich and intensely flavored. The pastry crumbles stay crunchiest for the first few days, so eat it relatively fresh if you want maximum textural contrast.
+Small scoops work best—this is rich and intensely flavored. The pastry crumbles stay crunchiest for the first few days, so eat it relatively fresh if you want maximum textural contrast.
 
+**Allergen Information:** Contains wheat/gluten (pastry crumble).
 
 **What it tastes like:**
 
-Caramelized apples up front - sweet, tart, with that deep butter-caramel complexity that only comes from proper roasting. Vanilla provides a classic French patisserie note. Subtle calvados adds this boozy apple depth without being overwhelming or identifiable as "alcohol" - it just makes the apple flavor taste more complete. The pastry crumbles provide crucial textural contrast - buttery, crispy, tasting exactly like good pie crust.
+Caramelized apples up front—sweet, tart, deep butter-caramel complexity that only comes from proper roasting. Vanilla hums underneath, classic French patisserie. Calvados adds boozy apple depth without announcing itself—just makes everything taste more complete. Pastry crumbles hit with buttery crunch, exactly like good pie crust shattering between your teeth.
 
-When you hit a chunk of roasted apple, you get this burst of concentrated tart-sweet apple with jammy edges, just like biting into an actual Tarte Tatin. The whole thing tastes like you deconstructed the famous French tart and turned it into frozen custard. Sophisticated without being fussy, classic without being boring - exactly what you want when you're eating dessert for breakfast and feeling absolutely no shame about it.
+Then you bite into a chunk of roasted apple—concentrated tart-sweet with jammy caramelized edges—and it's the tart itself, deconstructed and frozen. Sophisticated without being fussy, classic without being boring. Tastes like eating dessert for breakfast and feeling no shame about it.
 
 ---
 
@@ -1796,16 +1798,17 @@ Dark brown sugar in the base, caramelized bananas, and butterscotch creates this
 
 Unlike the Haitian version where coconut milk integrates into the base, here toasted coconut flakes are an optional textural accent. Banana-coconut is a classic Jamaican combination, but here the coconut provides crunch without making the base coconut-forward. The focus remains on banana, rum, and allspice—as it should.
 
+**Cultural context:**
 
-**Contains:** Tree nuts (if using coconut)
+Jamaica's relationship with rum, banana, and allspice isn't a flavor trend—it's geography and history. Allspice (pimento) is native to Jamaica and the surrounding Caribbean, and Jamaicans have been cooking with it for centuries in everything from jerk seasoning to desserts. Rum production has been central to Caribbean economies since the 17th century, and rum-soaked fruit desserts are a staple across the islands—from Jamaican rum cake to Trinidadian black cake. Banana cultivation arrived via Southeast Asia and became one of Jamaica's major crops. These three ingredients didn't get paired because some chef had a clever idea—they grew in the same soil, lived in the same kitchens, and ended up in the same bowls because that's what was there. This ice cream respects that by letting those core flavors lead instead of treating them as exotic accents.
 
-
-**Note:** Can be made without coconut for nut-free version
-
+**Allergen Information:** Contains tree nuts (if using coconut). Can be made without coconut for nut-free version.
 
 **What it tastes like:**
 
-Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—rum depth, caramelized banana sweetness, pockets of chewy-crystalline ginger heat, optional coconut crunch, and dark butterscotch ribbons throughout. Spirited, lively, celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
+Warm amber base with prominent allspice—that characteristic Jamaican pimento flavor—and rum depth that builds as it melts on your tongue. Caramelized banana sweetness, not raw-fruit sweet but dark and complex. Chewy-crystalline ginger hits in pockets of concentrated heat. Dark butterscotch ribbons run through everything—concentrated, almost smoky sweetness. Optional coconut crunch adds textural contrast.
+
+Spirited. Lively. Celebratory. Tastes like a Jamaican party where everyone's invited and everyone's dancing. The kind of ice cream that makes you close your eyes on the first bite and go "oh, hell yes."
 
 ---
 
@@ -1815,9 +1818,9 @@ Warm amber base with prominent allspice—that characteristic Jamaican pimento f
 
 **Difficulty:** LEGIT - You're making a date caramel swirl, dissolving turmeric powder without creating lumpy nightmares, and making custard. The techniques are straightforward but the date caramel demands your attention toward the end or it'll go from glossy to scorched in a heartbeat. The real challenge is psychological: accepting that your ice cream will be AGGRESSIVELY yellow and that's exactly what it's supposed to be. Embrace the yellow, homie.
 
-**Total Time:** 6-8 hours across 2 days (includes simmering, custard-making, and overnight chilling, plus time spent staring at your very yellow custard and wondering if you fucked up - you didn't)
+**Total Time:** 6-8 hours across 2 days (includes simmering, custard-making, and overnight chilling, plus time spent staring at your very yellow custard and wondering if you fucked up—you didn't)
 
-Golden milk - haldi doodh in Hindi - is an Indian drink made with turmeric, and yes, it makes ice cream *very* yellow. Surprisingly yellow. Aggressively yellow. "Did someone spill highlighter ink in this?" yellow. But paired with dates - which have been sweetening Indian food for thousands of years - it actually makes perfect sense. Khajur and haldi are old friends. The turmeric's earthy warmth plays against date's deep caramel-toffee richness in a way that feels inevitable once you taste it, even though it sounds completely unhinged on paper.
+Golden milk—haldi doodh in Hindi—is an Indian drink made with turmeric, and yes, it makes ice cream *very* yellow. Surprisingly yellow. Aggressively yellow. "Did someone spill highlighter ink in this?" yellow. But paired with dates—which have been sweetening Indian food for thousands of years—it actually makes perfect sense. Khajur and haldi are old friends. The turmeric's earthy warmth plays against date's deep caramel-toffee richness in a way that feels inevitable once you taste it, even though it sounds completely unhinged on paper.
 
 You'll spend a moment wondering if you added too much turmeric. You probably didn't. It's supposed to look like that, homie. Embrace the yellow. Become one with the yellow. Let the yellow into your heart.
 
@@ -1844,23 +1847,23 @@ You'll spend a moment wondering if you added too much turmeric. You probably did
 
 **Make Date Caramel Swirl (do this first, it needs to cool):**
 
-Combine the chopped dates and water in a small saucepan over medium-low heat. Simmer for 15-20 minutes until the dates have completely broken down into a thick paste, stirring occasionally and mashing with a fork or the back of a spoon. They should look like a rough puree - no distinct chunks, just a dark, sticky mass. The dates are releasing their natural sugars into the water, creating this incredibly concentrated sweetness that tastes like caramel's earthier, more interesting cousin.
+Combine the chopped dates and water in a small saucepan over medium-low heat. Simmer for 15-20 minutes until the dates have completely broken down into a thick paste, stirring occasionally and mashing with a fork or the back of a spoon. They should look like a rough puree—no distinct chunks, just a dark, sticky mass. The dates are releasing their natural sugars into the water, creating this incredibly concentrated sweetness that tastes like caramel's earthier, more interesting cousin.
 
-Now add the butter and stir until it melts and incorporates. The mixture will go glossy and rich. Add the heavy cream and stir until smooth - you're building a caramel-like sauce using the dates' natural sugars instead of refined sugar. Add a pinch of flaky salt and the optional cardamom if you're using it.
+Now add the butter and stir until it melts and incorporates. The mixture will go glossy and rich. Add the heavy cream and stir until smooth—you're building a caramel-like sauce using the dates' natural sugars instead of refined sugar. Add a pinch of flaky salt and the optional cardamom if you're using it.
 
-Cook for another 5-8 minutes over low heat, stirring constantly. You're looking for a thick, glossy sauce that coats the back of a spoon and holds its shape when you drag your finger through it. Think caramel sauce consistency - pourable but thick. If it's still loose and watery, keep cooking. If it starts to look dry or catch on the bottom, pull it off the heat immediately and add a splash more cream.
+Cook for another 5-8 minutes over low heat, stirring constantly. You're looking for a thick, glossy sauce that coats the back of a spoon and holds its shape when you drag your finger through it. Think caramel sauce consistency—pourable but thick. If it's still loose and watery, keep cooking. If it starts to look dry or catch on the bottom, pull it off the heat immediately and add a splash more cream.
 
-You can leave this chunky for a more rustic texture or blend it smooth with an immersion blender. I like it smooth for this one - you get these clean ribbons of dark caramel against the yellow base. Cool completely, then refrigerate. It'll thicken further as it chills, which is exactly what you want.
+You can leave this chunky for a more rustic texture or blend it smooth with an immersion blender. I like it smooth for this one—you get these clean ribbons of dark caramel against the yellow base. Cool completely, then refrigerate. It'll thicken further as it chills, which is exactly what you want.
 
 **Make Custard:**
 
-Heat the cream and milk in a saucepan until steaming - you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180 degrees F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
+Heat the cream and milk in a saucepan until steaming—you want it hot enough that the dairy can dissolve the golden milk powder properly, but not boiling. We're looking at around 170-180 degrees F if you're checking with a thermometer, or just "steaming nicely but not bubbling" if you're going by feel.
 
 Here's the critical step that prevents lumpy turmeric nightmares: whisk the golden milk powder into the warm dairy until completely dissolved. And I mean *completely*, dude. No streaks, no little yellow clumps floating around, no granules at the bottom of the pan. Turmeric is notorious for clumping if you add it to cold liquid or don't whisk thoroughly. Those lumps won't dissolve later, and biting into a pocket of straight turmeric powder in your ice cream is... not the damn vibe we're going for. It's bitter, gritty, and weird.
 
 Take your time with this. Whisk for a solid 30-60 seconds until you see nothing but smooth, uniformly bright yellow dairy. If you do see lumps, keep whisking. If they're really stubborn, use an immersion blender for 10 seconds and they'll disappear.
 
-Now make your custard with the egg yolks, sugar, and date molasses using the standard method - temper the yolks, return to the pan, cook to 170-175 degrees F while stirring constantly. The date molasses adds natural sugar and this deep toffee undertone throughout the base, so the whole thing tastes gently of dates even before you add the swirl. Add a pinch of salt to balance all that sweetness.
+Now make your custard with the egg yolks, sugar, and date molasses using the standard method—temper the yolks, return to the pan, cook to 170-175 degrees F while stirring constantly. The date molasses adds natural sugar and this deep toffee undertone throughout the base, so the whole thing tastes gently of dates even before you add the swirl. Add a pinch of salt to balance all that sweetness.
 
 Strain it through a fine-mesh sieve. This catches any possible turmeric clumps you might have missed and any cooked egg bits. Cool over an ice bath, stirring occasionally until it's not hot anymore.
 
@@ -1870,15 +1873,15 @@ Refrigerate at least 4 hours, preferably overnight so the spices can bloom and m
 
 **Churn:**
 
-Churn until soft-serve consistency. The base will look like liquid sunshine - bright, golden, almost glowing.
+Churn until soft-serve consistency. The base will look like liquid sunshine—bright, golden, almost glowing.
 
-Layer into your container: spread one-third of the ice cream, drizzle that thick date caramel in ribbons across the top (don't spread it, just let it sit in distinct lines). Repeat twice more. Gently swirl with a butter knife to create some marbling - just a few swooshes through the layers to drag the caramel around. You want distinct ribbons of dark amber-brown date caramel against that bright yellow base. The contrast is beautiful - warm gold against deep brown, like sunrise over sand.
+Layer into your container: spread one-third of the ice cream, drizzle that thick date caramel in ribbons across the top (don't spread it, just let it sit in distinct lines). Repeat twice more. Gently swirl with a butter knife to create some marbling—just a few swooshes through the layers to drag the caramel around. You want distinct ribbons of dark amber-brown date caramel against that bright yellow base. The contrast is beautiful—warm gold against deep brown, like sunrise over sand.
 
 Freeze 4+ hours until firm.
 
 ## Notes
 
-**Golden milk powder - what's actually in it and why:**
+**Golden milk powder—what's actually in it and why:**
 
 Golden milk powder usually contains turmeric (the star, obviously), ginger, cinnamon, cardamom, and sometimes coconut milk powder or black pepper. Each spice plays a role:
 
@@ -1895,35 +1898,39 @@ If you can't find pre-mixed golden milk powder, you can make your own blend: 1.5
 
 **Why dissolve the powder in warm dairy first:**
 
-This isn't optional fussiness - it's preventing a real problem. Turmeric and other ground spices have a tendency to clump when added to liquid, especially cold liquid. The particles are hydrophobic (water-repelling) on the outside, which means they form these little balls that resist breaking down. Warm liquid helps break down those barriers, and vigorous whisking distributes the particles evenly before they have a chance to clump together.
+This isn't optional fussiness—it's preventing a real problem. Turmeric and other ground spices have a tendency to clump when added to liquid, especially cold liquid. The particles are hydrophobic (water-repelling) on the outside, which means they form these little balls that resist breaking down. Warm liquid helps break down those barriers, and vigorous whisking distributes the particles evenly before they have a chance to clump together.
 
 If you skip this step and just dump powder into cold custard base, you'll end up with yellow streaks, gritty texture, and possible bitter spots where turmeric clumped. Nobody wants that. Do it right the first time and save yourself the heartbreak.
 
 **About the color (yes, we need to talk about it):**
 
-Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural - that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for fuck's sake), and it does not hold back.
+Let's be real: this ice cream is *very* yellow. Bright, sunny, turmeric yellow. Almost aggressively yellow. "Did you put food coloring in this?" yellow. "Is this safe to eat?" yellow. It's natural—that's just what turmeric does when you use enough of it to actually taste it. Turmeric is one of the most powerful natural pigments on earth (it's used as fabric dye, for fuck's sake), and it does not hold back.
 
-The date caramel swirls provide essential visual contrast with their dark amber-brown color. Without them, you're just staring at a container of bright yellow and wondering if you've made a terrible mistake. With them, it looks intentional and beautiful - like you meant for it to be this way, which you did.
+The date caramel swirls provide essential visual contrast with their dark amber-brown color. Without them, you're just staring at a container of bright yellow and wondering if you've made a terrible mistake. With them, it looks intentional and beautiful—like you meant for it to be this way, which you did.
 
 If the yellow intensity seems genuinely too much for your taste (and I get it, it's a lot), you can reduce the golden milk powder to 2.5 tsp next time. You'll lose some flavor complexity, but it'll be less visually shocking.
 
 **About dates and date molasses:**
 
-Dates have been a sweetener in South Asian and Middle Eastern cooking for millennia. Date molasses - called silan in Hebrew, dibs in Arabic, or khajur ka ras in Hindi - is just concentrated date syrup, and it tastes like caramel with depth. You can find it at Middle Eastern markets, Indian grocery stores, or online. Soom and Just Date Syrup are widely available brands.
+Dates have been a sweetener in South Asian and Middle Eastern cooking for millennia. Date molasses—called silan in Hebrew, dibs in Arabic, or khajur ka ras in Hindi—is just concentrated date syrup, and it tastes like caramel with depth. You can find it at Middle Eastern markets, Indian grocery stores, or online. Soom and Just Date Syrup are widely available brands.
 
 If you can't find date molasses, you can make a quick version: simmer 8 pitted Medjool dates in 1 cup of water for 20 minutes until they dissolve, then blend and strain. It won't be as concentrated as the real thing, but it works.
 
 For the swirl, use the best Medjool dates you can find. They should be plump, sticky, and almost obscenely soft. If your dates are dry and firm, soak them in warm water for 30 minutes before using. Dried-out dates make a grainy caramel that nobody enjoys.
 
-**Date caramel versus date molasses in the base - why both:**
+**Date caramel versus date molasses in the base—why both:**
 
 This is a two-pronged approach to date flavor, and both components matter:
 
-The **date molasses** in the base creates subtle, background sweetness with toffee-caramel depth throughout. It's integrated and gentle - you taste it but it doesn't overwhelm the golden milk spices. This keeps turmeric as the primary flavor while giving it something rich and complex to play against.
+The **date molasses** in the base creates subtle, background sweetness with toffee-caramel depth throughout. It's integrated and gentle—you taste it but it doesn't overwhelm the golden milk spices. This keeps turmeric as the primary flavor while giving it something rich and complex to play against.
 
-The **thick date caramel swirl** adds intense pockets of concentrated date flavor and crucial visual interest. When you hit a ribbon of caramel, you get this burst of deep, buttery, almost burnt-sugar richness that momentarily overtakes the turmeric and spices. Then it fades back to the golden milk base. This back-and-forth between earthy spices and rich caramel is what makes the ice cream interesting to eat - you're not getting the same flavor in every bite.
+The **thick date caramel swirl** adds intense pockets of concentrated date flavor and crucial visual interest. When you hit a ribbon of caramel, you get this burst of deep, buttery, almost burnt-sugar richness that momentarily overtakes the turmeric and spices. Then it fades back to the golden milk base. This back-and-forth between earthy spices and rich caramel is what makes the ice cream interesting to eat—you're not getting the same flavor in every bite.
 
 Together they create a date presence that's clear and intentional without overwhelming the turmeric, which is the real star here.
+
+**Cultural context:**
+
+Haldi doodh—turmeric milk—has been a staple of Indian home kitchens for centuries, traditionally served warm before bed or as a remedy when you're feeling run down. It's not a wellness trend invented by a California juice bar, despite what Instagram would have you believe. The combination of turmeric with ginger, cinnamon, cardamom, and black pepper in warm milk is rooted in Ayurvedic practice going back thousands of years. Dates (khajur) are equally ancient in South Asian cuisine—they've been a natural sweetener and energy food across India and the Middle East since well before refined sugar existed. Pairing them with turmeric is a natural extension of flavors that have coexisted in Indian kitchens for generations. This ice cream isn't inventing a combination—it's freezing one that's already been proven.
 
 **Make-ahead strategy:**
 
@@ -1937,15 +1944,13 @@ Breaking this into stages makes it way less overwhelming. Day 1: date caramel. D
 
 **Visual:**
 
-The final product is striking: bright golden-yellow base (like, REALLY yellow - think turmeric latte color but even more intense) with ribbons of dark amber-brown date caramel marbled throughout. The contrast is warm and inviting - gold and brown, like something you'd actually want to eat rather than question. When you scoop it, you'll see swirls and ribbons of caramel against that sunny base. It looks like a sunset - definitely not something you can buy at the grocery store.
+The final product is striking: bright golden-yellow base (like, REALLY yellow—think turmeric latte color but even more intense) with ribbons of dark amber-brown date caramel marbled throughout. The contrast is warm and inviting—gold and brown, like something you'd actually want to eat rather than question. When you scoop it, you'll see swirls and ribbons of caramel against that sunny base. It looks like a sunset—definitely not something you can buy at the grocery store.
 
 **What it tastes like:**
 
-Earthy, warm, slightly peppery from the turmeric - but in a good way, not a "why did you put pepper in my dessert" way. There's gentle heat from ginger, sweetness from cinnamon, floral notes from cardamom all working together. The date brings deep toffee-caramel richness that rounds out turmeric's earthiness and makes the whole thing feel like it was always supposed to taste this way. Because it was - dates and turmeric have been in the same kitchen for thousands of years. We just froze them.
+Earthy turmeric warmth up front—not sharp, not medicinal, just this steady golden glow. Ginger adds brightness. Cinnamon sweetens. Cardamom floats through, floral and unexpected. Then the date caramel hits—deep toffee-butterscotch richness with fudgy, almost sticky texture against the smooth base. Dates and turmeric have shared a kitchen for thousands of years. We just froze them.
 
-The texture is creamy and rich despite the relatively low yolk count (only 3), thanks to the date molasses' natural sugars. When you hit a pocket of date caramel, you get intense buttery sweetness with a slightly sticky, fudgy texture that contrasts beautifully with the smooth base.
-
-It's more interesting than it sounds on paper, chief. The combination of earthy spices and deep caramel sweetness works in this way that makes you think "wait, this is actually genius?" and then immediately take another bite to confirm. It's warming without being heavy, sweet without being cloying, and complex without being inaccessible. Like golden milk finally found the partner it deserved.
+Warming without being heavy, sweet without being cloying, complex without being inaccessible. More interesting than it sounds on paper. Like golden milk finally found the partner it deserved, chief.
 
 ---
 
@@ -2058,11 +2063,11 @@ If you can't find or make Irish brown bread, use good quality whole wheat bread 
 
 **Why this works:**
 
-The magic happens when you toast bread with butter and sugar - it's basically making bread into candy. The starches in the bread caramelize, the butter adds richness, and the sugar creates that crunchy toffee coating. It's the same principle as making croutons, but sweet instead of savory.
+The magic happens when you toast bread with butter and sugar—it's basically making bread into candy. The starches in the bread caramelize, the butter adds richness, and the sugar creates that crunchy toffee coating. It's the same principle as making croutons, but sweet instead of savory.
 
-Using whole wheat bread instead of white bread is crucial. Whole wheat has more complex flavors - nutty, slightly bitter, wheaty - that hold up to the caramelization and create depth. White bread would just taste like generic sweet crunchies. The whole grain character is what makes this distinctly Irish and interesting.
+Using whole wheat bread instead of white bread is crucial. Whole wheat has more complex flavors—nutty, slightly bitter, wheaty—that hold up to the caramelization and create depth. White bread would just taste like generic sweet crunchies. The whole grain character is what makes this distinctly Irish and interesting.
 
-Buttermilk in the custard serves multiple purposes: it adds tang that balances sweetness, it's culturally appropriate (very Irish), and it keeps the ice cream from being cloying despite all the caramel elements. Think of it like how sour cream cuts the richness in Eastern European desserts - same principle.
+Buttermilk in the custard serves multiple purposes: it adds tang that balances sweetness, it's culturally appropriate (very Irish), and it keeps the ice cream from being cloying despite all the caramel elements. Think of it like how sour cream cuts the richness in Eastern European desserts—same principle.
 
 **Irish whiskey vs. other whiskeys:**
 
@@ -2090,7 +2095,7 @@ You can also reserve some of the bread crumble and sprinkle it on top just befor
 
 **Make-ahead timeline:**
 
-The bread crumble can be made up to 3 days ahead and stored airtight at room temperature - actually, it's better if you make it a day ahead so it has time to fully harden. The whiskey caramel keeps for a week refrigerated. The custard base benefits from overnight chilling. This is naturally a two-day project: Day one, make bread crumble and caramel. Day two, make custard, churn, assemble.
+The bread crumble can be made up to 3 days ahead and stored airtight at room temperature—actually, it's better if you make it a day ahead so it has time to fully harden. The whiskey caramel keeps for a week refrigerated. The custard base benefits from overnight chilling. This is naturally a two-day project: Day one, make bread crumble and caramel. Day two, make custard, churn, assemble.
 
 **Allergen Information:**
 
@@ -2104,11 +2109,9 @@ If you want to go full Irish dessert spread, serve it alongside Irish coffee (th
 
 **What it tastes like:**
 
-Creamy and tangy from the buttermilk custard, with these incredible clusters of crunchy, buttery, caramelized bread that taste like fancy toffee got a whole grain education. The whiskey caramel adds depth and that classic Irish coffee note—you get caramel sweetness with a subtle boozy warmth that makes you go "oh, THAT'S why I made this."
+Tangy buttermilk custard underneath—smooth, creamy, slightly sour in the best way. Then you hit a cluster of caramelized bread and everything changes. Crunchy, buttery, almost toffee-like, with whole grain nuttiness that keeps it from being one-note sweet. Whiskey caramel runs through in ribbons—deep, boozy warmth that makes you go "oh, THAT'S why I made this."
 
-The whole grain character from the brown bread keeps it from being one-note sweet—there's nuttiness and complexity and a certain "I'm an adult who eats sophisticated things" energy, even though you're literally eating bread ice cream in your kitchen at 11pm.
-
-It's comfort food disguised as sophistication. Tastes like breakfast and dessert had a baby and that baby went to culinary school. The texture is the real star—that contrast between smooth, tangy custard and crunchy, sweet bread clusters is absolutely fucking addictive. You'll tell yourself you're just having "one more bite" approximately seventeen times. Don't say I didn't warn you.
+Smooth against crunchy is the real star here. You'll tell yourself "one more bite" approximately seventeen times. Absolutely fucking addictive. Comfort food disguised as sophistication.
 
 ---
 
@@ -2120,7 +2123,7 @@ It's comfort food disguised as sophistication. Tastes like breakfast and dessert
 
 **Total Time:** 6-8 hours (most of which is just chilling and waiting, though the active parts demand your full attention or you'll burn shit)
 
-Atole de anis is a traditional Mexican hot beverage - thick, corny, spiced with star anise and sweetened with piloncillo. This ice cream tries to capture that same warm-spiced-corn feeling, which sounds weird as hell until you remember that corn is SWEET and piloncillo (Mexican brown sugar) is basically concentrated caramel that got serious about life. The toasted masa crumble reinforces the corn theme and the piloncillo brittle adds these shards of dark, almost smoky sweetness.
+Atole de anis is a traditional Mexican hot beverage—thick, corny, spiced with star anise and sweetened with piloncillo. This ice cream tries to capture that same warm-spiced-corn feeling, which sounds weird as hell until you remember that corn is SWEET and piloncillo (Mexican brown sugar) is basically concentrated caramel that got serious about life. The toasted masa crumble reinforces the corn theme and the piloncillo brittle adds these shards of dark, almost smoky sweetness.
 
 Fair warning, homie: you'll be toasting masa harina and praying to every god you can think of that it doesn't burn.
 
@@ -2155,33 +2158,33 @@ Fair warning, homie: you'll be toasting masa harina and praying to every god you
 
 **Piloncillo Brittle (make this first):**
 
-If you're using cone-shaped piloncillo, you'll need to grate it or chop it finely first. This takes longer than you'd think because it's dense as fuck - like trying to grate a rock made of sugar. Be patient.
+If you're using cone-shaped piloncillo, you'll need to grate it or chop it finely first. This takes longer than you'd think because it's dense as fuck—like trying to grate a rock made of sugar. Be patient.
 
-Combine the piloncillo (or brown sugar if you're substituting) with water in a light-colored saucepan. Heat over medium-high, swirling occasionally, until it melts and gets VERY dark and syrupy - think molasses consistency. Should smell deeply caramelized, almost smoky. Not burnt-smoky, good-smoky.
+Combine the piloncillo (or brown sugar if you're substituting) with water in a light-colored saucepan. Heat over medium-high, swirling occasionally, until it melts and gets VERY dark and syrupy—think molasses consistency. Should smell deeply caramelized, almost smoky. Not burnt-smoky, good-smoky.
 
-Pull it off the heat, quickly stir in cinnamon and salt. Pour onto parchment IMMEDIATELY - this stuff sets up faster than you can say "piloncillo." It'll be very dark, almost black - that's exactly what you want, dude. Cool completely until hard, then break into small shards. These are your little flavor bombs.
+Pull it off the heat, quickly stir in cinnamon and salt. Pour onto parchment IMMEDIATELY—this stuff sets up faster than you can say "piloncillo." It'll be very dark, almost black—that's exactly what you want, dude. Cool completely until hard, then break into small shards. These are your little flavor bombs.
 
 **Toasted Masa Crumble:**
 
-Melt the butter in a skillet over medium heat. Add the masa harina and toast, stirring CONSTANTLY, for 5-6 minutes until it's nutty and golden. Watch this like your life depends on it - masa burns faster than you'd expect and goes from "not quite there" to "burnt as hell" in about 10 seconds.
+Melt the butter in a skillet over medium heat. Add the masa harina and toast, stirring CONSTANTLY, for 5-6 minutes until it's nutty and golden. Watch this like your life depends on it—masa burns faster than you'd expect and goes from "not quite there" to "burnt as hell" in about 10 seconds.
 
-When it smells fragrant and looks golden, add the piloncillo/sugar, cinnamon, and salt. Stir for 2-3 minutes as the sugar melts and coats the masa in these little clusters. Spread on parchment to cool, then break into small pieces. Should taste like sweet toasted corn - if it tastes burnt, you went too far. Store airtight.
+When it smells fragrant and looks golden, add the piloncillo/sugar, cinnamon, and salt. Stir for 2-3 minutes as the sugar melts and coats the masa in these little clusters. Spread on parchment to cool, then break into small pieces. Should taste like sweet toasted corn—if it tastes burnt, you went too far. Store airtight.
 
 **Infuse Dairy Base:**
 
-Combine cream, milk, corn kernels, whole star anise, and cinnamon stick in a saucepan. Heat over medium to 170-175°F - steaming but not boiling. Pull it off the heat, cover, and steep for 30 minutes. You want the milk to taste DISTINCTLY of sweet corn and warm spices, not just "milk with stuff floating in it."
+Combine cream, milk, corn kernels, whole star anise, and cinnamon stick in a saucepan. Heat over medium to 170-175°F—steaming but not boiling. Pull it off the heat, cover, and steep for 30 minutes. You want the milk to taste DISTINCTLY of sweet corn and warm spices, not just "milk with stuff floating in it."
 
-Strain through a fine-mesh sieve, pressing HARD on the corn to extract all that sweet corn milk. Discard the solids - they've given everything they have.
+Strain through a fine-mesh sieve, pressing HARD on the corn to extract all that sweet corn milk. Discard the solids—they've given everything they have.
 
 **Make Custard:**
 
-Return the infused milk to the saucepan. Add piloncillo and granulated sugar. Heat, stirring, until the piloncillo completely dissolves - this may take a few minutes since it's so dense and stubborn. 
+Return the infused milk to the saucepan. Add piloncillo and granulated sugar. Heat, stirring, until the piloncillo completely dissolves—this may take a few minutes since it's so dense and stubborn. 
 
-Once dissolved and steaming, make your custard with egg yolks using your standard tempering method - slowly drizzle hot milk into the yolks while whisking constantly, then return to the pan and cook to 170-175°F, stirring constantly. The piloncillo gives it this beautiful tan-brown color.
+Once dissolved and steaming, make your custard with egg yolks using your standard tempering method—slowly drizzle hot milk into the yolks while whisking constantly, then return to the pan and cook to 170-175°F, stirring constantly. The piloncillo gives it this beautiful tan-brown color.
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Cool over an ice bath.
 
-Taste it when it's cold - should taste of sweet corn, warm spices (anise and cinnamon), and that deep molasses-y piloncillo sweetness. Star anise should be present but not aggressive - you want warm and licorice-y, not "I'm eating black licorice candy."
+Taste it when it's cold—should taste of sweet corn, warm spices (anise and cinnamon), and that deep molasses-y piloncillo sweetness. Star anise should be present but not aggressive—you want warm and licorice-y, not "I'm eating black licorice candy."
 
 Refrigerate at least 4 hours or overnight.
 
@@ -2193,29 +2196,35 @@ Churn until soft-serve consistency. In the last minute, add the toasted masa cru
 
 **About the ingredients:**
 
-Fresh corn works better than frozen for the infusion, though frozen is fine if that's what you have, friend. The corn infusion gives you this subtle masa flavor that's hard to describe but definitely, unmistakably Mexican. You'll know it when you taste it.
+Fresh corn works better than frozen for the infusion, though frozen is fine if that's what you have. The corn infusion gives you this subtle masa flavor that's hard to describe but definitely, unmistakably Mexican. You'll know it when you taste it.
 
-Mexican canela (Ceylon cinnamon) is softer and sweeter than regular Cassia cinnamon, but regular works fine - don't stress about it. Star anise is authentic to the drink and creates that warm, licorice-y note that makes this taste right.
+Mexican canela (Ceylon cinnamon) is softer and sweeter than regular Cassia cinnamon, but regular works fine—don't stress about it. Star anise is authentic to the drink and creates that warm, licorice-y note that makes this taste right.
 
 **Piloncillo:**
 
-This is the fucking STAR ingredient - unrefined Mexican cane sugar that comes in hard cones. It has this dark, almost smoky molasses-caramel flavor that's completely different from white sugar. Night and day different. You can find it at Mexican markets or in the international aisle of larger grocery stores. If you can't find it, dark brown sugar works as a substitute, though you'll lose some of that characteristic depth that makes this taste authentic.
+This is the fucking STAR ingredient—unrefined Mexican cane sugar that comes in hard cones. It has this dark, almost smoky molasses-caramel flavor that's completely different from white sugar. Night and day different. You can find it at Mexican markets or in the international aisle of larger grocery stores. If you can't find it, dark brown sugar works as a substitute, though you'll lose some of that characteristic depth that makes this taste authentic.
 
 **The masa crumble:**
 
-This reinforces the corn theme while adding a textural element that nods to atole's traditional thickness. Toast it CAREFULLY - it goes from "not quite there" to "burnt to hell" surprisingly fast, and you'll spend the whole time thinking "is it done yet?" while frantically stirring. You want golden and nutty, not dark brown and sad.
+This reinforces the corn theme while adding a textural element that nods to atole's traditional thickness. Toast it CAREFULLY—it goes from "not quite there" to "scorched" surprisingly fast, and you'll spend the whole time thinking "is it done yet?" while frantically stirring. You want golden and nutty, not dark brown and sad.
+
+**Cultural context:**
+
+Atole predates the Spanish conquest—it's a Mesoamerican corn beverage that's been around for thousands of years, originally made by grinding nixtamalized corn into masa and dissolving it in water. The Aztecs drank versions of it, and it's been a daily staple across Mexico ever since. Today you'll find it at street stands and markets everywhere, especially during cold months and during Dia de los Muertos celebrations, where it's traditionally paired with pan de muerto and tamales. The anise-spiced version—atole de anis—is one of the most beloved variations, with star anise adding that warm licorice note that cuts through the corn's sweetness. Piloncillo is the traditional sweetener, and using it here instead of refined sugar isn't just about flavor—it's about respecting a recipe that's been made the same way for generations.
 
 **Make-ahead strategy:**
 
-Both the piloncillo brittle and masa crumble can be made up to 3 days ahead and stored in airtight containers at room temperature. The brittle stays crisp indefinitely if kept dry. The masa crumble will soften slightly after a day or two but still tastes great - if you want maximum crunch, make it the day you're churning. The custard base benefits from overnight chilling anyway, so plan to make the components one day and churn the next.
+Both the piloncillo brittle and masa crumble can be made up to 3 days ahead and stored in airtight containers at room temperature. The brittle stays crisp indefinitely if kept dry. The masa crumble will soften slightly after a day or two but still tastes great—if you want maximum crunch, make it the day you're churning. The custard base benefits from overnight chilling anyway, so plan to make the components one day and churn the next.
 
 **Visual:**
 
-Tan-brown base with golden masa pieces and very dark - almost black - brittle shards. Warm, comforting, and unmistakably Mexican in flavor. Looks like autumn in Mexico City.
+Tan-brown base with golden masa pieces and very dark—almost black—brittle shards. Warm, comforting, and unmistakably Mexican in flavor. Looks like autumn in Mexico City.
 
 **What it tastes like:**
 
-Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than regular sugar. If you've had actual atole, you'll recognize it immediately and probably feel some kind of nostalgic emotion. If you haven't, imagine the best sweet corn you've ever had, spiced with star anise and cinnamon, with caramel depth throughout. It's comfort food in frozen form, homie.
+Sweet corn first—not candy-sweet, real-corn-sweet, that warm golden flavor you get from the best ear of the summer. Star anise comes in warm and licorice-y, not aggressive, just steady. Cinnamon underneath. Piloncillo gives everything this deep, almost smoky caramel depth that regular sugar can't touch—darker, more complex, more interesting. Masa crumble adds nutty crunch that reminds you this is corn three ways. Brittle shards hit in concentrated bursts of dark caramelized sweetness.
+
+If you've had real atole, you'll recognize this immediately. If you haven't, imagine comfort itself—warm, spiced, golden—frozen solid and somehow still comforting. That's this, homie.
 
 ---
 
@@ -2227,7 +2236,7 @@ Warm spices, sweet corn, deep piloncillo sweetness that's way more complex than 
 
 **Total Time:** 6-8 hours (includes 2-4 hours of coffee beans drying while you do literally anything else, plus 4+ hours custard chilling)
 
-Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
+Bocadillo—guava paste—is everywhere in Colombian desserts. It's basically concentrated guava sweetness in a block, which sounds weird but is absolutely fucking delicious. Combined with dark panela-coffee caramel and candied coffee beans, you get something distinctly Colombian: bright tropical fruit balanced by deep, dark coffee notes that'll wake you up and make you happy.
 
 More components than strictly necessary, but they all earn their place. No freeloaders here, homie.
 
@@ -2263,9 +2272,9 @@ More components than strictly necessary, but they all earn their place. No freel
 
 Line a baking sheet with parchment. Combine 1/3 cup panela and 1/4 cup water in a saucepan. Heat over medium-high, stirring until the panela dissolves. Bring to a boil.
 
-Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it.
+Cook WITHOUT STIRRING to 240°F (soft ball stage), about 5-7 minutes. Should be thick and syrupy—you'll know it when you see it.
 
-Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
+Pull it off the heat immediately. Add the coffee beans, stir quickly to coat completely—every bean needs coverage.
 
 Working FAST because this shit sets up quicker than you can say "I should've been ready," pour onto the parchment and spread in a single layer using two forks to separate the beans before the mixture sets. Should look glossy and lacquered, like edible jewelry.
 
@@ -2279,13 +2288,13 @@ Strain through a fine-mesh sieve to remove any lumps or weird bits. Cool complet
 
 **Coffee-Panela Caramel Swirl:**
 
-Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
+Brew strong coffee or espresso, let it cool COMPLETELY—like actually cold, not "oh this seems cool enough." Have the cooled coffee, warmed cream, and butter measured and sitting right next to the stove—caramel moves faster than bad news, dude.
 
-Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
+Combine panela and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there like a creep.
 
-Pull it off the heat. Carefully pour in the cooled coffee—it'll bubble and steam dramatically. Whisk until smooth.
+Pull it off the heat. Carefully pour in the cooled coffee—it'll bubble and steam dramatically. Whisk until smooth.
 
-Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela—like Colombia in a pan.
+Add the warmed cream and butter, whisk thoroughly. Should be dark brown and smell INTENSELY of coffee and caramelized panela—like Colombia in a pan.
 
 Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick but pourable when cold, like honey.
 
@@ -2293,13 +2302,13 @@ Add a pinch of salt. Cool to room temperature, then refrigerate. Should be thick
 
 Heat cream and milk until steaming. Whisk together egg yolks and sugar in a separate bowl until pale and slightly thickened.
 
-Slowly pour the hot cream mixture into the yolks while whisking constantly—you know how to temper yolks. Return the entire mixture to the saucepan.
+Slowly pour the hot cream mixture into the yolks while whisking constantly—you know how to temper yolks. Return the entire mixture to the saucepan.
 
 Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175°F.
 
 Pull it off the heat. Stir in vanilla and salt. Strain. Fold in that cooled guava syrup while the custard is still warm, whisking until completely incorporated. Should turn this gorgeous bright pink and smell of tropical guava.
 
-Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
+Cool over an ice bath. Taste it cold—should be sweet guava with floral tropical notes that make you think about beaches even if you're landlocked as hell.
 
 Refrigerate at least 4 hours or overnight.
 
@@ -2307,7 +2316,7 @@ Refrigerate at least 4 hours or overnight.
 
 Churn until soft-serve. In the last minute, add those candied coffee beans.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife—you want those dramatic streaks.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle coffee-panela caramel in ribbons, repeat twice. Gently swirl with a knife—you want those dramatic streaks.
 
 Freeze 4+ hours.
 
@@ -2317,15 +2326,15 @@ Freeze 4+ hours.
 
 Colombian guava paste made with guava pulp and panela, sold in firm blocks at Latin markets. Typically costs $3-5 for an 8-10 oz package, found in the international or Latino foods section. Look for brands like La Constancia or Dulces de Colombia.
 
-Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup—not quite the same but it'll work.
+Already contains panela, giving it authentic Colombian depth. If unavailable, use regular guava paste and add 2 tbsp dark brown sugar to the syrup—not quite the same but it'll work.
 
 **Panela:**
 
-Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine.
+Unrefined Colombian cane sugar—has deep molasses-caramel notes that regular sugar just can't touch. Find it as cones or grated in Latin markets. If unavailable, dark brown sugar works fine.
 
 **Coffee:**
 
-Use Colombian coffee if possible for authenticity—it's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
+Use Colombian coffee if possible for authenticity—it's what they're famous for. Coffee MUST be completely cooled before adding to hot caramel or you'll get dangerous spattering and a mess and possibly burns. Don't be a hero. Let it cool.
 
 **Light custard:**
 
@@ -2333,11 +2342,11 @@ Using 3-4 yolks (I recommend 4) prevents richness from overwhelming that delicat
 
 **Candied coffee beans:**
 
-Provide these intense coffee bursts when you bite into them—the coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
+Provide these intense coffee bursts when you bite into them—the coating should be hard and glassy when dried. Work quickly when coating the beans because panela syrup sets faster than regular sugar syrup.
 
 **Cultural context:**
 
-Bocadillo is ubiquitous in Colombian desserts—it's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or café con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients—bocadillo, panela, and coffee—in a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
+Bocadillo is ubiquitous in Colombian desserts—it's THE guava product, found in everything from traditional desserts to simple snacks paired with cheese. Colombia is also one of the world's premier coffee producers, with coffee culture deeply embedded in daily life. A typical Colombian breakfast includes tinto (small cup of black coffee) or café con leche, and coffee breaks are serious business. Panela, that unrefined cane sugar, is used in everything from hot drinks (agua de panela) to desserts and savory dishes. This recipe brings together three distinctly Colombian ingredients—bocadillo, panela, and coffee—in a way that honors their individual characters while creating something new. The combination of tropical guava with dark coffee isn't traditional Colombian ice cream (mantecado is more common), but it translates these beloved flavors into frozen form.
 
 **Visual:**
 
@@ -2345,7 +2354,7 @@ Bright pink guava base with dark brown coffee-caramel swirls and glossy dark can
 
 **What it tastes like:**
 
-Bright tropical guava up front—floral, sweet, distinctly guava—punctuated by intense dark coffee-caramel ribbons and crunchy coffee beans that give you little hits of caffeine and bitterness. Two strong flavors that somehow complement each other instead of fighting. Distinctly Colombian and absolutely worth the effort, homie.
+Bright tropical guava up front—floral, sweet, unmistakably guava in a way that hits different from any other fruit. Then dark coffee-caramel ribbons cut through, intense and bittersweet, pulling the whole thing toward something richer and more complex. Crunchy candied coffee beans scatter through in little bursts of caffeine and roasted bitterness that wake up your palate. Two bold flavors that somehow complement each other instead of fighting—the guava's tropical sweetness grounding the coffee's edge, the coffee's depth keeping the guava honest. Distinctly Colombian, unapologetically bold. Worth every damn minute of the effort, homie.
 
 ---
 
@@ -2359,7 +2368,7 @@ Bright tropical guava up front—floral, sweet, distinctly guava—punctuate
 
 Sfogliatelle is this iconic Neapolitan pastry with layers of crispy shell and creamy ricotta-semolina filling. This ice cream tries to capture that same vibe: creamy ricotta base, candied fruit (apricot instead of traditional citron), and toasted semolina for that characteristic gritty-crunchy texture.
 
-Fair warning, chief: you'll be whipping ricotta for a while, and the candied apricots take most of a damn day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
+Fair warning, chief: you'll be whipping ricotta for a while, and the candied apricots take most of a damn day to dry. This is a multi-component situation, but none of the individual techniques are hard—you're just orchestrating several things. Plan accordingly.
 
 ## Ingredients
 
@@ -2396,9 +2405,9 @@ Fair warning, chief: you'll be whipping ricotta for a while, and the candied apr
 
 **Candied Apricots (make first, needs 4+ hours drying):**
 
-Cut the dried apricots into small pieces—raisin-sized. Blanch them for 1 minute in boiling water, drain, rinse. (This softens them up a bit.)
+Cut the dried apricots into small pieces—raisin-sized. Blanch them for 1 minute in boiling water, drain, rinse. (This softens them up a bit.)
 
-Combine 1 cup water, 3/4 cup sugar, and a squeeze of lemon in a saucepan. Bring to a simmer, add the apricots. Cook gently for 30-40 minutes until they're translucent and glossy—they should look like little jewels.
+Combine 1 cup water, 3/4 cup sugar, and a squeeze of lemon in a saucepan. Bring to a simmer, add the apricots. Cook gently for 30-40 minutes until they're translucent and glossy—they should look like little jewels.
 
 Transfer to a rack set over parchment with a slotted spoon. Now here's the tedious part: dry them for 4+ hours until they're tacky but not wet. This will take forever. I'm sorry. But it's worth it. Then toss in sugar and store airtight.
 
@@ -2416,25 +2425,25 @@ Add sugar, tiny pinch of cinnamon, and salt. Stir for 2-3 minutes as the sugar c
 
 **Make Light Custard:**
 
-Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175°F—this is lighter than our usual rich custard, giving a more delicate texture that lets the ricotta shine. Don't let it boil or you'll have sweet scrambled eggs.
+Heat cream, milk, and half the sugar until steaming. Make your custard with egg yolks and the remaining sugar to 170-175°F—this is lighter than our usual rich custard, giving a more delicate texture that lets the ricotta shine. Don't let it boil or you'll have sweet scrambled eggs.
 
 Stir in the cinnamon, vanilla, and salt. Strain. Fold in the cooled apricot reduction while it's still warm. Cool over an ice bath.
 
 **Prepare Ricotta:**
 
-This is fucking *important*, homie: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
+This is fucking *important*: Whip the whole milk ricotta in a food processor or with a hand mixer for 2-3 minutes until it's completely smooth and creamy—should look like whipped cream cheese. No graininess should remain. If you skip this step, the ricotta will freeze grainy and you'll be sad. Don't skip it.
 
 **Combine:**
 
-Once the custard is completely cold—not warm, not room temp, COLD—fold in the whipped ricotta. Whisk until smooth and uniform. Should taste of ricotta creaminess, apricot, cinnamon, and vanilla all playing together.
+Once the custard is completely cold—not warm, not room temp, COLD—fold in the whipped ricotta. Whisk until smooth and uniform. Should taste of ricotta creaminess, apricot, cinnamon, and vanilla all playing together.
 
-Refrigerate at least 4 hours or overnight. The ricotta needs proper cold time to integrate with the custard base—don't rush this or the texture will be off.
+Refrigerate at least 4 hours or overnight. The ricotta needs proper cold time to integrate with the custard base—don't rush this or the texture will be off.
 
 **Churn:**
 
 Churn until soft-serve. The ricotta makes this denser than standard custard, so expect it to look thick and pale cream-colored when ready. In the last minute, add the candied apricot pieces and about 2/3 of the semolina crumble. Reserve some crumble for topping later if you want to get fancy.
 
-Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work, homie. Freeze 4+ hours.
+Transfer to your container. For maximum textural interest, layer it: spread 1/3 of the ice cream, scatter some reserved crumble, repeat twice. Or just fold everything in and call it a day—both work. Freeze 4+ hours.
 
 ## Notes
 
@@ -2448,24 +2457,28 @@ Using 3-4 yolks (I recommend 4) instead of 5-6 keeps this lighter, which lets th
 
 **Semolina:**
 
-This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's fucking delicious. Must be toasted first because raw semolina is bland as hell. The butter and sugar create these little caramelized clusters that are absolutely perfect.
+This is authentic—semolina is in the original pastry filling AND provides that characteristic gritty-crunchy texture that makes sfogliatelle what it is. Semolina is durum wheat flour—the same stuff pasta is made from. In Southern Italian pastry-making, it's prized because it holds up to moisture better than all-purpose flour while adding this subtle grittiness that's fucking delicious. Must be toasted first because raw semolina is bland as hell. The butter and sugar create these little caramelized clusters that are absolutely perfect.
 
 **Apricot vs. citron:**
 
-Traditional sfogliatelle uses candied orange peel or citron—preserved citrus has been part of Italian pastry-making for centuries, originally as a way to use the whole fruit and extend shelf life. Citron (*cedro* in Italian) in particular is traditional in Neapolitan sfogliatelle. It's this massive, knobby citrus fruit that's mostly pith, and the candied peel has this intensely perfumed, floral-bitter character.
+Traditional sfogliatelle uses candied orange peel or citron—preserved citrus has been part of Italian pastry-making for centuries, originally as a way to use the whole fruit and extend shelf life. Citron (*cedro* in Italian) in particular is traditional in Neapolitan sfogliatelle. It's this massive, knobby citrus fruit that's mostly pith, and the candied peel has this intensely perfumed, floral-bitter character.
 
 I chose apricot because: (1) citron is fucking impossible to find unless you're in an Italian neighborhood or ordering online, (2) apricots have a similar candied texture and jewel-tone look when prepared this way, and (3) stone fruit feels more modern while still respecting the Italian sweet-tart-fruit tradition. 
 
-If you want to go fully traditional, candied orange peel is much easier to source and works beautifully—just blanch fresh orange peel three times to remove bitterness, then follow the same candying process with the sugar syrup. Some specialty Italian markets sell pre-candied citron if you're feeling ambitious, but it'll cost you.
+If you want to go fully traditional, candied orange peel is much easier to source and works beautifully—just blanch fresh orange peel three times to remove bitterness, then follow the same candying process with the sugar syrup. Some specialty Italian markets sell pre-candied citron if you're feeling ambitious, but it'll cost you.
 
+**Cultural context:**
+
+Sfogliatelle is Naples, full stop. The pastry originated in a 17th-century convent in the Amalfi Coast—Santa Rosa monastery—where nuns made a filled pastry with semolina, ricotta, and candied fruit. The recipe eventually migrated to Naples, where bakers developed the iconic shell-shaped, multi-layered version (sfogliatella riccia) that you find in every pasticceria in the city today. Neapolitans are fiercely protective of their sfogliatelle—there are bakeries that have been making them the same way for over a century, and arguments about whose is best can get genuinely heated. The filling—ricotta, semolina, candied fruit, warm spices—is the soul of the pastry, and that's what this ice cream captures. The pastry shell itself doesn't translate to frozen form (it'd get soggy in minutes), so the semolina crumble stands in for that crucial textural crunch.
 
 **Make-Ahead:** 
 The candied apricots can be made up to a week ahead and stored airtight. The semolina crumble keeps for 3-4 days in an airtight container. Make the custard base the night before churning for best results.
 
+**Allergen Information:** Contains wheat/gluten (semolina crumble).
 
 **What it tastes like:**
 
-Creamy ricotta, warm cinnamon-vanilla spice, bright apricot sweetness, and that textural crunch from the semolina that makes you think "oh yeah, this IS supposed to be a pastry." Captures the essence of the pastry without trying to literally recreate it in frozen form.
+Creamy ricotta first—smooth, slightly tangy, unmistakably Italian. Warm cinnamon-vanilla spice underneath, familiar and comforting. Bright apricot sweetness cuts through in concentrated bursts—tart, fruity, almost jammy where the candied pieces have softened. Semolina crumble adds that crucial textural crunch and a toasty, wheaty note that makes your brain go "oh yeah, this is supposed to be a pastry." The whole thing captures sfogliatelle's essence—ricotta filling, warm spice, fruit, flaky crunch—without trying to literally recreate the pastry in frozen form. Naples in a bowl, homie.
 
 ---
 
@@ -2575,17 +2588,21 @@ Classic Chinese combination that goes back centuries. In traditional Chinese med
 
 Candied ginger (tang jiang) is traditional in Chinese sweets and preserved fruits—it's been made for over a thousand years as both a confection and a digestive aid. The crystalline coating gives you textural contrast against the creamy ice cream while the ginger heat cuts through the richness. It's one of those things that just *works*, and you don't question it.
 
+**Cultural context:**
+
+Sichuan cuisine is famous for "mala"—the numbing-hot flavor profile that comes from combining Sichuan peppercorns (the numbing) with chili peppers (the hot). It's the defining characteristic of an entire regional cuisine, and it's been that way for centuries. This ice cream borrows the numbing half of that equation and pairs it with roasted plums and five-spice, which draws on a different but equally deep Chinese tradition: preserved fruits. Li hing mui, huamei, and other spiced dried plums have been popular snacks across China (and throughout the Chinese diaspora) for generations. The idea of pairing stone fruit with warming spices and a tingling sensation isn't experimental—it's deeply rooted in Chinese flavor logic. We're just freezing it.
+
 **Make-Ahead:**
 
 - Candied ginger: Make up to 2 weeks ahead, store airtight (also makes a great snack, but pace yourself)
 - Roasted plums: Make a day ahead, refrigerate (puree and chunks separately)
 - Custard base: Make the night before churning—the five-spice mellows and melds overnight in a really good way
 
-Spread this out and it's barely any work on churn day. Don't be a hero, chief. Use the time.
+Spread this out and it's barely any work on churn day. Don't be a hero. Use the time.
 
 **What it tastes like:**
 
-Deep, wine-like plum flavor up front, then warm five-spice—especially that licorice-y star anise note—then occasional pockets of crystalline-chewy ginger that add heat and texture. You might notice a subtle tingling sensation from the Sichuan peppercorns that makes your tongue feel alive. Complex and sophisticated without being pretentious about it. Like wearing a really nice jacket to a barbecue.
+Deep wine-like plum up front—not candy-sweet, real plum, dark and jammy with tart edges. Five-spice builds underneath, warm and complex—especially that licorice-y star anise note humming through everything. Crystalline-chewy ginger hits in pockets of concentrated heat and texture. Then a subtle tingling across your tongue from the Sichuan peppercorns—not spicy exactly, just this electric alive feeling that makes everything taste brighter and more interesting. Complex and sophisticated without being pretentious about it. Like wearing a really nice jacket to a barbecue, chief.
 
 ---
 
@@ -2754,15 +2771,16 @@ The triple brown butter approach (candied nuts, infused base, butterscotch swirl
 
 **Difficulty:** THE REAL DEAL - Tahini is oily and thick, which means it can split your custard if you're not careful about integration. Rose water is potent as fuck and the line between "delicate floral" and "soap factory" is thinner than you think. You're also working with halva, which has a specific crumbly-but-cohesive texture that you need to respect. Plus candying pistachios. None of this is technically hard, but you need to pay attention and follow the steps in order or you'll end up with a grainy, soapy mess. Not trying to scare you, just being real.
 
-**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time - really just 90 minutes of actual work spread across two days while you do other shit)
+**Total Time:** 8-10 hours across 2 days (includes candying pistachios and freezing time—really just 90 minutes of actual work spread across two days while you do other shit)
 
-**Allergen Information:** 
+**Allergen Information:** Contains tree nuts (pistachios).
 
-Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version - tahini-based halva with that distinctive fibrous, flaky texture - is what we're channeling here, homie. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually addictive as hell.
+Halva is one of those Middle Eastern confections that's been around forever and shows up in about a dozen different forms across different countries. The Turkish version—tahini-based halva with that distinctive fibrous, flaky texture—is what we're channeling here, homie. It's intensely sweet, nutty from the sesame, and has this almost chalky mouthfeel that sounds weird but is actually addictive as hell.
 
-Adding rose water is traditional in Turkish sweets - it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
+Adding rose water is traditional in Turkish sweets—it cuts the richness and adds this haunting floral note that makes everything feel more elegant. The trick is using just enough to make people wonder what that flavor is without being able to name it. Too little and it disappears. Too much and you've made potpourri ice cream.
 
 This ice cream is rich, complex, and definitely not for people who think vanilla is adventurous. But if you're into Middle Eastern desserts or just want to make something genuinely different, this is your move.
+
 ## Ingredients
 
 **Tahini Custard Base:**
@@ -2795,51 +2813,51 @@ This ice cream is rich, complex, and definitely not for people who think vanilla
 
 **Candied Pistachios (make these first, can be done up to a week ahead):**
 
-Roughly chop the pistachios - you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution.
+Roughly chop the pistachios—you want pieces, not dust. Some whole ones, some halves, some smaller bits. Variety in size means better texture distribution.
 
-Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer - don't guess, pal.
+Line a baking sheet with parchment. Combine sugar and water in a medium saucepan over medium heat, stirring until the sugar dissolves. Stop stirring and cook until it reaches 240°F (soft ball stage). This takes 5-7 minutes and requires a candy thermometer—don't guess, pal.
 
-Add the pistachios, rose water, and salt. Stir constantly. The mixture will crystallize and look like a grainy disaster - this is completely normal and exactly what should happen. The sugar is reverting to crystal form as it cools on contact with the room-temperature nuts and the water from the rose water. Keep stirring over medium heat and the sugar will melt again, turning into a glossy coating on the nuts. Takes about 3-5 minutes of constant stirring, and your arm will get tired. Push through it.
+Add the pistachios, rose water, and salt. Stir constantly. The mixture will crystallize and look like a grainy disaster—this is completely normal and exactly what should happen. The sugar is reverting to crystal form as it cools on contact with the room-temperature nuts and the water from the rose water. Keep stirring over medium heat and the sugar will melt again, turning into a glossy coating on the nuts. Takes about 3-5 minutes of constant stirring, and your arm will get tired. Push through it.
 
-When the pistachios are evenly coated and starting to turn golden (they won't get very dark because the rose water adds moisture that slows browning), spread them on the parchment in a single layer. Don't clump them together or they'll harden into one giant mass that you'll have to attack with a hammer. Let cool completely - they'll crisp up as they cool, transforming from sticky and soft to crunchy and candy-coated. Break into smaller clusters if needed. Store airtight.
+When the pistachios are evenly coated and starting to turn golden (they won't get very dark because the rose water adds moisture that slows browning), spread them on the parchment in a single layer. Don't clump them together or they'll harden into one giant mass that you'll have to attack with a hammer. Let cool completely—they'll crisp up as they cool, transforming from sticky and soft to crunchy and candy-coated. Break into smaller clusters if needed. Store airtight.
 
 **Honey-Rose Swirl:**
 
-This is stupid simple. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined - about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
+This is stupid simple. Combine honey, water, rose water, and salt in a small saucepan. Warm over low heat, stirring, just until everything is fluid and well combined—about 2-3 minutes. Don't boil it or you'll drive off the rose water's delicate aromatics, which are volatile compounds that evaporate at relatively low temperatures.
 
-Taste it carefully. You should get honey sweetness first, then a subtle floral note sneaking up behind it. If you can't taste the rose water at all, add another 1/8 tsp. If it tastes like perfume - like you just bit into a bar of soap shaped like flowers - you've gone too far and you'll need to add more honey and water to dilute it. Rose water is STRONG - respect it.
+Taste it carefully. You should get honey sweetness first, then a subtle floral note sneaking up behind it. If you can't taste the rose water at all, add another 1/8 tsp. If it tastes like perfume—like you just bit into a bar of soap shaped like flowers—you've gone too far and you'll need to add more honey and water to dilute it. Rose water is STRONG—respect it.
 
 Let cool to room temperature, then refrigerate. Should be thick but pourable when cold, like honey that's been sitting in the fridge. If it's too thick (honey varies wildly in consistency depending on the source), warm it gently before using.
 
 **Make Custard:**
 
-Combine cream and milk in a saucepan and heat over medium until steaming - you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
+Combine cream and milk in a saucepan and heat over medium until steaming—you want small bubbles forming around the edges but not a rolling boil. While that heats, whisk the egg yolks with the sugar in a separate bowl until pale and thick, about 2 minutes of solid whisking. This pre-mixing is important because it distributes the sugar evenly and starts dissolving it, which prevents graininess in the final custard.
 
-Temper the yolks - you know this drill by now. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
+Temper the yolks—you know this drill by now. Slowly drizzle about 1 cup of the hot cream mixture into the yolks while whisking constantly, then pour the tempered yolk mixture back into the saucepan with the rest of the cream. Cook over medium heat, stirring constantly with a wooden spoon or heatproof spatula, until it reaches 170-175°F and coats the back of a spoon. When you drag your finger through the custard on the spoon, it should leave a clear line that doesn't immediately fill back in.
 
 **Integrate Tahini (THIS IS CRITICAL):**
 
-This is where people usually fuck up, so listen carefully. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth - no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
+This is where people usually fuck up, so listen carefully. Remove the custard from heat. Scoop out 1 cup of the hot custard into a separate bowl. Add the tahini to this smaller portion and whisk vigorously until completely smooth—no streaks, no separation, no oil slicks floating on top, just uniform tan liquid that looks like peanut butter thinned with cream. This takes about 30 seconds of actual, aggressive whisking.
 
 Now pour this tahini mixture back into the main pot of custard, whisking constantly as you pour. The gradual integration prevents the tahini from seizing up or separating into oil slicks that'll make your ice cream look like a science experiment gone wrong.
 
-Why this matters: Tahini is basically sesame butter - it's thick, oily, and prone to breaking when you hit it with temperature changes. The proteins and fats in tahini exist in a delicate emulsion that can easily destabilize. By first mixing it with a smaller amount of hot liquid, you're creating a stable emulsion that can then integrate with the full custard without splitting. Same principle as tempering chocolate or making mayonnaise - you're managing the fat-to-liquid ratio carefully, allowing the proteins to gradually adjust to the new environment instead of shocking them.
+Why this matters: Tahini is basically sesame butter—it's thick, oily, and prone to breaking when you hit it with temperature changes. The proteins and fats in tahini exist in a delicate emulsion that can easily destabilize. By first mixing it with a smaller amount of hot liquid, you're creating a stable emulsion that can then integrate with the full custard without splitting. Same principle as tempering chocolate or making mayonnaise—you're managing the fat-to-liquid ratio carefully, allowing the proteins to gradually adjust to the new environment instead of shocking them.
 
 Add the vanilla, rose water, and salt. Stir thoroughly until everything's incorporated. The custard should be uniformly tan-beige with no oil slicks on top and no separation at all.
 
-Strain through a fine-mesh sieve to catch any bits of cooked egg or any tahini that didn't fully incorporate. Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better - gives the flavors time to meld and develop complexity.
+Strain through a fine-mesh sieve to catch any bits of cooked egg or any tahini that didn't fully incorporate. Cool over an ice bath, stirring occasionally to prevent a skin from forming, then refrigerate at least 4 hours or overnight. Overnight is better—gives the flavors time to meld and develop complexity.
 
 **Prep Halva:**
 
-Break the halva into irregular chunks - think somewhere between pea-sized and chickpea-sized. Don't make them too big or they'll be hard to eat frozen, too small and they'll disappear into the base. Halva is crumbly by nature - it wants to break apart, so this is easier than it sounds. The fibrous texture comes from whipping hot sugar syrup into tahini, which creates these protein-fat structures that give halva its distinctive pull-apart quality. Put these chunks in a container and keep them in the fridge until you're ready to churn.
+Break the halva into irregular chunks—think somewhere between pea-sized and chickpea-sized. Don't make them too big or they'll be hard to eat frozen, too small and they'll disappear into the base. Halva is crumbly by nature—it wants to break apart, so this is easier than it sounds. The fibrous texture comes from whipping hot sugar syrup into tahini, which creates these protein-fat structures that give halva its distinctive pull-apart quality. Put these chunks in a container and keep them in the fridge until you're ready to churn.
 
 **Churn and Assemble:**
 
-Taste the chilled custard base before churning, dude. You should taste subtle rose water - if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
+Taste the chilled custard base before churning, dude. You should taste subtle rose water—if you don't taste it at all, add another 1/8 tsp and stir well, then wait 10 minutes and taste again. Better to add in small increments than to overshoot and end up with grandmother's-perfume ice cream.
 
-Churn until soft-serve consistency. Tahini makes this denser and richer than standard custard - more fat content, different protein structure - so it may take slightly longer than usual to thicken up. Don't worry, just let it go until it's properly thick and creamy.
+Churn until soft-serve consistency. Tahini makes this denser and richer than standard custard—more fat content, different protein structure—so it may take slightly longer than usual to thicken up. Don't worry, just let it go until it's properly thick and creamy.
 
-Layer into your storage container: spread one-third of the ice cream, drizzle some honey-rose swirl in ribbons, scatter halva chunks and candied pistachio clusters. Repeat twice more, building up those layers. Use a knife to gently swirl the honey through - you want ribbons and pockets of concentrated sweetness, not complete integration where everything turns one uniform color.
+Layer into your storage container: spread one-third of the ice cream, drizzle some honey-rose swirl in ribbons, scatter halva chunks and candied pistachio clusters. Repeat twice more, building up those layers. Use a knife to gently swirl the honey through—you want ribbons and pockets of concentrated sweetness, not complete integration where everything turns one uniform color.
 
 Freeze at least 4 hours before serving.
 
@@ -2847,51 +2865,47 @@ Freeze at least 4 hours before serving.
 
 **Finding ingredients:**
 
-Good tahini makes a massive difference here. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can - brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal - that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
+Good tahini makes a massive difference here. Cheap tahini tastes bitter and separates into a pool of oil with concrete-hard paste at the bottom. Get the stuff from Middle Eastern markets if you can—brands like Al Arz or Har Bracha. It should be smooth, pourable, and made from 100% sesame seeds with no added oils or sugar. The separated oil on top is completely normal—that's just what tahini does when it sits. Just stir it back in before measuring, making sure you incorporate all that oil back into the paste.
 
-For halva, check Middle Eastern, Turkish, or Mediterranean markets. You want plain tahini halva, not the chocolate kind or any other fancy flavors that'll compete with the rose water. The texture should be firm but crumbly, with visible fibrous strands running through it when you break it open. Brands like Joyva (which you can find at some regular grocery stores) work fine in a pinch, but specialty brands from Turkish or Middle Eastern stores are usually fresher and better quality - less likely to be stale or rancid.
+For halva, check Middle Eastern, Turkish, or Mediterranean markets. You want plain tahini halva, not the chocolate kind or any other fancy flavors that'll compete with the rose water. The texture should be firm but crumbly, with visible fibrous strands running through it when you break it open. Brands like Joyva (which you can find at some regular grocery stores) work fine in a pinch, but specialty brands from Turkish or Middle Eastern stores are usually fresher and better quality—less likely to be stale or rancid.
 
-Rose water: Buy it from Middle Eastern or Indian grocery stores, or order online from places like Kalustyan's. Make absolutely sure it's food-grade rose water meant for cooking, not the cosmetic kind that's in the beauty aisle. The bottles look similar but the cosmetic stuff often has additives that taste chemical and wrong. A little goes a long way - a 4 oz bottle will last you years because you're using it by the quarter teaspoon.
+Rose water: Buy it from Middle Eastern or Indian grocery stores, or order online from places like Kalustyan's. Make absolutely sure it's food-grade rose water meant for cooking, not the cosmetic kind that's in the beauty aisle. The bottles look similar but the cosmetic stuff often has additives that taste chemical and wrong. A little goes a long way—a 4 oz bottle will last you years because you're using it by the quarter teaspoon.
 
 Raw, unsalted pistachios are available at most grocery stores, but if you can find Turkish or Iranian pistachios at a Middle Eastern market, they're worth the extra effort. More flavor, better texture, deeper green color. The difference is noticeable.
 
 **About rose water:**
 
-This is the ingredient that fucks up most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it - it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation - mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
+This is the ingredient that trips up most people who try Middle Eastern desserts at home, so pay attention. Too little and you won't taste it—it'll be a phantom flavor that doesn't register. Too much and your ice cream tastes like your grandmother's perfume, like you're eating a bouquet of roses that's been sitting in a hot car. The potency comes from the concentrated volatile compounds extracted from rose petals during distillation—mostly citronellol, geraniol, and nerol, which are the same compounds that make roses smell like roses. A tiny amount creates elegant floral complexity. Too much creates overwhelming perfume.
 
 Rose water's intensity varies wildly by brand, so always taste and adjust. The goal is a subtle, haunting floral note that you notice after a few bites, not an aggressive HELLO I AM ROSES assault on your palate when you take the first spoonful.
 
-If you're nervous about it, you can make the custard with just 1/8 tsp rose water and add more to taste before churning. Just remember that cold dulls flavor significantly - what seems subtle when the custard is warm will be even more subtle when frozen. You want it to be just barely noticeable when tasting the warm custard, because it'll be perfect when frozen.
+If you're nervous about it, you can make the custard with just 1/8 tsp rose water and add more to taste before churning. Just remember that cold dulls flavor significantly—what seems subtle when the custard is warm will be even more subtle when frozen. You want it to be just barely noticeable when tasting the warm custard, because it'll be perfect when frozen.
 
 **Cultural context:**
 
-Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets - like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
+Halva shows up across the Middle East, Mediterranean, South Asia, and Eastern Europe, with each region having its own version and fierce opinions about whose is best. The word comes from Arabic "ḥalwā" meaning sweet, which is about as generic as it gets—like calling something "dessert" in English. Turkish halva specifically refers to the tahini-based kind with that distinctive fibrous texture, which comes from whipping hot sugar syrup into tahini in a specific way that creates those characteristic strands.
 
-Rose water has been used in Turkish and Middle Eastern sweets for literally centuries - it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
+Rose water has been used in Turkish and Middle Eastern sweets for literally centuries—it's in baklava, Turkish delight, kunefe, and countless other desserts. The tradition goes back to the Ottoman Empire and even earlier, to Persian cuisine where rose water was considered an essential flavoring. The combination of sesame and rose is classic Turkish, showing up in everything from puddings to pastries to ice cream.
 
-Pistachios are native to the Middle East and have been cultivated there for thousands of years - archaeological evidence shows people eating them in Turkey and Iran as far back as 7000 BCE. Turkish cuisine uses them extensively in both sweet and savory applications. The specific combination of tahini, rose water, and pistachios is unmistakably Turkish, the kind of flavor profile that immediately transports you to an Istanbul sweet shop.
+Pistachios are native to the Middle East and have been cultivated there for thousands of years—archaeological evidence shows people eating them in Turkey and Iran as far back as 7000 BCE. Turkish cuisine uses them extensively in both sweet and savory applications. The specific combination of tahini, rose water, and pistachios is unmistakably Turkish, the kind of flavor profile that immediately transports you to an Istanbul sweet shop.
 
 **Make-ahead strategy:**
 
-Candied pistachios can be made a week ahead - they keep indefinitely in an airtight container at room temperature, and honestly you'll probably snack on half of them before you get around to making the ice cream. The honey-rose swirl lasts for weeks in the fridge. Make the custard base the day before you plan to churn for best results - overnight chilling lets the flavors develop and meld together in ways that same-day churning doesn't achieve. The halva chunks can be broken up and refrigerated in advance too. This is naturally a two-day project, but it's not a lot of active work - it's more about letting things sit and develop than constant hands-on effort.
+Candied pistachios can be made a week ahead—they keep indefinitely in an airtight container at room temperature, and honestly you'll probably snack on half of them before you get around to making the ice cream. The honey-rose swirl lasts for weeks in the fridge. Make the custard base the day before you plan to churn for best results—overnight chilling lets the flavors develop and meld together in ways that same-day churning doesn't achieve. The halva chunks can be broken up and refrigerated in advance too. This is naturally a two-day project, but it's not a lot of active work—it's more about letting things sit and develop than constant hands-on effort.
 
 **Texture notes:**
 
-The halva chunks soften slightly when frozen but maintain their characteristic crumbly-cohesive texture - they won't be as firm as fresh halva, but they also won't dissolve into the base like fruit might. It's this interesting textural element that's chewy and slightly grainy in a good way, like eating frozen cookie dough but with sesame instead of flour.
+The halva chunks soften slightly when frozen but maintain their characteristic crumbly-cohesive texture—they won't be as firm as fresh halva, but they also won't dissolve into the base like fruit might. It's this interesting textural element that's chewy and slightly grainy in a good way, like eating frozen cookie dough but with sesame instead of flour.
 
-The candied pistachios stay crunchy because of the sugar coating protecting them from moisture. Between those and the halva, you get good textural variety against the creamy tahini base - crunch, chew, and smooth all in one bite.
-
+The candied pistachios stay crunchy because of the sugar coating protecting them from moisture. Between those and the halva, you get good textural variety against the creamy tahini base—crunch, chew, and smooth all in one bite.
 
 **Serving suggestion:**
 
-Serve alongside Turkish coffee or mint tea - the bitterness of the coffee or the freshness of the mint cuts through the richness beautifully. Pairs beautifully with baklava if you want to go full Turkish dessert experience, but honestly it's rich enough to stand alone. A small scoop goes a long way - this is dense and intensely flavored, not a three-scoop-in-a-waffle-cone situation. If you want to go full Turkish dessert spread, serve with fresh figs when they're in season and a drizzle of extra honey on the plate. The combination of cold tahini ice cream with warm figs is actually incredible.
-
+Serve alongside Turkish coffee or mint tea—the bitterness of the coffee or the freshness of the mint cuts through the richness beautifully. Pairs beautifully with baklava if you want to go full Turkish dessert experience, but honestly it's rich enough to stand alone. A small scoop goes a long way—this is dense and intensely flavored, not a three-scoop-in-a-waffle-cone situation. If you want to go full Turkish dessert spread, serve with fresh figs when they're in season and a drizzle of extra honey on the plate. The combination of cold tahini ice cream with warm figs is actually incredible.
 
 **What it tastes like:**
 
-Rich, deeply nutty, intensely sesame-forward from the tahini base, with pockets of even more concentrated sesame sweetness from the halva chunks that melt on your tongue and leave behind that characteristic chalky-but-pleasant texture. The rose water comes through as this subtle floral note that makes everything feel more elegant and complex - you might not be able to identify it immediately if you've never had it before, but you'd definitely notice if it wasn't there. It's like the difference between good vanilla extract and vanilla-flavored whatever - one adds depth, the other just adds sweet. Candied pistachios add crunch and reinforce that classic Middle Eastern flavor combination. The honey swirl brings concentrated sweetness and ties the rose water through the whole thing, creating ribbons of floral honey that punctuate the nutty richness.
-
-This is sophisticated and unusual without being weird. People who love tahini and Middle Eastern flavors will lose their fucking minds over this. People who think vanilla is adventurous might find it too intense. Know your audience, chief.
+Deeply nutty. Intensely sesame-forward from the tahini, with halva chunks adding concentrated bursts of that same flavor—crumbly, sweet, slightly chalky in the best way. Rose water haunts the whole thing—subtle, floral, impossible to name but impossible to miss. Honey swirl ties it together in ribbons of concentrated sweetness. Candied pistachios crunch through. Istanbul sweet shop in a bowl, chief.
 
 ---
 
@@ -2903,7 +2917,7 @@ This is sophisticated and unusual without being weird. People who love tahini an
 
 **Total Time:** 6-8 hours (most of which is orange peel simmering and custard chilling while you do literally anything else)
 
-Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
+Alright homie, this is the chocolate recipe you've been waiting for. But we're not doing some basic-ass chocolate ice cream here—we're going deep into the Southwest with New Mexican red chile and dark, almost bittersweet Mexican-style chocolate. This isn't "spicy chocolate" where the heat smacks you in the face. This is integrated warmth, the kind where the chile and chocolate grew up together and know each other's secrets.
 
 The chile brings fruity, earthy heat that builds slowly. The chocolate is dark and complex with hints of coffee. The pepita brittle adds crunch and that toasted-seed flavor that's so distinctly Southwest. And the cinnamon? It's there if you want it, ghosting around in the background, but it's totally optional because not everyone needs cinnamon running the show.
 
@@ -2916,10 +2930,10 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 - 6 egg yolks
 - 6 oz dark chocolate (70% cacao), chopped fine
 - 2 tbsp unsweetened cocoa powder (Dutch-process if you have it)
-- 1-2 tsp ground New Mexican red chile (Hatch, Chimayo, or similar—NOT cayenne)
+- 1-2 tsp ground New Mexican red chile (Hatch, Chimayo, or similar—NOT cayenne)
 - 1 tsp instant espresso powder or finely ground coffee
 - 1 tsp vanilla extract
-- 1/8 tsp ground cinnamon (OPTIONAL—see notes)
+- 1/8 tsp ground cinnamon (OPTIONAL—see notes)
 - 1/4 tsp salt
 
 **Red Chile Caramel Swirl:**
@@ -2949,9 +2963,9 @@ The chile brings fruity, earthy heat that builds slowly. The chocolate is dark a
 
 ## Instructions
 
-**Candied Orange Peel with Chile (make this first—it takes 2+ hours):**
+**Candied Orange Peel with Chile (make this first—it takes 2+ hours):**
 
-Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
+Strip that peel, homie. Cut off the top and bottom of each orange so they sit flat. Score the peel vertically in quarters, then peel off those quarters. Try to get as little white pith as possible—too much pith makes them bitter as hell. Slice the peel into thin strips, about 1/4 inch wide.
 
 Blanch the bitterness out. Put the orange peel strips in a medium saucepan and cover with cold water. Bring to a boil, then drain. Repeat this TWO MORE TIMES with fresh water each time. Yeah, three times. This pulls out the bitter compounds in the pith. Your kitchen will smell incredible, like orange essential oil exploded.
 
@@ -2959,15 +2973,15 @@ Make the chile-spiked syrup. In the same saucepan, combine the 1 cup water, 1 cu
 
 Candy those peels low and slow. Add the blanched orange peel strips to the chile syrup. Bring to a simmer, then reduce heat to low and let them cook gently for about 60-90 minutes. You want the syrup to reduce and thicken and the peels to become translucent and tender. They'll darken and get glossy. Stir occasionally so nothing sticks. You'll know they're done when the syrup is thick and the peels are see-through and floppy.
 
-Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrup—it's incredible drizzled on vanilla ice cream or in cocktails). Toss the hot peels in a bowl of granulated sugar until coated. Spread them on a wire rack or parchment paper and let them dry for at least 2 hours, or up to overnight. They'll get slightly firm but stay chewy. Chop into small pieces before adding to ice cream.
+Sugar coat and dry. Use tongs or a fork to fish out the peels (save that syrup—it's incredible drizzled on vanilla ice cream or in cocktails). Toss the hot peels in a bowl of granulated sugar until coated. Spread them on a wire rack or parchment paper and let them dry for at least 2 hours, or up to overnight. They'll get slightly firm but stay chewy. Chop into small pieces before adding to ice cream.
 
 **Pepita Brittle:**
 
-Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfect—the hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
+Toast those pepitas. Spread the pepitas on a baking sheet and toast at 350°F for 6-8 minutes, stirring once halfway through, until they're golden and fragrant. Some will puff up and that's perfect—the hull has separated slightly from the seed, which means they're releasing their oils and developing deep, nutty flavors. Raw seeds taste vegetal and slightly bitter, but toasted seeds? They're almost popcorn-like, with this incredible toasted richness. Let them cool slightly while you make the caramel.
 
-Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
+Make the caramel and don't walk away. In a medium saucepan, combine the sugar and water. Heat over medium-high without stirring—just swirl the pan occasionally. Watch it like a fucking hawk. It'll go from clear to amber to burnt in about 30 seconds at the end. You want a deep amber color, like good bourbon.
 
-Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hiss—that's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
+Add butter, salt, and pepitas, then GET IT OUT. Once your caramel is amber, kill the heat and stir in the butter and salt (it'll bubble and hiss—that's normal). Immediately add the toasted pepitas and the optional chile if using. Stir fast to coat everything, then dump it all onto a parchment-lined baking sheet. Spread it thin with a spatula. Let it cool completely (about an hour), then break it into small chunks. Store airtight.
 
 **Red Chile Caramel Swirl:**
 
@@ -2995,13 +3009,13 @@ Cook to nappe. Return the saucepan to medium-low heat and cook, stirring constan
 
 Add vanilla and strain. Remove from heat, stir in the vanilla extract, then strain through a fine-mesh strainer into a clean bowl. This catches any bits of cooked egg or undissolved cocoa. Press on the solids to get all that good chocolate custard through.
 
-Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
+Chill the hell out of it. Cover with plastic wrap pressed directly onto the surface to prevent a skin from forming. Refrigerate until completely cold—at least 4 hours, but overnight is better. The custard will thicken more as it chills, and the flavors will meld. The chile heat will also become more pronounced as it sits.
 
 **Churn and Assemble:**
 
-Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistency—thick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
+Churn it. Once your custard is thoroughly chilled, churn until it reaches soft-serve consistency—thick, creamy, and holding its shape. The chocolate and chile make this denser than standard custard, so expect deep, dark brown color with hints of red from the chile.
 
-Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
+Layer with intention. Get a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of that cold red chile caramel, scatter some pepita brittle chunks, add some chopped candied orange peel. Repeat. You're building layers of flavor and texture here—creamy chocolate, crunchy pepitas, chewy-spicy orange, warm caramel. It's a whole damn experience.
 
 Freeze it solid. Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper freezing time to set up.
 
@@ -3009,19 +3023,19 @@ Freeze it solid. Press plastic wrap or parchment directly onto the surface, cove
 
 **Cultural Context:**
 
-New Mexican red chile is the backbone of Southwest cuisine, cultivated in the Rio Grande valley for over 400 years. Hatch, Chimayo, and other regional varieties each have distinct flavor profiles—some fruitier, some earthier, all with that characteristic slow-building warmth that's nothing like cayenne's sharp bite. Pairing chile with chocolate isn't fusion—it's historical. Pre-Columbian Mesoamerican cultures combined cacao and chile in ceremonial drinks long before Europeans "discovered" chocolate. This recipe honors that ancient partnership while bringing it into the frozen dessert tradition of the American Southwest, where summer heat demands cold desserts and bold flavors reign supreme.
+New Mexican red chile is the backbone of Southwest cuisine, cultivated in the Rio Grande valley for over 400 years. Hatch, Chimayo, and other regional varieties each have distinct flavor profiles—some fruitier, some earthier, all with that characteristic slow-building warmth that's nothing like cayenne's sharp bite. Pairing chile with chocolate isn't fusion—it's historical. Pre-Columbian Mesoamerican cultures combined cacao and chile in ceremonial drinks long before Europeans "discovered" chocolate. This recipe honors that ancient partnership while bringing it into the frozen dessert tradition of the American Southwest, where summer heat demands cold desserts and bold flavors reign supreme.
 
 **About the Chile:**
 
-Use NEW MEXICAN red chile—Hatch, Chimayo, or similar varieties. These have a fruity, earthy, complex heat that's totally different from cayenne or regular chili powder. You can find ground New Mexican chile at specialty stores, online, or at any grocery store in New Mexico/Arizona/Southern Colorado. Start with 1 tsp if you're heat-sensitive, go up to 2 tsp if you like warmth. The heat builds slowly and doesn't overpower the chocolate.
+Use NEW MEXICAN red chile—Hatch, Chimayo, or similar varieties. These have a fruity, earthy, complex heat that's totally different from cayenne or regular chili powder. You can find ground New Mexican chile at specialty stores, online, or at any grocery store in New Mexico/Arizona/Southern Colorado. Start with 1 tsp if you're heat-sensitive, go up to 2 tsp if you like warmth. The heat builds slowly and doesn't overpower the chocolate.
 
 **The Cinnamon Question:**
 
-Traditional Mexican chocolate is LOADED with cinnamon. But I get it—cinnamon can be a stage hog. The 1/8 tsp here is barely noticeable, just a whisper of warmth in the background. If you don't like cinnamon at ALL, skip it entirely. The recipe works beautifully without it. The chile, chocolate, and coffee carry the flavor just fine.
+Traditional Mexican chocolate is LOADED with cinnamon. But I get it—cinnamon can be a stage hog. The 1/8 tsp here is barely noticeable, just a whisper of warmth in the background. If you don't like cinnamon at ALL, skip it entirely. The recipe works beautifully without it. The chile, chocolate, and coffee carry the flavor just fine.
 
 **Chocolate Quality Matters:**
 
-Use GOOD dark chocolate, around 70% cacao. This isn't the place for chocolate chips or baking bars from 1987. Brands like Valrhona, Guittard, or even Trader Joe's Pound Plus work great. The chocolate is the foundation here—don't cheap out.
+Use GOOD dark chocolate, around 70% cacao. This isn't the place for chocolate chips or baking bars from 1987. Brands like Valrhona, Guittard, or even Trader Joe's Pound Plus work great. The chocolate is the foundation here—don't cheap out.
 
 **Coffee's Role:**
 
@@ -3029,13 +3043,13 @@ The espresso powder doesn't make this taste like coffee. It deepens and intensif
 
 **About the Candied Orange Peel:**
 
-This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor gods—save it and use it in drinks or drizzled on desserts.
+This is PEAK citrus-chocolate-chile synergy. The orange brings brightness that cuts through the rich chocolate, the chile gives it warmth and depth, and the chewy-tender texture is perfect against the brittle pepitas. It's a labor of love (all that blanching and simmering), but it's SO worth it. The chile-spiked candying syrup is also a gift from the flavor gods—save it and use it in drinks or drizzled on desserts.
 
 If you're short on time, you can skip this component and the ice cream will still be excellent. But if you've got the time, this is what takes it from "really good chocolate ice cream" to "HOLY SHIT where did you get this?"
 
 **Make-Ahead:**
 
-The pepita brittle keeps for a week in an airtight container. The candied orange peel keeps for up to 2 weeks in the fridge, stored in an airtight container. The caramel swirl keeps refrigerated for up to 10 days. The custard base benefits from overnight chilling—the flavors really come together.
+The pepita brittle keeps for a week in an airtight container. The candied orange peel keeps for up to 2 weeks in the fridge, stored in an airtight container. The caramel swirl keeps refrigerated for up to 10 days. The custard base benefits from overnight chilling—the flavors really come together.
 
 
 **Serving Suggestion:**
@@ -3043,9 +3057,9 @@ The pepita brittle keeps for a week in an airtight container. The candied orange
 This is RICH. Like, profoundly rich. Serve smaller portions than you think. It's intensely chocolatey with that slow-building chile warmth that creeps up on you. Pairs insanely well with a shot of espresso or a pour of mezcal if you're feeling fancy.
 
 
-**What It Tastes Like:**
+**What it tastes like:**
 
-This is chocolate ice cream for adults who aren't afraid of complexity. The first taste is deep, dark chocolate with coffee undertones—almost bittersweet. Then the chile heat creeps in, fruity and earthy, building slowly across your palate without ever overwhelming. The pepita brittle adds toasted-seed crunch and nutty richness. The candied orange cuts through with bright, chewy-spicy contrast. Every bite is layered, warm, and deeply satisfying. It's not "chocolate with chile"—it's chocolate and chile as equal partners in something entirely new.
+Deep, dark chocolate with coffee undertones—almost bittersweet. Then chile heat creeps in, fruity and earthy, building slow across your palate without overwhelming. Pepita brittle adds toasted-seed crunch. Candied orange cuts through with bright, chewy-spicy contrast. Every bite layered, warm, deeply satisfying. Not "chocolate with chile"—chocolate and chile as equal partners in something entirely new.
 
 ---
 
@@ -3061,7 +3075,7 @@ This is chocolate ice cream for adults who aren't afraid of complexity. The firs
 
 **VEGAN**
 
-Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
+Mozambique is one of the world's largest cashew producers, coconut is a coastal staple, and piri piri—African bird's eye chili—is THE iconic ingredient. This vegan ice cream combines all three with caramelized depth and a swirl of spicy-garlicky caramel that sounds absolutely batshit but somehow fucking works.
 
 You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's worth it.
 
@@ -3108,63 +3122,63 @@ You'll soak a shit-ton of cashews. Your blender will get a serious workout. It's
 
 **Soak Cashews for Base (do this first, needs 4+ hours):**
 
-Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight—this softens them completely so they'll blend into silky cream instead of chunky bullshit.
+Place 1/2 cup raw cashews in a bowl, cover with water by 2 inches. Soak for minimum 4 hours or overnight—this softens them completely so they'll blend into silky cream instead of chunky bullshit.
 
 Drain and rinse before using.
 
-*Note: The additional 1 cup cashews for candying should NOT be soaked—keep those fuckers dry for roasting.*
+*Note: The additional 1 cup cashews for candying should NOT be soaked—keep those fuckers dry for roasting.*
 
 **Candied Cashews:**
 
 Preheat your oven to 325°F. Toss 1 cup of dry (unsoaked) cashews with coconut oil until coated. Spread on a parchment-lined baking sheet, toast for 10-12 minutes, stirring halfway, until golden and fragrant.
 
-Pull them out of the oven. In a small saucepan, melt the palm sugar over medium heat until it's liquid—it'll turn into this gorgeous molten thing. Pour it over the hot cashews, add lime zest and salt, toss quickly to coat. Work FAST here because this stuff sets up like concrete. Spread back on the parchment to cool completely. Break into small clusters. Store airtight.
+Pull them out of the oven. In a small saucepan, melt the palm sugar over medium heat until it's liquid—it'll turn into this gorgeous molten thing. Pour it over the hot cashews, add lime zest and salt, toss quickly to coat. Work FAST here because this stuff sets up like concrete. Spread back on the parchment to cool completely. Break into small clusters. Store airtight.
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship—watch it carefully, dude. Should smell nutty and sweet.
+In a dry skillet over medium-low, toast those coconut flakes, stirring constantly, for 3-5 minutes until golden brown. Burns quicker than your ex's new relationship—watch it carefully, dude. Should smell nutty and sweet.
 
 Transfer to a plate immediately. Optional: sprinkle with a tiny pinch of salt while warm. Cool completely. Store airtight.
 
 **Piri Piri Caramel Swirl:**
 
-Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
+Have your warmed coconut cream, butter, and aromatics measured and ready right next to the stove—caramel moves faster than bad decisions.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring but necessary.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high WITHOUT STIRRING until it reaches deep amber—copper penny color. This takes about 7-10 minutes of you just standing there watching, which is boring but necessary.
 
-Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
+Pull it off the heat. Carefully pour in the warmed coconut cream—it'll bubble VIOLENTLY and make scary noises. Whisk until smooth.
 
-Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone—yeah, garlic in caramel, trust the fucking process.
+Add the vegan butter, piri piri sauce (or fresh chilies), minced garlic, smoked paprika, and salt. Whisk thoroughly. Should be this gorgeous orange-red with noticeable heat and subtle garlic undertone—yeah, garlic in caramel, trust the fucking process.
 
-Add a squeeze of lime juice. Taste it carefully (it's hot!)—should be sweet with building heat, citrusy brightness, and this whisper of savory depth that makes your brain go "wait, what?"
+Add a squeeze of lime juice. Taste it carefully (it's hot!)—should be sweet with building heat, citrusy brightness, and this whisper of savory depth that makes your brain go "wait, what?"
 
 If using fresh chilies and you want more heat, add another minced chili. Cool to room temperature, then refrigerate. Should be thick but pourable, like honey. Warm it gently if it's too thick.
 
 **Make Coconut-Cashew Base:**
 
-Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky—NO graininess, chief. This is critical. Set aside.
+Drain and rinse those soaked cashews. In a high-powered blender, combine the soaked cashews with 1 cup of the coconut milk. Blend on high for 2-3 minutes until completely smooth and silky—NO graininess, chief. This is critical. Set aside.
 
-In a medium saucepan, whisk the cornstarch with 1/4 cup of the coconut cream until no lumps remain—and I mean NONE. Add the remaining coconut cream, remaining coconut milk, sugar, grated palm sugar, and coconut milk powder if using. Whisk to combine.
+In a medium saucepan, whisk the cornstarch with 1/4 cup of the coconut cream until no lumps remain—and I mean NONE. Add the remaining coconut cream, remaining coconut milk, sugar, grated palm sugar, and coconut milk powder if using. Whisk to combine.
 
 Heat over medium, whisking frequently, until the mixture comes to a gentle simmer and thickens noticeably, like 5-7 minutes. Should coat the spoon with this pudding-like consistency.
 
 Pull it off the heat. Whisk in the cashew cream until completely incorporated and smooth. Add lime zest, lime juice, vanilla, and salt. Whisk thoroughly.
 
-The mixture should be thick, creamy, pale tan, and smell absolutely amazing—coconut, cashew, and lime all hanging out together.
+The mixture should be thick, creamy, pale tan, and smell absolutely amazing—coconut, cashew, and lime all hanging out together.
 
-Strain through a fine-mesh sieve if you want ultra-smooth texture—optional, you can leave the zest for visual interest and I won't judge you.
+Strain through a fine-mesh sieve if you want ultra-smooth texture—optional, you can leave the zest for visual interest and I won't judge you.
 
-Cool over an ice bath, stirring occasionally. Taste it cold—should be rich, creamy, coconutty with cashew depth and lime brightness. Should taste slightly sweet since freezing dulls sweetness like it dulls everything good in life.
+Cool over an ice bath, stirring occasionally. Taste it cold—should be rich, creamy, coconutty with cashew depth and lime brightness. Should taste slightly sweet since freezing dulls sweetness like it dulls everything good in life.
 
 Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient.
+Give the base a good whisk before churning because coconut cream may have separated slightly—it's dramatic like that. Churn until soft-serve consistency. Coconut-based ice cream takes longer than dairy to freeze due to different fat crystallization—expect it to look thick and pale tan when ready. Be patient.
 
 In the last minute, add those candied cashew clusters and toasted coconut flakes.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle piri piri caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic streaks.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle piri piri caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic streaks.
 
 Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy because plant fats are assholes, so remove from the freezer 5-10 minutes before serving to let it soften slightly.
 
@@ -3172,31 +3186,31 @@ Freeze at least 4 hours or overnight. Vegan ice cream freezes harder than dairy 
 
 **Mozambique context:**
 
-Mozambique is one of the world's largest cashew producers—the country has been growing cashews since Portuguese colonists introduced the trees in the 1500s as a way to prevent coastal erosion. Today, cashews are one of Mozambique's most important exports, with most production coming from small family farms in the northern provinces.
+Mozambique is one of the world's largest cashew producers—the country has been growing cashews since Portuguese colonists introduced the trees in the 1500s as a way to prevent coastal erosion. Today, cashews are one of Mozambique's most important exports, with most production coming from small family farms in the northern provinces.
 
-Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
+Coconut is a staple along Mozambique's 1,500-mile coastline—used in everything from curries to desserts. Piri piri (African bird's eye chili) is THE iconic Mozambican ingredient—it's everywhere. The name comes from Swahili, and these tiny, fierce chilies have been cultivated in East Africa for centuries.
 
 Portuguese influence brought garlic-based cooking and the technique of combining sweet and savory flavors in unexpected ways. This combines indigenous ingredients (cashew, coconut, piri piri) with colonial influences (garlic caramel, Portuguese sweet-savory balance) for distinctly Mozambican flavor that's worth understanding.
 
 **Vegan texture:**
 
-Coconut fat crystallizes differently than dairy fat—it's just built different. Full-fat coconut cream is ESSENTIAL here—light won't work, don't even try. Cashew cream adds body and prevents iciness. Cornstarch provides custard-like thickness without eggs. Coconut milk powder adds richness and helps prevent ice crystals. If unavailable, increase cornstarch to 3 tbsp.
+Coconut fat crystallizes differently than dairy fat—it's just built different. Full-fat coconut cream is ESSENTIAL here—light won't work, don't even try. Cashew cream adds body and prevents iciness. Cornstarch provides custard-like thickness without eggs. Coconut milk powder adds richness and helps prevent ice crystals. If unavailable, increase cornstarch to 3 tbsp.
 
-Plant-based ice cream has a different mouthfeel than dairy—it melts faster on your tongue due to coconut fat's lower melting point, which actually intensifies flavor. The tradeoff is that it freezes harder, hence the 5-10 minute tempering time before serving.
+Plant-based ice cream has a different mouthfeel than dairy—it melts faster on your tongue due to coconut fat's lower melting point, which actually intensifies flavor. The tradeoff is that it freezes harder, hence the 5-10 minute tempering time before serving.
 
 **Palm sugar:**
 
-Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work.
+Unrefined palm sugar or jaggery (from palm sap) is traditional in Mozambican sweets. Has this deep, caramel-molasses flavor that's different from regular sugar. If unavailable, use half brown sugar and half white sugar—not quite the same but it'll work.
 
 **Piri piri heat:**
 
-Piri piri chilies (African bird's eye) have sharp, citrusy heat—different from habanero or jalapeño. If you can't find fresh or dried piri piri, use African or Portuguese piri piri sauce (many brands available). Start with 2 tsp in the caramel, taste it, add more if you're feeling brave. Thai bird's eye chilies work as a substitute.
+Piri piri chilies (African bird's eye) have sharp, citrusy heat—different from habanero or jalapeño. If you can't find fresh or dried piri piri, use African or Portuguese piri piri sauce (many brands available). Start with 2 tsp in the caramel, taste it, add more if you're feeling brave. Thai bird's eye chilies work as a substitute.
 
 Garlic in a sweet context sounds absolutely fucking insane but provides savory depth that makes the caramel more complex instead of one-note.
 
 **Soaking cashews:**
 
-This is CRITICAL, homie. Unsoaked cashews won't blend smooth even in a high-powered blender—they'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
+This is CRITICAL, homie. Unsoaked cashews won't blend smooth even in a high-powered blender—they'll stay grainy and ruin everything. Need minimum 4 hours, preferably overnight. Hot water soak works in a pinch (pour boiling water over cashews, soak 30-60 minutes) but overnight cold soak is better.
 
 **Visual:**
 
@@ -3220,15 +3234,15 @@ Creamy cashew richness up front—thick, smooth, and nobody's going to believe i
 
 **Difficulty:** THE REAL DEAL - Four components including coffee-honey custard, berbere caramel, spiced coffee brittle, and optional teff crumble. The berbere needs careful handling because those spices can go from aromatic to bitter fast, and the brittle requires candy work at hard crack stage. Multiple components with timing considerations, but nothing here will actually destroy you. You'll toast spices, watch a thermometer, and smell absolutely incredible while doing it.
 
-**Total Time:** 7-9 hours (includes 2-3 hours of brittle cooling and custard chilling—you'll have plenty of time to drink the coffee you just brewed)
+**Total Time:** 7-9 hours (includes 2-3 hours of brittle cooling and custard chilling—you'll have plenty of time to drink the coffee you just brewed)
 
 **Allergen Information:** 
 
-Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got hyper as hell after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
+Ethiopia is the birthplace of coffee—literally. Legend says a goat herder named Kaldi discovered coffee in the 9th century when his goats got hyper as hell after eating certain berries. Today, the Ethiopian coffee ceremony (jebena buna) is a ritual of hospitality that can last hours, involving roasting green beans, grinding them by hand, and serving three rounds of increasingly lighter coffee with popcorn or peanuts.
 
-Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely fucking beautiful when used right.
+Berbere is Ethiopia's signature spice blend—complex, layered, essential to dishes like doro wat and kitfo. Every family has their own recipe, but it typically includes fenugreek, cardamom, coriander, black pepper, cinnamon, cloves, and dried chilies. The blend is earthy, warm, slightly bitter, and absolutely fucking beautiful when used right.
 
-This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, chief—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
+This brings those elements together: coffee-honey custard, berbere-spiced caramel, spiced coffee brittle, and optional teff crumble for that distinctly Ethiopian grain character. Fair warning, chief—this is not your standard coffee ice cream. This is Horn of Africa complexity in frozen form, and it's going to make you work for it.
 
 ## Ingredients
 
@@ -3274,13 +3288,13 @@ This brings those elements together: coffee-honey custard, berbere-spiced carame
 
 **Spiced Coffee Brittle (make this first, needs time to cool):**
 
-Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure shit, dude.
+Line a baking sheet with parchment or a silicone mat. Have everything measured and ready—once this starts moving, you can't stop to measure shit, dude.
 
-In a saucepan, combine sugar, water, and corn syrup. Heat over medium-high without stirring until it reaches 300°F (hard crack stage), about 12-15 minutes. The mixture should be golden amber—copper penny color.
+In a saucepan, combine sugar, water, and corn syrup. Heat over medium-high without stirring until it reaches 300°F (hard crack stage), about 12-15 minutes. The mixture should be golden amber—copper penny color.
 
 Pull it off the heat immediately. Working FAST, stir in the ground coffee, cardamom, cinnamon, and fenugreek. The mixture will bubble and darken slightly. Add the butter and salt, stir quickly to incorporate.
 
-Add the baking soda and stir ONCE—it'll foam up dramatically. Pour immediately onto the prepared pan and spread thin with a heat-resistant spatula. Don't overthink it, just spread it fast before it sets.
+Add the baking soda and stir ONCE—it'll foam up dramatically. Pour immediately onto the prepared pan and spread thin with a heat-resistant spatula. Don't overthink it, just spread it fast before it sets.
 
 Let cool completely, about 1-2 hours. Should be hard, glassy, deeply brown with visible coffee grounds throughout. Break into small pieces and store airtight.
 
@@ -3290,7 +3304,7 @@ Preheat oven to 325°F. Line a small baking sheet with parchment.
 
 Mix teff flour, all-purpose flour, sugar, cinnamon, and salt. Add melted butter, stir until the mixture forms coarse crumbs.
 
-Spread on the prepared sheet in a thin layer. Bake for 12-15 minutes, stirring halfway through, until golden brown and fragrant with this nutty, earthy aroma that's distinctly teff. Watch it carefully—teff can go from toasted to burnt faster than you'd think.
+Spread on the prepared sheet in a thin layer. Bake for 12-15 minutes, stirring halfway through, until golden brown and fragrant with this nutty, earthy aroma that's distinctly teff. Watch it carefully—teff can go from toasted to burnt faster than you'd think.
 
 Cool completely. Break into small crumbles. Store airtight.
 
@@ -3298,23 +3312,23 @@ Cool completely. Break into small crumbles. Store airtight.
 
 Have the warmed cream and butter ready next to the stove because this moves fast once it starts.
 
-Combine sugar and water in a light-colored saucepan. Heat over medium-high without stirring until it reaches deep amber—darker than you think, almost mahogany. Takes about 8-10 minutes of you standing there watching like it's the most important thing in the world, which right now it is.
+Combine sugar and water in a light-colored saucepan. Heat over medium-high without stirring until it reaches deep amber—darker than you think, almost mahogany. Takes about 8-10 minutes of you standing there watching like it's the most important thing in the world, which right now it is.
 
-Pull it off the heat. Carefully add the berbere spice—it'll sizzle and bloom, releasing this incredible aromatic punch. Stir quickly to incorporate.
+Pull it off the heat. Carefully add the berbere spice—it'll sizzle and bloom, releasing this incredible aromatic punch. Stir quickly to incorporate.
 
-Add the warmed cream in a slow stream while whisking constantly—it'll bubble dramatically, so don't panic. Whisk until smooth.
+Add the warmed cream in a slow stream while whisking constantly—it'll bubble dramatically, so don't panic. Whisk until smooth.
 
-Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, complex as hell.
+Add the butter and salt, whisk thoroughly. Should be dark reddish-brown and smell intensely of caramel with warm berbere spices underneath—earthy, slightly bitter, complex as hell.
 
 Cool to room temperature, then refrigerate. Should be thick but pourable when cold.
 
 **Make Coffee-Honey Custard:**
 
-Brew very strong coffee—you want concentrated flavor here, not morning breakfast coffee. Let it cool completely while you make the custard base.
+Brew very strong coffee—you want concentrated flavor here, not morning breakfast coffee. Let it cool completely while you make the custard base.
 
 Heat cream and milk until steaming, about 170-175°F. Pull off the heat, stir in the honey until dissolved completely.
 
-Whisk together egg yolks and sugar in a separate bowl until pale and slightly thickened—like 1-2 minutes of whisking.
+Whisk together egg yolks and sugar in a separate bowl until pale and slightly thickened—like 1-2 minutes of whisking.
 
 Slowly pour the hot cream mixture into the yolks while whisking constantly. Return the entire mixture to the saucepan.
 
@@ -3324,17 +3338,17 @@ Pull it off the heat. Stir in vanilla and salt. Strain through a fine-mesh sieve
 
 Whisk in the cooled coffee until completely incorporated. Should be pale brown and smell of coffee and honey with this floral undertone from the honey.
 
-Cool over an ice bath, stirring occasionally. Taste it cold—should be rich, coffee-forward, with honey sweetness that's more complex than regular sugar. Should taste slightly sweet since freezing dulls sweetness like it dulls everything.
+Cool over an ice bath, stirring occasionally. Taste it cold—should be rich, coffee-forward, with honey sweetness that's more complex than regular sugar. Should taste slightly sweet since freezing dulls sweetness like it dulls everything.
 
 Refrigerate at least 4 hours or overnight.
 
 **Churn:**
 
-Churn until soft-serve consistency. The coffee and honey make this slightly denser than standard custard—expect it to look thick and creamy when ready.
+Churn until soft-serve consistency. The coffee and honey make this slightly denser than standard custard—expect it to look thick and creamy when ready.
 
 In the last minute, add the broken coffee brittle pieces and teff crumbles if using.
 
-Transfer to your container in layers: spread 1/3 of the ice cream, drizzle berbere caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic dark ribbons visible.
+Transfer to your container in layers: spread 1/3 of the ice cream, drizzle berbere caramel in ribbons, repeat twice. Gently swirl with a knife without fully incorporating—you want those dramatic dark ribbons visible.
 
 Freeze at least 4 hours or overnight.
 
@@ -3342,29 +3356,29 @@ Freeze at least 4 hours or overnight.
 
 **Ethiopian coffee:**
 
-Ethiopia is the birthplace of Coffea arabica—coffee literally grew wild there for centuries before cultivation. Ethiopian coffee is known for bright, fruity, floral notes with wine-like acidity. If you can find Ethiopian Yirgacheffe or Sidamo beans, use them. Otherwise, any high-quality, aromatic coffee works, but know you're missing some of that authentic character.
+Ethiopia is the birthplace of Coffea arabica—coffee literally grew wild there for centuries before cultivation. Ethiopian coffee is known for bright, fruity, floral notes with wine-like acidity. If you can find Ethiopian Yirgacheffe or Sidamo beans, use them. Otherwise, any high-quality, aromatic coffee works, but know you're missing some of that authentic character.
 
-The Ethiopian coffee ceremony is a profound cultural ritual—green beans are roasted in a pan over charcoal while guests inhale the smoke for blessings, then ground by hand, brewed in a jebena (clay pot), and served in three rounds: abol (strongest), tona (medium), and baraka (weakest, meaning "to be blessed"). Coffee isn't just a drink—it's hospitality, community, blessing.
+The Ethiopian coffee ceremony is a profound cultural ritual—green beans are roasted in a pan over charcoal while guests inhale the smoke for blessings, then ground by hand, brewed in a jebena (clay pot), and served in three rounds: abol (strongest), tona (medium), and baraka (weakest, meaning "to be blessed"). Coffee isn't just a drink—it's hospitality, community, blessing.
 
 **Berbere:**
 
-Berbere is THE spice blend of Ethiopian cuisine—every family has their own recipe with slight variations. Traditional berbere typically includes: dried chilies (often Ethiopian berbere peppers), fenugreek seeds, coriander seeds, black peppercorns, cardamom, cinnamon, cloves, ginger, and sometimes ajwain or korarima (Ethiopian cardamom).
+Berbere is THE spice blend of Ethiopian cuisine—every family has their own recipe with slight variations. Traditional berbere typically includes: dried chilies (often Ethiopian berbere peppers), fenugreek seeds, coriander seeds, black peppercorns, cardamom, cinnamon, cloves, ginger, and sometimes ajwain or korarima (Ethiopian cardamom).
 
-The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, homie—old, stale berbere tastes dusty and flat.
+The blend should be earthy, warm, slightly bitter from the fenugreek, aromatic from the cardamom and cloves, with gentle heat from the chilies—not aggressive spiciness, but warmth. Buy berbere from Ethiopian markets, good spice companies (Burlap & Barrel, Diaspora Co.), or online. Quality matters here, homie—old, stale berbere tastes dusty and flat.
 
 In the caramel, start with 1 tsp berbere and taste. You can always add more after cooling if you want it more pronounced. Too much can overpower everything and make it bitter.
 
 **Ethiopian honey:**
 
-Ethiopian honey is some of the world's finest—often wild-harvested from forests, with floral, herbal notes that are distinctly different from clover honey. White honey (mar or tej honey) is particularly prized. If unavailable, use any aromatic honey—orange blossom, wildflower, or acacia all work well. Avoid generic "honey" from the squeeze bear—you want actual character here.
+Ethiopian honey is some of the world's finest—often wild-harvested from forests, with floral, herbal notes that are distinctly different from clover honey. White honey (mar or tej honey) is particularly prized. If unavailable, use any aromatic honey—orange blossom, wildflower, or acacia all work well. Avoid generic "honey" from the squeeze bear—you want actual character here.
 
 **Teff:**
 
-Teff is Ethiopia's ancient grain—tiny, nutrient-dense, used to make injera (that spongy sourdough flatbread). Teff has this nutty, earthy, slightly sweet flavor that's hard to describe but unmistakably Ethiopian. Teff flour is available at health food stores, Ethiopian markets, or online. The crumble adds textural interest and reinforces the Ethiopian identity without being heavy-handed about it.
+Teff is Ethiopia's ancient grain—tiny, nutrient-dense, used to make injera (that spongy sourdough flatbread). Teff has this nutty, earthy, slightly sweet flavor that's hard to describe but unmistakably Ethiopian. Teff flour is available at health food stores, Ethiopian markets, or online. The crumble adds textural interest and reinforces the Ethiopian identity without being heavy-handed about it.
 
 **Fenugreek in brittle:**
 
-Fenugreek is essential to berbere—it has this slightly bitter, maple-like character. A little goes a long way. Don't skip it even though it's a small amount—it's part of what makes the flavor profile distinctly Ethiopian rather than just "spiced coffee."
+Fenugreek is essential to berbere—it has this slightly bitter, maple-like character. A little goes a long way. Don't skip it even though it's a small amount—it's part of what makes the flavor profile distinctly Ethiopian rather than just "spiced coffee."
 
 **Make-ahead timeline:**
 
@@ -3378,19 +3392,19 @@ Or tackle it all in one marathon day if you're feeling ambitious, though the cus
 
 **Coffee ceremony cultural note:**
 
-The coffee ceremony is sacred in Ethiopian culture—it's performed daily, often multiple times, and declining an invitation is considered rude. The ritual involves all the senses: sight (watching the roasting), smell (inhaling the blessed smoke), sound (beans crackling), taste (three rounds of coffee), and touch (passing the cup). Popcorn (fendisha) is traditional accompaniment. This ice cream can't replicate the ceremony's social and spiritual dimensions, but it honors the flavors and the cultural importance of coffee and spices in Ethiopian life.
+The coffee ceremony is sacred in Ethiopian culture—it's performed daily, often multiple times, and declining an invitation is considered rude. The ritual involves all the senses: sight (watching the roasting), smell (inhaling the blessed smoke), sound (beans crackling), taste (three rounds of coffee), and touch (passing the cup). Popcorn (fendisha) is traditional accompaniment. This ice cream can't replicate the ceremony's social and spiritual dimensions, but it honors the flavors and the cultural importance of coffee and spices in Ethiopian life.
 
 **What berbere brings:**
 
-The berbere caramel provides this unexpected warmth—not heat exactly, but aromatic spice complexity that makes you think about each bite differently. The fenugreek adds slight bitterness that plays beautifully against sweet caramel, cardamom brings floral notes, and the gentle chili warmth builds slowly.
+The berbere caramel provides this unexpected warmth—not heat exactly, but aromatic spice complexity that makes you think about each bite differently. The fenugreek adds slight bitterness that plays beautifully against sweet caramel, cardamom brings floral notes, and the gentle chili warmth builds slowly.
 
 **Visual:**
 
-Pale brown coffee-honey base with dark reddish-brown berbere caramel ribbons, dark brown coffee brittle shards, and lighter tan teff crumbles scattered throughout. Looks complex, earthy, deeply flavorful—exactly what it is.
+Pale brown coffee-honey base with dark reddish-brown berbere caramel ribbons, dark brown coffee brittle shards, and lighter tan teff crumbles scattered throughout. Looks complex, earthy, deeply flavorful—exactly what it is.
 
 **What it tastes like:**
 
-Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the fucking effort, friend.
+Rich coffee-honey base—aromatic, floral, slightly wine-like if you used good Ethiopian coffee. The berbere caramel hits with warm spices—earthy fenugreek, aromatic cardamom, gentle warmth from chilies, all wrapped in dark caramelized sugar. Coffee brittle provides intense coffee bursts and crunch. Optional teff crumble adds nutty, grain character that reinforces the Ethiopian identity. Complex, sophisticated, unlike anything else in the collection. This is Horn of Africa in a bowl, and it's absolutely worth the fucking effort, friend.
 
 ---
 
@@ -3532,7 +3546,7 @@ This pairs nicely with Scottish shortbread if you want to lean into the British 
 
 **What it tastes like:**
 
-Earl Grey up front—clear, bergamot-y, unmistakable. Then this honey depth that keeps revealing itself the more you eat. Then occasional pockets of intensely burnt honey that grab your attention and make you stop and think "wait, what was that?" The honeycomb adds this textural element that makes it feel special and expensive without being fussy about it. It's genuinely elegant but still looks homemade in that "I put actual effort into this" way. Tea time, but way more interesting than usual. Like if the Queen decided to get weird with it.
+Earl Grey up front—clear, bergamot-y, unmistakable. Honey depth keeps revealing itself the more you eat. Pockets of intensely burnt honey grab your attention—stop you mid-bite. Honeycomb adds textural crunch that makes it feel special without being fussy. Genuinely elegant but still looks homemade. Tea time, but way more interesting than usual.
 
 ---
 
@@ -3546,9 +3560,9 @@ Earl Grey up front—clear, bergamot-y, unmistakable. Then this honey depth that
 
 **Allergen Information:** 
 
-Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
+Pain patate is Haiti's most beloved traditional dessert—a dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime. Traditionally baked for weddings, baptisms, holidays—all the big life shit. This ice cream captures those essential flavors: banana-coconut richness, five-spice warmth, rum depth, and lime brightness.
 
-This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
+This is dense, rich, intensely flavored. Not light summer ice cream—this is celebration ice cream, dude.
 
 ## Ingredients
 
@@ -3616,11 +3630,11 @@ Add brown sugar and butter, stir until melted and combined. Simmer gently for 5-
 
 Pull it off the heat, add a squeeze of lime juice. Cool completely, then refrigerate.
 
-The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth—like a pirate's treasure chest if it was edible.
+The mixture should be thick but pourable, with plump raisins suspended in dark rum syrup. Should smell INTENSELY of rum with brown sugar depth—like a pirate's treasure chest if it was edible.
 
 **Toasted Coconut:**
 
-In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk. Should smell nutty and tropical.
+In a dry skillet over medium-low, toast those coconut flakes, stirring CONSTANTLY, for 3-5 minutes until golden brown. Burns quicker than your New Year's resolutions—watch it like a fucking hawk. Should smell nutty and tropical.
 
 Transfer to a plate immediately to stop cooking. Cool completely. Store airtight.
 
@@ -3628,11 +3642,11 @@ Transfer to a plate immediately to stop cooking. Cool completely. Store airtight
 
 Peel the bananas and cut into 1/2-inch thick rounds. Melt butter in a large skillet over medium-high heat. Add the brown sugar, stir until melted and bubbling, about 1 minute.
 
-Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding together.
+Add the banana rounds in a single layer—work in batches if needed to avoid crowding. Cook WITHOUT STIRRING for 2-3 minutes until the bottoms are deep golden and caramelized. Flip carefully, cook another 2 minutes. Bananas should be soft but still holding together.
 
-Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
+Reduce heat to medium-low. Sprinkle cinnamon and nutmeg over the bananas. Carefully add the rum—may flame briefly if using a gas stove, which is safe and normal and makes you feel like a badass chef. The flames will die naturally. Let the alcohol cook off, stirring gently, about 1-2 minutes.
 
-Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
+Add a pinch of salt and squeeze of lime juice. Pull it off the heat. The liquid should be thick and syrupy, deeply caramelized—like liquid gold.
 
 Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smooth. Should be thick, mahogany-colored, deeply spiced. Chop the remaining 1/3 into 1/2-inch pieces. Refrigerate both separately.
 
@@ -3640,9 +3654,9 @@ Cool slightly. Puree 2/3 of the caramelized bananas with their syrup until smoot
 
 Combine heavy cream, coconut milk, and evaporated milk in a saucepan. Add the whole star anise and half the lime zest.
 
-Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
+Heat over medium to 170-175°F—steaming, not boiling. Pull it off the heat, cover, steep for 15 minutes.
 
-Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
+Strain through a fine-mesh sieve, pressing gently on the star anise. Discard the star anise but you can reserve the lime zest for later if you want—your call, boss.
 
 **Make Custard:**
 
@@ -3652,15 +3666,15 @@ Make your custard with egg yolks using the standard method to 170-175°F. The mi
 
 Pull it off the heat. Stir in vanilla, salt, and the remaining fresh lime zest. Strain. Fold in the banana puree while the custard is still warm, whisking until completely incorporated.
 
-Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
+Should turn deep golden-tan and smell INTENSELY of caramelized banana, coconut, rum, and warm spices—like pain patate in liquid form. If it doesn't make you want to book a flight to Haiti, you fucked something up.
 
-Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
+Cool over an ice bath. Taste it cold—should be rich, intensely spiced, with banana-coconut-rum depth and lime brightness cutting through the richness. Should taste slightly sweet and slightly strong since freezing dulls both flavors and your will to live.
 
 Refrigerate at least 4 hours or overnight for best flavor development.
 
 **Churn:**
 
-Churn until soft-serve—may take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
+Churn until soft-serve—may take slightly longer due to the coconut milk and banana puree being dramatic. In the last minute, add the chopped caramelized banana pieces, candied banana chips, and toasted coconut.
 
 Transfer to your container in layers: spread 1/3 of the ice cream, drizzle rum-raisin swirl with raisins in ribbons, repeat twice. Gently swirl with a knife.
 
@@ -3670,13 +3684,13 @@ Freeze 4+ hours.
 
 **Pain patate context:**
 
-This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions—weddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
+This ice cream is directly inspired by *pain patate*, Haiti's most beloved traditional dessert. It's this dense, pudding-like sweet potato-banana cake enriched with coconut milk, evaporated milk, warm spices, raisins, rum, and lime zest. Traditionally baked for special occasions—weddings, baptisms, holidays, basically any time Haitians want to celebrate something important.
 
 Represents Haitian home cooking at its most comforting and celebratory. This captures the essential flavors without sweet potato (which doesn't translate to ice cream well), doubling down on banana instead.
 
 **Haitian spice tradition:**
 
-This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
+This five-spice blend is signature to Haitian desserts. Cinnamon provides warmth, nutmeg adds aromatic depth, ginger brings heat, cloves offer intensity, star anise contributes licorice-like complexity. This isn't subtle, homie—Haitian desserts are BOLDLY, assertively spiced. The intensity is authentic and essential. If your mouth isn't experiencing a spice party, you used too little.
 
 **Rum selection:**
 
@@ -3690,7 +3704,7 @@ Pain patate traditionally uses BOTH, creating this specific richness and sweetne
 
 **Bananas:**
 
-Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
+Use ripe bananas with generous brown spotting—peak sweetness, will caramelize beautifully. Not overly ripe/black (too mushy, fermented-tasting) or underripe/green (way too starchy, won't caramelize). The sweet spot is yellow with brown freckles.
 
 **Raisins:**
 
@@ -3698,7 +3712,7 @@ Golden raisins are traditional in pain patate. The rum-raisin swirl pays homage 
 
 **Lime zest:**
 
-ESSENTIAL for brightness. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
+ESSENTIAL for brightness. Pain patate's richness needs citrus lift—prevents the dessert from feeling heavy as fuck.
 
 **Texture note:**
 
@@ -3714,15 +3728,15 @@ Or do it all in one long day if you're committed to the chaos.
 
 **Visual:**
 
-Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting—looks like comfort food, tastes like home.
+Deep golden-tan base studded with darker caramelized banana pieces, golden toasted coconut flakes, translucent amber candied banana chips, and dark mahogany rum-raisin swirls with plump golden raisins throughout. Rich, warm, inviting—looks like comfort food, tastes like home.
 
 **Cultural authenticity:**
 
-While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration—it's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
+While ice cream isn't traditional in Haiti, these flavors absolutely are. Pain patate is served at every major celebration—it's THE dessert. This translates those flavors respectfully while acknowledging it's a frozen interpretation rather than the baked original. It's honoring the tradition, not claiming to be it.
 
 **What it tastes like:**
 
-Dense, intensely spiced, deeply satisfying. Warm five-spice blend (cinnamon, nutmeg, ginger, cloves, star anise), rich banana-coconut base, rum depth throughout, lime brightness, pockets of rum-soaked raisins. Tastes like celebration, like home, like Haiti. Tastes like love made frozen, homie.
+Dense. Intensely spiced. Deeply satisfying. Warm five-spice—cinnamon, nutmeg, ginger, cloves, star anise—over a rich banana-coconut base with rum depth throughout. Lime brightness keeps it honest. Pockets of rum-soaked raisins burst with boozy sweetness. Tastes like celebration, like home, like Haiti.
 
 ---
 
@@ -3788,7 +3802,7 @@ Cook for 10-15 minutes, stirring constantly, until the mixture thickens signific
 
 Transfer to a buttered plate or shallow dish. Spread it out slightly to help it cool faster. Let it cool to room temperature, then refrigerate for at least 2 hours until firm enough to roll. Should be fudge-like and hold its shape, not some sad puddle of chocolate regret.
 
-Once chilled, butter your hands lightly (this prevents sticking). Scoop about 1 teaspoon of brigadeiro at a time and roll into small balls, about 1/2 inch diameter. You want these small because they're going into ice cream—bite-sized intensity bombs.
+Once chilled, butter your hands lightly (this prevents sticking). Scoop about 1 teaspoon of brigadeiro at a time and roll into small balls, about 1/2-inch diameter. You want these small because they're going into ice cream—bite-sized intensity bombs.
 
 Pour chocolate sprinkles into a shallow bowl. Roll each brigadeiro ball in the sprinkles until coated. Place on a parchment-lined plate.
 
@@ -3802,7 +3816,7 @@ Cut the passion fruits in half. Scoop out the pulp and seeds into a fine-mesh si
 
 In a small saucepan, whisk together the passion fruit juice, reserved seeds, sugar, and egg yolks until smooth. Add a pinch of salt.
 
-Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175 degrees Fahrenheit. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
+Cook over medium-low heat, whisking constantly, until the mixture thickens and reaches about 170-175°F. Takes about 5-7 minutes. Should coat the back of a spoon and look thick and glossy.
 
 Pull it off the heat immediately. Whisk in the cold butter pieces one at a time until fully melted and incorporated. The curd should be smooth, thick, intensely yellow-orange, and smell aggressively tropical as hell.
 
@@ -3824,7 +3838,7 @@ Cool to room temperature, then refrigerate. Should be thick but pourable when co
 
 **Make Brigadeiro-Style Chocolate Base:**
 
-In a medium saucepan, combine cream, milk, and sweetened condensed milk. Heat until steaming, about 170 degrees Fahrenheit. Don't boil it.
+In a medium saucepan, combine cream, milk, and sweetened condensed milk. Heat until steaming, about 170°F. Don't boil it.
 
 Add the chopped dark chocolate and cocoa powder. Let sit for 1 minute to soften the chocolate, then whisk until completely smooth and glossy.
 
@@ -3834,7 +3848,7 @@ In a separate bowl, whisk together egg yolks and sugar until thick and pale.
 
 Temper the yolks by slowly drizzling about a cup of the hot chocolate mixture into them while whisking constantly. Once tempered, pour everything back into the saucepan.
 
-Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175 degrees Fahrenheit. Takes about 5-8 minutes. Should coat the spatula and leave a clear line when you run your finger through it.
+Cook over medium-low heat, stirring constantly with a spatula, until the custard thickens and reaches 170-175°F. Takes about 5-8 minutes. Should coat the spatula and leave a clear line when you run your finger through it.
 
 Pull it off the heat. Stir in vanilla and salt. Strain through a fine-mesh sieve into a clean bowl to remove any bits of cooked egg.
 
@@ -3856,75 +3870,26 @@ Freeze at least 4 hours or overnight.
 
 ## Notes
 
-**Brigadeiro cultural context:**
+**The Soul of Brigadeiro:**
+Brigadeiro is to Brazil what chocolate chip cookies are to America—THE childhood sweet, the birthday party staple, the thing everyone's grandmother makes. Created in the 1940s during Brigadier Eduardo Gomes's presidential campaign, these chocolate fudge balls became so popular they outlasted the campaign by about 80 years and counting. Traditional brigadeiro relies entirely on the caramelized milk sugars and thick texture of sweetened condensed milk (Moça is traditional, but Nestlé or Eagle Brand work). You absolutely cannot substitute regular milk and sugar here, homie. And don't skimp on the sprinkles—authentic Brazilian granulado (chocolate sprinkles) are non-negotiable for the true experience.
 
-Brigadeiro is to Brazil what chocolate chip cookies are to America—THE childhood sweet, the birthday party staple, the thing everyone's grandmother makes. Created in the 1940s during Brigadier Eduardo Gomes's presidential campaign, these chocolate fudge balls became so popular they outlasted the campaign by about eighty years and counting.
+**Passion Fruit Sourcing:**
+Maracuja (passion fruit) is EVERYWHERE in Brazilian cuisine. Fresh juice at breakfast, mousses for dessert, ice cream at the beach. Fresh is always better if you can get it—look for wrinkled passion fruits that feel heavy for their size, which means they're ripe and juicy inside. Frozen passion fruit pulp (found at Latin American markets) works well in a pinch. It usually comes pre-seeded, which saves effort but loses some textural interest. If using frozen, you'll need about half a cup.
 
-Every Brazilian has memories of brigadeiros at birthday parties, weddings, baby showers, and random Tuesday afternoons when someone felt like making them. The traditional version is just sweetened condensed milk, cocoa powder, and butter cooked until thick, rolled in chocolate sprinkles. Simple ingredients, perfect execution, eternal love.
+**Chocolate Quality & Cocoa:**
+Use good dark chocolate (60-70% cacao) for the base. You want complexity here, not just sweetness. The sweetened condensed milk provides plenty of sweetness, so the chocolate should bring depth and slight bitterness to balance. Pair that with Dutch-process (alkalized) cocoa—it's smoother, darker, and less acidic than natural cocoa. Traditional brigadeiro uses Nestlé or Garoto brand cocoa powder, which are both Dutch-process.
 
-This ice cream honors that tradition by making actual brigadeiro pieces for mix-ins and using sweetened condensed milk in the base to capture that characteristic creamy-sweet richness. It's not trying to BE brigadeiro (which doesn't freeze well on its own), but to translate those flavors into frozen form.
-
-**Passion fruit in Brazil:**
-
-Maracuja (passion fruit) is EVERYWHERE in Brazilian cuisine. Fresh juice at breakfast, mousses for dessert, ice cream at the beach, cocktails at night. Brazil is one of the world's largest passion fruit producers, and the fruit is deeply embedded in daily life.
-
-The variety most common in Brazil is the yellow passion fruit, which is slightly larger and more acidic than the purple variety common elsewhere. Either works for this recipe. The key is that distinctive tart-tropical flavor and those crunchy seeds.
-
-**Fresh vs. frozen passion fruit pulp:**
-
-Fresh is always better if you can get it—more vibrant flavor, better acidity. Look for wrinkled passion fruits that feel heavy for their size—they're ripe and juicy inside.
-
-Frozen passion fruit pulp (found at Latin American or Brazilian markets) works well in a pinch. Usually comes pre-seeded, which saves effort but loses some textural interest. If using frozen, you'll need about half a cup.
-
-**Sweetened condensed milk:**
-
-This is CRITICAL to brigadeiro's character, homie. The caramelized milk sugars, the thick texture, the specific sweetness profile—can't replicate it with regular milk and sugar. Use a good brand. In Brazil, Moca is traditional, but Nestle or Eagle Brand work fine.
-
-**Dutch-process cocoa:**
-
-Dutch-process (alkalized) cocoa is smoother, darker, less acidic than natural cocoa. Traditional brigadeiro uses Nestle or Garoto brand cocoa powder, both Dutch-process. If you only have natural cocoa, it'll work but taste slightly more acidic and less smooth.
-
-**Chocolate quality:**
-
-Use good dark chocolate (60-70 percent cacao) for the base. You want complexity here, not just sweetness. The sweetened condensed milk provides plenty of sweetness, so the chocolate should bring depth and slight bitterness to balance.
-
-**The sprinkles question:**
-
-Traditional brigadeiro sprinkles are chocolate sprinkles—called granulado in Brazil. Not rainbow sprinkles, not nonpareils. Chocolate sprinkles. You can find them at any grocery store, but if you want authentic Brazilian granulado, check Latin American markets or order online.
-
-**Rolling brigadeiro:**
-
-Butter your hands lightly before rolling—prevents sticking and makes the process smoother. The mixture should be firm enough to hold shape but soft enough to roll without cracking. If it's too soft, refrigerate longer. If it's too hard, let it sit at room temperature for a few minutes.
-
-**Dulce de leche connection:**
-
+**Dulce de Leche Connection:**
 While not traditionally paired with brigadeiro, dulce de leche (doce de leite in Portuguese) is another beloved Brazilian sweet. The optional caramel here nods to that tradition and adds another layer of caramelized milk richness. Totally optional, but it does add this beautiful golden swirl that complements both the chocolate and passion fruit.
 
-**Make-ahead timeline:**
+**Make-Ahead Timeline:**
+Day one: Make brigadeiro pieces, passion fruit curd, dulce de leche caramel if using. All components can be made ahead and refrigerated. Day two: Make chocolate custard base, chill overnight. Day three: Churn and freeze. Or do it all in one long day if you're feeling ambitious as hell.
 
-Day one: Make brigadeiro pieces, passion fruit curd, dulce de leche caramel if using. All components can be made ahead and refrigerated.
-
-Day two: Make chocolate custard base, chill overnight.
-
-Day three: Churn and freeze.
-
-Or do it all in one long day if you're feeling ambitious as hell.
-
-**Texture notes:**
-
-The brigadeiro pieces stay soft and fudgy even when frozen due to the sweetened condensed milk—they won't freeze rock hard like chocolate chips. This creates these amazing pockets of intense fudge throughout the ice cream.
-
-The passion fruit curd provides tart ribbons that cut through the chocolate richness. The seeds add little crunchy bursts of tropical flavor.
-
-**Visual:**
-
-Dark brown chocolate base studded with darker brigadeiro fudge balls rolled in chocolate sprinkles, bright yellow-orange passion fruit curd ribbons with visible black seeds, optional golden dulce de leche swirls. Looks festive, looks Brazilian, looks like a party in a container.
+**Allergen Information:** Contains soy (check your chocolate and sprinkles).
 
 **What it tastes like:**
 
-Intensely chocolatey base with that characteristic brigadeiro creaminess from sweetened condensed milk. Pockets of soft chocolate fudge that melt on your tongue. Tart, tropical passion fruit curd ribbons that provide bright contrast against all that chocolate richness. Optional dulce de leche adds caramelized milk depth. The interplay between rich chocolate and tart fruit is what makes this work—neither overpowers the other, they dance together like they've been doing this for years.
-
-This is celebration ice cream. This is Brazilian joy made frozen. This is what happens when you take the country's most beloved sweet and pair it with tropical brightness, homie. Absolutely fucking worth the effort.
+Intensely chocolatey base—thick with that characteristic sweetened condensed milk richness. Soft, chewy pockets of chocolate fudge that melt on your tongue. Tart, bright yellow ribbons of passion fruit curd cutting straight through the dark chocolate—crunchy black seeds popping. Golden dulce de leche swirls adding caramelized depth. Rich meets bright. Chocolate meets fruit. Tastes like a party. Tastes like Brazilian joy made frozen. Absolutely fucking worth it.
 
 ---
 
@@ -3932,13 +3897,13 @@ This is celebration ice cream. This is Brazilian joy made frozen. This is what h
 
 *Greek summer in a bowl*
 
-**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel (tedious as hell), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll fuck it up)), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail - rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, homie.
+**Difficulty:** THE REAL DEAL - You're triple-blanching lemon peel (tedious as hell), emulsifying olive oil into custard (which requires drizzling SLOWLY or you'll fuck it up), and adding yogurt to cold custard without curdling it. The candied peel alone takes hours. The olive oil emulsification is where most people fail—rush it and you get greasy separated mess with no fix. Multiple components, precise technique, not much room for error. This is not for beginners, homie.
 
 **Total Time:** 10-12 hours across 2-3 days (includes triple blanching, 4+ hours of peel drying, overnight chilling, plus time spent drizzling olive oil at a pace that would make a snail impatient)
 
-Olive oil in ice cream sounds wrong until you try it - then it makes total sense. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
+Olive oil in ice cream sounds wrong until you try it—then it makes total sense. The fruity, peppery notes of good olive oil work surprisingly well in a sweet context, especially with tangy yogurt and bright lemon. Rosemary adds an herbal backbone, and honey ties it all together. It's one of those combinations that looks completely unhinged on paper but tastes like someone who actually knows what they're doing made it.
 
-This one requires some faith, but it pays off. Trust me. The olive oil doesn't taste "oily" or "salad-y" - it adds this rich, fruity complexity that's hard to describe but unmistakably Mediterranean.
+This one requires some faith, but it pays off. Trust me. The olive oil doesn't taste "oily" or "salad-y"—it adds this rich, fruity complexity that's hard to describe but unmistakably Mediterranean.
 
 ## Ingredients
 
@@ -3964,13 +3929,13 @@ This one requires some faith, but it pays off. Trust me. The olive oil doesn't t
 
 **Candied Lemon Peel (make 1-2 days ahead if possible, or use the quick method):**
 
-Peel your lemons, avoiding the white pith as much as possible - that's where the bitterness lives. You want just the yellow outer layer. Cut the peel into thin matchsticks about 1/8 inch wide. They'll look like little yellow threads.
+Peel your lemons, avoiding the white pith as much as possible—that's where the bitterness lives. You want just the yellow outer layer. Cut the peel into thin matchsticks about 1/8 inch wide. They'll look like little yellow threads.
 
 Now comes the tedious but absolutely necessary part: blanching them three times. Here's what you're doing and why: lemon peel contains bitter compounds called limonin and naringin (they're what make raw lemon peel taste so harsh and unpleasant). These compounds are water-soluble, which means you can extract them by boiling the peel in water. But one boil isn't enough to get most of them out.
 
-Bring a small pot of water to a boil. Add the lemon peel strips and boil for exactly 1 minute. Drain completely in a fine-mesh sieve. Dump out that water - it's got a bunch of bitter compounds in it now. Fill the pot with fresh water, bring it back to a boil, add the peels again, boil 1 minute, drain. Repeat one more time with fresh water. Three rounds total.
+Bring a small pot of water to a boil. Add the lemon peel strips and boil for exactly 1 minute. Drain completely in a fine-mesh sieve. Dump out that water—it's got a bunch of bitter compounds in it now. Fill the pot with fresh water, bring it back to a boil, add the peels again, boil 1 minute, drain. Repeat one more time with fresh water. Three rounds total.
 
-Yeah, it's tedious. But this is the difference between candied lemon peel that tastes bright and citrusy, and candied lemon peel that tastes like you're eating the pith from a grapefruit - bitter and unpleasant. Each blanching extracts more bitterness. One blanch gets maybe 40% of it. Two gets 70%. Three gets 90-95%. That last blanch really matters.
+Yeah, it's tedious. But this is the difference between candied lemon peel that tastes bright and citrusy, and candied lemon peel that tastes like you're eating the pith from a grapefruit—bitter and unpleasant. Each blanching extracts more bitterness. One blanch gets maybe 40% of it. Two gets 70%. Three gets 90-95%. That last blanch really matters.
 
 After the third blanch, your peels should taste much milder and less astringent if you nibble one. They won't be sweet yet, but they shouldn't make you wince.
 
@@ -3978,7 +3943,7 @@ Combine 1 cup water and 1 cup sugar in a saucepan, bring to a simmer, stirring u
 
 Transfer the peels to a wire rack set over parchment paper (to catch drips) and let them dry for 4+ hours or overnight until they're tacky rather than wet. You want them to lose enough moisture that they're not dripping syrup everywhere, but still sticky enough that sugar will cling to them. Then toss them in granulated sugar to coat.
 
-*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant - more like sticky candy than candied peel - but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, friend.
+*Quick method if you're short on time:* After simmering, let them cool for just 30 minutes instead of 4+ hours, then toss them in sugar while they're still quite sticky. They'll be stickier and less elegant—more like sticky candy than candied peel—but the flavor is still excellent and they'll work fine in the ice cream. Sometimes good enough is good enough, friend.
 
 **Infuse Base with Rosemary:**
 
@@ -3986,11 +3951,11 @@ Take your 4 fresh rosemary sprigs and bruise them by squeezing and rolling them 
 
 If you just toss whole, unbruised rosemary into hot cream, you'll get some flavor extraction, but it'll be weak and take forever. Bruising the herb first increases the surface area and immediately releases oils into whatever liquid you're steeping. It's the difference between weak rosemary milk and properly infused rosemary milk.
 
-Combine cream, milk, half the lemon zest (save the other half for later), and the bruised rosemary in a saucepan. Heat over medium to 170-175°F - steaming but not boiling. If you boil it, you'll drive off those delicate volatile compounds that make rosemary smell like rosemary.
+Combine cream, milk, half the lemon zest (save the other half for later), and the bruised rosemary in a saucepan. Heat over medium to 170-175°F—steaming but not boiling. If you boil it, you'll drive off those delicate volatile compounds that make rosemary smell like rosemary.
 
-Remove from heat, cover, and steep for 15-20 minutes. During this time, the heat helps extract the fat-soluble aromatic compounds from the rosemary into the dairy fat. This is the same principle as making tea - hot liquid pulls flavor from plant material - except we're using cream instead of water, which actually works better for rosemary since many of its aromatic compounds are more soluble in fat than in water.
+Remove from heat, cover, and steep for 15-20 minutes. During this time, the heat helps extract the fat-soluble aromatic compounds from the rosemary into the dairy fat. This is the same principle as making tea—hot liquid pulls flavor from plant material—except we're using cream instead of water, which actually works better for rosemary since many of its aromatic compounds are more soluble in fat than in water.
 
-Taste it at 15 minutes - dip a spoon in, let it cool, taste. You should detect clear rosemary presence without it tasting like you're eating a pine tree or a bottle of shampoo. It should be herbaceous and fresh, not overpowering or medicinal. If it's too mild, steep another 3-5 minutes and taste again. If you accidentally over-steep and it tastes too strong, you can dilute with a bit more fresh cream and milk.
+Taste it at 15 minutes—dip a spoon in, let it cool, taste. You should detect clear rosemary presence without it tasting like you're eating a pine tree or a bottle of shampoo. It should be herbaceous and fresh, not overpowering or medicinal. If it's too mild, steep another 3-5 minutes and taste again. If you accidentally over-steep and it tastes too strong, you can dilute with a bit more fresh cream and milk.
 
 Strain through a fine-mesh sieve, pressing gently on the rosemary sprigs to extract maximum flavor. Discard the spent rosemary.
 
@@ -3998,23 +3963,23 @@ Strain through a fine-mesh sieve, pressing gently on the rosemary sprigs to extr
 
 Reheat the infused cream mixture until it's steaming again. In a separate bowl, whisk together the sugar and honey until combined.
 
-Make your custard with the 3 egg yolks and the sugar-honey mixture using the standard tempering method - slowly drizzle hot cream into whisked yolks, return to pan, cook to 170-175°F while stirring constantly. The custard should coat the back of a spoon.
+Make your custard with the 3 egg yolks and the sugar-honey mixture using the standard tempering method—slowly drizzle hot cream into whisked yolks, return to pan, cook to 170-175°F while stirring constantly. The custard should coat the back of a spoon.
 
 Remove from heat and let it cool for 5 minutes while stirring occasionally. You want it warm but not scorching hot for the next step.
 
 Here's the tricky but crucial part, chief: slowly — and I mean PAINFULLY SLOWLY — drizzle in the olive oil while whisking constantly. We're talking a thin stream, not a pour. Like, if you were filming this for social media, it would look annoyingly damn slow. But there's a good reason for this.
 
-What you're doing is creating an emulsion - a stable mixture of two liquids that normally don't want to mix together (in this case, oil and the water-based custard). Oil and water separate naturally because oil molecules are hydrophobic (they repel water). To get them to stay mixed, you need to break the oil into tiny droplets and suspend those droplets throughout the custard. The egg yolks in your custard contain lecithin, a natural emulsifier that helps stabilize these oil droplets.
+What you're doing is creating an emulsion—a stable mixture of two liquids that normally don't want to mix together (in this case, oil and the water-based custard). Oil and water separate naturally because oil molecules are hydrophobic (they repel water). To get them to stay mixed, you need to break the oil into tiny droplets and suspend those droplets throughout the custard. The egg yolks in your custard contain lecithin, a natural emulsifier that helps stabilize these oil droplets.
 
-When you drizzle the oil in slowly while whisking hard, you're mechanically breaking it into microscopic droplets. The lecithin molecules surround each droplet and prevent them from merging back together. If you dump all the oil in at once, you overwhelm the emulsifying capacity of the egg yolks - there's too much oil for the lecithin to handle, and the droplets merge back into a separated, greasy layer. You'll end up with an oily, separated mess that looks and tastes wrong.
+When you drizzle the oil in slowly while whisking hard, you're mechanically breaking it into microscopic droplets. The lecithin molecules surround each droplet and prevent them from merging back together. If you dump all the oil in at once, you overwhelm the emulsifying capacity of the egg yolks—there's too much oil for the lecithin to handle, and the droplets merge back into a separated, greasy layer. You'll end up with an oily, separated mess that looks and tastes wrong.
 
-The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens - you basically have to start over. So take your time.
+The oil should incorporate smoothly, disappearing into the custard without creating any slick on the surface. If you see oil pooling or floating, you've added it too fast and it's separated. There's not much you can do to fix this if it happens—you basically have to start over. So take your time.
 
 Stir in a pinch of salt. Strain the custard through a fine-mesh sieve to catch any cooked egg bits.
 
-Add the remaining fresh lemon zest - the half you didn't steep earlier. Why save half? Because cooking lemon zest mellows it out and integrates it into the base flavor. Adding fresh zest at the end gives you bright, zingy top notes that hit your palate immediately when you taste the ice cream. You get both depth (from the steeped zest) and brightness (from the fresh zest). It's a layering technique that creates more complex lemon flavor.
+Add the remaining fresh lemon zest—the half you didn't steep earlier. Why save half? Because cooking lemon zest mellows it out and integrates it into the base flavor. Adding fresh zest at the end gives you bright, zingy top notes that hit your palate immediately when you taste the ice cream. You get both depth (from the steeped zest) and brightness (from the fresh zest). It's a layering technique that creates more complex lemon flavor.
 
-Cool over an ice bath, stirring occasionally until it's completely cold - like, actually cold, not just "room temperature." This is critical for the next step.
+Cool over an ice bath, stirring occasionally until it's completely cold—like, actually cold, not just "room temperature." This is critical for the next step.
 
 **Prepare Yogurt:**
 
@@ -4022,7 +3987,7 @@ While the custard is cooling, whisk the Greek yogurt in a separate bowl until it
 
 **Combine:**
 
-Once the custard is completely cold - and I mean COMPLETELY cold, not "cool enough," not "mostly cold," but actually refrigerator-cold - fold in the Greek yogurt. Whisk thoroughly until smooth and uniform.
+Once the custard is completely cold—and I mean COMPLETELY cold, not "cool enough," not "mostly cold," but actually refrigerator-cold—fold in the Greek yogurt. Whisk thoroughly until smooth and uniform.
 
 Here's why the custard must be cold: Greek yogurt contains live bacterial cultures and milk proteins that are stable at cold temperatures but will curdle if you add them to anything warm. When proteins in yogurt get heated, they denature (unfold and tangle together), which causes separation and creates a grainy, curdled texture. You know how milk curdles when you add lemon to hot milk? Same principle. The yogurt's proteins can't handle the heat and they break down into curds. By waiting until everything is completely cold, you prevent this protein denaturation and keep the yogurt smooth and integrated.
 
@@ -4044,21 +4009,21 @@ If you can source actual Greek products, they'll make this taste more authentic.
 
 **Greek olive oil** tends to be fruity and peppery with grassy, herbaceous notes. It's less bitter than many Italian oils and has this bright, fresh character. Brands from Kalamata or Crete are particularly good. The fruity notes in Greek oil work beautifully in dessert applications because they're not overwhelmingly bitter or astringent.
 
-**Greek honey**, especially thyme honey, has distinctive herbal notes from bees feeding on wild thyme growing all over Greek hillsides. It's darker, more complex, and slightly less sweet than typical clover honey. It has this almost savory edge that plays nicely with the rosemary. Wildflower Greek honey is also excellent - floral and complex. Look for honey from Mount Hymettus if you can find it.
+**Greek honey**, especially thyme honey, has distinctive herbal notes from bees feeding on wild thyme growing all over Greek hillsides. It's darker, more complex, and slightly less sweet than typical clover honey. It has this almost savory edge that plays nicely with the rosemary. Wildflower Greek honey is also excellent—floral and complex. Look for honey from Mount Hymettus if you can find it.
 
-**Greek yogurt** is strained to remove whey, which makes it thicker and tangier than regular yogurt. It has higher protein content and a characteristic sharp tang that balances sweet flavors beautifully. Use whole milk Greek yogurt, not low-fat or non-fat - you need that fat content for proper texture.
+**Greek yogurt** is strained to remove whey, which makes it thicker and tangier than regular yogurt. It has higher protein content and a characteristic sharp tang that balances sweet flavors beautifully. Use whole milk Greek yogurt, not low-fat or non-fat—you need that fat content for proper texture.
 
 That said, if you can't find Greek-specific products, good-quality alternatives will still work. Just look for fruity extra virgin olive oil, flavorful honey, and full-fat Greek yogurt.
 
 **The olive oil in more detail:**
 
-Use a fruity, good-quality extra virgin olive oil - but not your most expensive bottle that you save for drizzling on heirloom tomatoes. You want flavor but not so peppery and aggressive that it overwhelms everything. A mid-range Greek or Spanish olive oil works beautifully. The fruity notes should be pleasant and subtle, not harsh.
+Use a fruity, good-quality extra virgin olive oil—but not your most expensive bottle that you save for drizzling on heirloom tomatoes. You want flavor but not so peppery and aggressive that it overwhelms everything. A mid-range Greek or Spanish olive oil works beautifully. The fruity notes should be pleasant and subtle, not harsh.
 
-The trick to incorporating olive oil successfully is emulsification - drizzling it in slowly while whisking to create a stable mixture. This isn't optional. Dump it in all at once and you'll have an oily, separated mess that tastes greasy and wrong. Take your time. Drizzle. Whisk. Be patient. The result is this silky, rich custard where the olive oil adds complexity without being identifiable as "oil."
+The trick to incorporating olive oil successfully is emulsification—drizzling it in slowly while whisking to create a stable mixture. This isn't optional. Dump it in all at once and you'll have an oily, separated mess that tastes greasy and wrong. Take your time. Drizzle. Whisk. Be patient. The result is this silky, rich custard where the olive oil adds complexity without being identifiable as "oil."
 
 **The light custard approach and why it matters:**
 
-This recipe uses only 3 egg yolks instead of the 5-6 you'd use for a richer custard. This is intentional. With fewer yolks, you get a lighter, less rich base that allows the yogurt's characteristic tang to shine through without fighting a super-heavy custard. The yogurt is the star here - its bright acidity and creamy texture need space to be noticed.
+This recipe uses only 3 egg yolks instead of the 5-6 you'd use for a richer custard. This is intentional. With fewer yolks, you get a lighter, less rich base that allows the yogurt's characteristic tang to shine through without fighting a super-heavy custard. The yogurt is the star here—its bright acidity and creamy texture need space to be noticed.
 
 If you used 5-6 yolks, you'd have a very rich custard that would mask the yogurt's contribution and make the whole thing taste heavy and eggy rather than bright and Mediterranean. The light custard also lets the lemon and rosemary flavors come through more clearly instead of being buried under richness.
 
@@ -4080,15 +4045,11 @@ Breaking it into stages: Day 1 - candy lemon peel. Day 2 - make custard. Day 3 -
 
 **Visual description:**
 
-The final product is this beautiful pale cream color with subtle yellow undertones from the lemon zest. When you scoop it, you'll see little flecks of green from the rosemary (if any tiny pieces made it through straining) and bright yellow candied lemon peel pieces distributed throughout like little citrus jewels. The texture is creamy and smooth with a slightly looser, softer consistency than richer custards - this is from the yogurt's water content and the olive oil's effect on freezing point. It looks elegant and understated, very Mediterranean in that simple-but-sophisticated way.
+The final product is this beautiful pale cream color with subtle yellow undertones from the lemon zest. When you scoop it, you'll see little flecks of green from the rosemary (if any tiny pieces made it through straining) and bright yellow candied lemon peel pieces distributed throughout like little citrus jewels. The texture is creamy and smooth with a slightly looser, softer consistency than richer custards—this is from the yogurt's water content and the olive oil's effect on freezing point. It looks elegant and understated, very Mediterranean in that simple-but-sophisticated way.
 
 **What it tastes like:**
 
-Bright lemon hits you first - fresh, zesty, almost zingy. Then this subtle olive oil richness that's hard to describe but unmistakably Mediterranean - fruity, slightly peppery, adding depth without tasting "oily." Honey sweetness comes through, floral and complex rather than just sugar-sweet. Herbal rosemary notes weave through everything without overpowering - you taste it but it doesn't scream "HERBS!" at you. The yogurt adds this characteristic Greek tang that balances all the sweetness and makes the whole thing taste bright and refreshing rather than cloying.
-
-When you hit a piece of candied lemon peel, you get intense, concentrated citrus flavor with a slightly chewy texture that contrasts nicely with the smooth base. The peel adds bursts of lemon that remind you "oh yeah, this is definitely a lemon thing" in case the rest of the flavors were being too subtle about it.
-
-It tastes like summer on a Greek island you've never been to but somehow remember, pal. Very refreshing, very grown-up, very "I put actual thought into this." The kind of ice cream that makes people ask for the recipe and then look at you skeptically when you say "olive oil."
+Bright lemon first—zesty, almost zingy. Olive oil underneath, fruity and peppery, unmistakably Mediterranean. Honey comes through floral and complex. Rosemary weaves without shouting. Yogurt tang keeps everything honest—bright instead of cloying. Candied peel hits in concentrated citrus bursts, chewy against the smooth base. Tastes like a Greek island you've never been to but somehow remember, pal.
 
 ---
 
@@ -4191,11 +4152,16 @@ Standard butter-toasted pastry gets soggy in ice cream after about 48 hours. By 
 **Orange Blossom Water (A Warning):**
 This stuff is potent. The line between "delicate floral note" and "Grandma's soap factory" is razor thin. Measure carefully. If you're nervous, start with 1/2 tsp. You want it to be a whisper, not a shout.
 
+**Cultural context:**
+
+Knafeh is Nablus, and Nablus is knafeh. The city in the West Bank has claimed this dessert as its own for centuries, and Nabulsis take that claim seriously—it's a point of civic pride, cultural identity, and fierce regional argument across the entire Levant. (Ask someone from Nablus, Beirut, Amman, and Damascus who invented knafeh and you'll get four different answers, all delivered with complete certainty.) The dish—shredded kataifi pastry layered with fresh cheese, soaked in orange blossom syrup—shows up at celebrations, holidays, and ordinary Tuesday mornings across Palestine, Jordan, Lebanon, Syria, and beyond. Nabulsi cheese itself is a brined white cheese specific to the region, traditionally made from sheep's or goat's milk. This ice cream can't replicate the experience of eating warm knafeh from a street stall in the Old City, but it captures the flavor architecture—salty cheese, sweet syrup, crunchy pastry, floral perfume—and freezes it into something that respects what makes the original extraordinary.
+
 **Visual:**
 Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks elegant as hell.
 
 **What it tastes like:**
-Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, pal. It hits every part of your palate—savory, sweet, floral, textural. It tastes like the Old City.
+
+Salty-tangy creaminess up front from the Nabulsi cheese—savory in a way no other ice cream dares. Then the hard crunch of caramel-coated kataifi, shattering between your teeth. Finishing with sweet floral syrup that ties savory to sweet in one impossible bite. Hits every part of your palate—savory, sweet, floral, textural. It's a rollercoaster, pal. Tastes like the Old City.
 
 ---
 
@@ -4209,9 +4175,9 @@ Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated p
 
 **Allergen Information:** 
 
-Listen up, homie—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
+Listen up, homie—this is the Café Du Monde experience in frozen form. If you've ever sat at those green tables on Decatur Street at 2 AM, powdered sugar all over your shirt, café au lait burning your tongue, beignets so hot they're basically molten dough pillows... this is that. But in ice cream form.
 
-Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor—earthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a café au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
+Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing that goes back to the Civil War when coffee was scarce and people started cutting it with roasted chicory root. Now it's the city's signature coffee flavor—earthy, slightly bitter, with this woody depth that regular coffee just doesn't have. We're making a café au lait base (that's coffee + hot milk, for the uninitiated), then studding it with actual fried beignet pieces that stay tender and chewy, and finishing with a rum-butter swirl because this is New Orleans and rum belongs in everything.
 
 ## Ingredients
 
@@ -4263,7 +4229,7 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 3. **Finish it with butter and rum.** Stir in the butter, rum, vanilla, and salt. Whisk until smooth and glossy. Let it cool to room temperature, then refrigerate. You want this COLD when you swirl it in, or it'll just melt into the ice cream and disappear.
 
-**Chicory-Coffee Caramel (if using—double coffee is never wrong):**
+**Chicory-Coffee Caramel (if using—double coffee is never wrong):**
 
 4. **Make another caramel.** Yeah, you might be making TWO caramels for this recipe if you're going all-in. In a small saucepan, combine the 1/2 cup sugar and 2 tbsp water. Heat over medium-high, swirling but not stirring, until it's deep amber. Watch it like a hawk.
 
@@ -4271,41 +4237,41 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 **Chicory Café au Lait Custard Base:**
 
-6. **Steep the chicory coffee.** In a medium saucepan, combine the cream, milk, and half the sugar (about 1/3 cup). Add the ground chicory coffee and instant espresso. Heat over medium until it just starts to steam and show tiny bubbles around the edges—do NOT let it boil. Once it's hot, turn off the heat, cover, and let it steep for 15 minutes. The milk will turn this beautiful dark tan color and smell absolutely incredible.
+6. **Steep the chicory coffee.** In a medium saucepan, combine the cream, milk, and half the sugar (about 1/3 cup). Add the ground chicory coffee and instant espresso. Heat over medium until it just starts to steam and show tiny bubbles around the edges—do NOT let it boil. Once it's hot, turn off the heat, cover, and let it steep for 15 minutes. The milk will turn this beautiful dark tan color and smell absolutely incredible.
 
 7. **Strain out the grounds.** After 15 minutes, strain the mixture through a fine-mesh strainer or cheesecloth into a clean saucepan. Press on the grounds to extract every drop of that coffee-infused dairy. Discard the grounds.
 
-8. **Reheat and temper.** Put the strained coffee-cream back over medium heat until it's steaming again. In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until pale and thick. Temper the yolks—slowly drizzle about a cup of the hot coffee-cream into the yolks while whisking constantly, then pour the whole yolk mixture back into the saucepan.
+8. **Reheat and temper.** Put the strained coffee-cream back over medium heat until it's steaming again. In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until pale and thick. Temper the yolks—slowly drizzle about a cup of the hot coffee-cream into the yolks while whisking constantly, then pour the whole yolk mixture back into the saucepan.
 
-9. **Cook to nappe.** Return to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of the spoon—you're aiming for 170-175°F. It'll take 5-8 minutes and will darken slightly.
+9. **Cook to nappe.** Return to medium-low heat and cook, stirring constantly, until the custard thickens enough to coat the back of the spoon—you're aiming for 170-175°F. It'll take 5-8 minutes and will darken slightly.
 
-10. **Strain and chill.** Remove from heat, stir in the vanilla, then strain through a fine-mesh strainer into a clean bowl. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
+10. **Strain and chill.** Remove from heat, stir in the vanilla, then strain through a fine-mesh strainer into a clean bowl. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
 
 **Yeasted Beignet Dough (this takes 2+ hours with rising time, so plan ahead):**
 
-11. **Bloom that yeast like you mean it.** In a large bowl or the bowl of a stand mixer, combine the warm milk (110°F—test it on your wrist like baby formula, not hot enough to burn), 1 tablespoon of the sugar, and the yeast. Stir gently and let it sit for about 5-10 minutes until it gets foamy and smells like bread. If it doesn't foam, your yeast is dead or your milk was too hot/cold. Start over. Don't skip this step—dead yeast means flat, sad beignets.
+11. **Bloom that yeast like you mean it.** In a large bowl or the bowl of a stand mixer, combine the warm milk (110°F—test it on your wrist like baby formula, not hot enough to burn), 1 tablespoon of the sugar, and the yeast. Stir gently and let it sit for about 5-10 minutes until it gets foamy and smells like bread. If it doesn't foam, your yeast is dead or your milk was too hot/cold. Start over. Don't skip this step—dead yeast means flat, sad beignets.
 
-12. **Mix the dough.** Once your yeast is foamy and alive, add the egg, melted butter, remaining sugar, and salt. Stir to combine. Add the flour one cup at a time, mixing after each addition. If using a stand mixer, use the dough hook on low speed. If doing this by hand, use a wooden spoon until it gets too stiff, then switch to your hands. The dough will be soft and slightly sticky—that's correct. Don't add more flour just because it's tacky.
+12. **Mix the dough.** Once your yeast is foamy and alive, add the egg, melted butter, remaining sugar, and salt. Stir to combine. Add the flour one cup at a time, mixing after each addition. If using a stand mixer, use the dough hook on low speed. If doing this by hand, use a wooden spoon until it gets too stiff, then switch to your hands. The dough will be soft and slightly sticky—that's correct. Don't add more flour just because it's tacky.
 
 13. **Knead until smooth and elastic.** If using a stand mixer, knead on medium-low speed for about 5-6 minutes. If kneading by hand, turn the dough out onto a lightly floured surface and knead for 8-10 minutes. You want it smooth, elastic, and slightly tacky but not sticky-wet. It should spring back when you poke it.
 
 14. **First rise: be patient, homie.** Lightly oil a large bowl, put the dough in, and turn it to coat all sides with oil. Cover with a damp kitchen towel or plastic wrap. Set it somewhere warmish (like on top of your fridge or near a warm oven) and let it rise for 1.5 to 2 hours, until it's doubled in size. THIS WILL FEEL LIKE FOREVER. Resist the urge to rush it. Yeast moves at its own pace.
 
-15. **Roll and cut those beignets.** Once the dough has doubled, punch it down (literally just punch it to deflate it—very satisfying). Turn it out onto a lightly floured surface and roll it out to about 1/4-inch thickness. Using a sharp knife or pizza cutter, cut the dough into small squares or rectangles—about 1.5 to 2 inches. You want them small enough to be bite-sized in the ice cream, not full Café Du Monde portion size. You should get about 30-40 pieces.
+15. **Roll and cut those beignets.** Once the dough has doubled, punch it down (literally just punch it to deflate it—very satisfying). Turn it out onto a lightly floured surface and roll it out to about 1/4-inch thickness. Using a sharp knife or pizza cutter, cut the dough into small squares or rectangles—about 1.5 to 2 inches. You want them small enough to be bite-sized in the ice cream, not full Café Du Monde portion size. You should get about 30-40 pieces.
 
 16. **Second rise: patience, part two.** Place the cut beignets on a parchment-lined baking sheet, leaving space between them. Cover with a damp towel and let them rise for another 30 minutes. They won't double, but they'll puff up slightly. While they're rising, heat your frying oil.
 
-17. **Heat your oil and GET SERIOUS.** Pour about 2-3 inches of vegetable oil into a heavy-bottomed pot or deep skillet. Heat to 360°F on a thermometer. This temperature is CRUCIAL—too low and they'll be greasy and dense, too high and they'll burn outside while staying raw inside. 360°F is the sweet spot.
+17. **Heat your oil and GET SERIOUS.** Pour about 2-3 inches of vegetable oil into a heavy-bottomed pot or deep skillet. Heat to 360°F on a thermometer. This temperature is CRUCIAL—too low and they'll be greasy and dense, too high and they'll burn outside while staying raw inside. 360°F is the sweet spot.
 
 18. **Fry in batches, don't crowd the pot.** Working in batches of 5-6 pieces, gently slide the risen beignet squares into the hot oil. They'll sink, then float up and start puffing. Fry for about 1-2 minutes per side, flipping once, until they're golden brown all over. They puff up like little pillows and turn this gorgeous deep gold color. Use a slotted spoon or spider to remove them and drain on paper towels.
 
-19. **Dust with powdered sugar IMMEDIATELY and dry them out.** While the beignets are still warm, toss them in a MOUNTAIN of powdered sugar. Like, be absurd about it. This is New Orleans—subtlety is not the point. Once coated, spread them on a wire rack or baking sheet and let them sit at room temperature for at least 2 hours, or up to 4 hours. You want them to dry out slightly so they maintain some texture in the ice cream. They'll never be crunchy-crunchy after freezing, but properly dried beignets will stay tender and chewy rather than dissolving into mush.
+19. **Dust with powdered sugar IMMEDIATELY and dry them out.** While the beignets are still warm, toss them in a MOUNTAIN of powdered sugar. Like, be absurd about it. This is New Orleans—subtlety is not the point. Once coated, spread them on a wire rack or baking sheet and let them sit at room temperature for at least 2 hours, or up to 4 hours. You want them to dry out slightly so they maintain some texture in the ice cream. They'll never be crunchy-crunchy after freezing, but properly dried beignets will stay tender and chewy rather than dissolving into mush.
 
 **Churn and Assemble:**
 
-20. **Churn the custard.** Once your coffee custard is thoroughly chilled, churn it until it reaches soft-serve consistency—thick, creamy, and the color of café au lait. The coffee base makes this slightly denser than standard custard, so it may take a bit longer than usual.
+20. **Churn the custard.** Once your coffee custard is thoroughly chilled, churn it until it reaches soft-serve consistency—thick, creamy, and the color of café au lait. The coffee base makes this slightly denser than standard custard, so it may take a bit longer than usual.
 
-21. **Layer it up with purpose.** Get a freezer-safe container. Spread a layer of churned ice cream, drizzle some rum-butter swirl and/or chicory-coffee caramel (if you made both, alternate them—go wild), scatter some beignet pieces (don't use all of them in one layer or the bottom will be beignet soup and the top will be naked). Repeat the layers. You want beignets and swirls distributed throughout so every bite is a little Bourbon Street experience.
+21. **Layer it up with purpose.** Get a freezer-safe container. Spread a layer of churned ice cream, drizzle some rum-butter swirl and/or chicory-coffee caramel (if you made both, alternate them—go wild), scatter some beignet pieces (don't use all of them in one layer or the bottom will be beignet soup and the top will be naked). Repeat the layers. You want beignets and swirls distributed throughout so every bite is a little Bourbon Street experience.
 
 22. **Freeze until firm.** Press plastic wrap or parchment directly onto the surface, cover with a lid, and freeze for at least 4 hours. This needs proper set-up time.
 
@@ -4313,13 +4279,13 @@ Chicory coffee isn't just "coffee with stuff added." It's a whole NOLA thing tha
 
 **About Chicory Coffee:**
 
-Chicory root is roasted and ground, then blended with coffee. It's earthy, woody, slightly bitter, and absolutely essential to New Orleans coffee culture. Community Coffee and Café Du Monde both make chicory coffee blends that are perfect for this. If you can't find chicory coffee, you can buy pure ground chicory (health food stores often carry it) and mix it 50/50 with your favorite dark roast coffee. Do NOT just use regular coffee—it won't taste right.
+Chicory root is roasted and ground, then blended with coffee. It's earthy, woody, slightly bitter, and absolutely essential to New Orleans coffee culture. Community Coffee and Café Du Monde both make chicory coffee blends that are perfect for this. If you can't find chicory coffee, you can buy pure ground chicory (health food stores often carry it) and mix it 50/50 with your favorite dark roast coffee. Do NOT just use regular coffee—it won't taste right.
 
 **The Yeasted Dough Reality Check:**
 
-Yeah, this takes 2-3 hours from start to finish because of rising time. That's REAL beignets, homie. The quick drop-batter version is faster but it doesn't give you that pillowy, tender, slightly chewy texture that makes actual NOLA beignets so fucking good. The yeasted dough has this lightness and structure that holds up in ice cream without getting soggy or disappearing. Is it more work? Hell yes. Is it worth it? Also hell yes.
+Yeah, this takes 2-3 hours from start to finish because of rising time. That's REAL beignets, homie. The quick drop-batter version is faster but it doesn't give you that pillowy, tender, slightly chewy texture that makes actual NOLA beignets so fucking good. The yeasted dough has this lightness and structure that holds up in ice cream without getting soggy or disappearing. Is it more work? Yes. Is it worth it? Absolutely.
 
-If you're in a major rush and need to cut corners, you could use store-bought pizza dough in a pinch—let it come to room temp, roll it out, cut it, and fry it. It won't be EXACTLY the same, but it'll get you 75% of the way there and save you the rising time.
+If you're in a major rush and need to cut corners, you could use store-bought pizza dough in a pinch—let it come to room temp, roll it out, cut it, and fry it. It won't be EXACTLY the same, but it'll get you 75% of the way there and save you the rising time.
 
 **About the Beignet Texture in Ice Cream:**
 
@@ -4327,7 +4293,7 @@ Let's be real: fried dough chunks in ice cream are never going to stay *crispy* 
 
 **The Chicory-Coffee Caramel Option:**
 
-If you're already making the rum-butter swirl, is making ANOTHER caramel overkill? Maybe. But also... imagine layering both—the warm, boozy butterscotch AND the deep, earthy chicory-coffee caramel. It's like New Orleans in three dimensions. You could also just make the chicory-coffee caramel and skip the rum-butter if you want maximum coffee intensity. Both are excellent, both work, do what feels right.
+If you're already making the rum-butter swirl, is making ANOTHER caramel overkill? Maybe. But also... imagine layering both—the warm, boozy butterscotch AND the deep, earthy chicory-coffee caramel. It's like New Orleans in three dimensions. You could also just make the chicory-coffee caramel and skip the rum-butter if you want maximum coffee intensity. Both are excellent, both work, do what feels right.
 
 **Make-Ahead Timeline:**
 
@@ -4340,9 +4306,9 @@ If you're already making the rum-butter swirl, is making ANOTHER caramel overkil
 
 If you really want to capture that green-table-at-3-AM energy, serve this in a bowl with an extra dusting of powdered sugar on top and a shot of hot chicory coffee on the side for pouring over. It's excessive and perfect.
 
-**What It Tastes Like:**
+**What it tastes like:**
 
-This ice cream tastes like New Orleans feels at 2 AM—a little boozy, a lot sweet, impossibly rich, and somehow exactly what you needed. It's breakfast and dessert having an identity crisis in the best possible way.
+Tastes like New Orleans feels at 2 AM—a little boozy, a lot sweet, impossibly rich. Dark-roasted chicory coffee bitterness cuts through, sharp and earthy. Pillowy beignet pieces have gone chewy-crisp in the cold—textural magic. Powdered sugar caramel swirled through everything, tying it all together. It's breakfast and dessert having an identity crisis in the best possible way. Worth every damn minute of the ordeal.
 
 ---
 
@@ -4350,15 +4316,15 @@ This ice cream tastes like New Orleans feels at 2 AM—a little boozy, a lot s
 
 *America's forgotten fruit meets mountain sweetness*
 
-**Difficulty:** A FUCKING ORDEAL - Pawpaws only exist for like two weeks in September and you can't buy them anywhere. You either know a forager, have your own tree, or you wait another year. That's what makes this OVERKILL - not the technique (custard is standard), but the sourcing impossibility. The fruit goes bad in 48 hours, so you MUST make this the same day you harvest or acquire them. This is for the patient, the connected, or the obsessive, pal.
+**Difficulty:** A FUCKING ORDEAL - Pawpaws only exist for like two weeks in September and you can't buy them anywhere. You either know a forager, have your own tree, or you wait another year. That's what makes this OVERKILL - not the technique (custard is standard), but the sourcing impossibility. The fruit goes bad in 48 hours, so you MUST make this the same day you harvest or acquire them. This is for the patient, the connected, or the obsessive.
 
 **Total Time:** 6-8 hours (includes 4+ hours custard chilling, plus the entire year you spent waiting for pawpaw season to arrive again)
 
 **Allergen Information:** Tree nuts (walnuts)
 
-Listen, homie—this recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
+Listen, homie—this recipe is for the foragers, the patient ones, the people who are willing to wait all goddamn year for a 2-week window in September when pawpaws are ripe. If you've never had a pawpaw, imagine if a banana, a mango, and custard had a baby in the Appalachian mountains. It's tropical and creamy and *weird* in the best possible way, and you literally cannot buy these commercially because they go bad in like 48 hours. You either know someone with a tree, you forage them yourself, or you wait another year.
 
-This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's incredibly difficult to source the star ingredient. That's the point.
+This recipe takes that insane pawpaw flavor and pairs it with maple syrup and black walnuts—both foraged/regional Appalachian ingredients. It's a love letter to a part of America most people drive through without stopping. And yes, it's incredibly difficult to source the star ingredient. That's the point.
 
 ## Ingredients
 
@@ -4367,7 +4333,7 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 - 1 cup whole milk 
 - 2/3 cup granulated sugar
 - 1/4 cup Grade A Dark or Very Dark maple syrup
-- 4 egg yolks (NOT 6—we need the pawpaw to shine, not get buried under yolk richness)
+- 4 egg yolks (NOT 6—we need the pawpaw to shine, not get buried under yolk richness)
 - 1 cup pawpaw pulp (from about 4-6 pawpaws, seeds removed)
 - 1 tsp vanilla extract
 - 1 tbsp lemon juice (just to brighten it, not make it citrusy)
@@ -4394,9 +4360,9 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 2. **Make the maple brittle.** In a medium saucepan, combine the maple syrup, butter, and salt. Bring to a boil over medium-high heat, then reduce to medium and let it cook, stirring occasionally, until it reaches 240°F (soft-ball stage). This will take about 8-12 minutes. It'll thicken and the bubbles will get slower and more viscous. You're basically making maple candy that's gonna harden into brittle.
 
-3. **Add the walnuts and get it on the sheet.** Once you hit 240°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast—this sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
+3. **Add the walnuts and get it on the sheet.** Once you hit 240°F, kill the heat, stir in the vanilla and the chopped walnuts, and immediately spread the mixture onto a parchment-lined baking sheet. Work fast—this sets up QUICK. Let it cool completely (at least an hour), then break it into small chunks. You'll get this crunchy, maple-soaked walnut situation that's absolutely perfect in ice cream. Store in an airtight container until you're ready to churn.
 
-### Make the Bourbon-Maple Glaze (if using—and you should)
+### Make the Bourbon-Maple Glaze (if using—and you should)
 
 4. **Reduce that bourbon and maple together.** Combine the maple syrup and bourbon in a small saucepan. Bring to a simmer and cook for about 8-10 minutes, stirring occasionally, until it's reduced by about half and thickened significantly. It should coat the back of a spoon and smell like autumn and bad decisions. The alcohol will mostly cook off, but you'll get this deep, complex sweetness that's WAY more interesting than just maple.
 
@@ -4408,7 +4374,7 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 7. **Heat the dairy and maple.** In a medium saucepan, combine the cream, milk, half the sugar (about 1/3 cup), and the 1/4 cup maple syrup. Heat over medium until it's steaming and just starting to show tiny bubbles around the edges. Don't let it boil.
 
-8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, homie—you know the drill.
+8. **Whisk those yolks.** In a separate bowl, whisk together the egg yolks, remaining sugar (about 1/3 cup), and salt until it's pale and thick. This is your standard custard setup, homie—you know the drill.
 
 9. **Temper like you mean it.** Slowly drizzle about a cup of the hot cream mixture into the yolks while whisking constantly. You're warming up the yolks so they don't scramble. Once they're tempered, pour the whole yolk mixture back into the saucepan with the rest of the cream.
 
@@ -4416,11 +4382,11 @@ This recipe takes that insane pawpaw flavor and pairs it with maple syrup and bl
 
 11. **Add the pawpaw pulp and vanilla.** Once the custard is thickened, remove from heat and stir in the pawpaw pulp and vanilla extract. The pawpaw will thin it out slightly, and that's fine. The flavor is what matters here, and oh WOW does the pawpaw come through.
 
-12. **Strain and chill.** Strain the custard through a fine-mesh strainer into a clean bowl (this catches any bits of cooked egg or pawpaw fiber). Press on the solids to get all that good custard through. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
+12. **Strain and chill.** Strain the custard through a fine-mesh strainer into a clean bowl (this catches any bits of cooked egg or pawpaw fiber). Press on the solids to get all that good custard through. Cover with plastic wrap pressed directly onto the surface and refrigerate until completely cold—at least 4 hours, but overnight is better.
 
 ### Churn and Assemble
 
-13. **Churn that base.** Once your custard is thoroughly cold, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard—expect it to look thick and creamy when ready.
+13. **Churn that base.** Once your custard is thoroughly cold, churn until soft-serve. The pawpaw will give it a pale yellow-green color and make it slightly denser than standard custard—expect it to look thick and creamy when ready.
 
 14. **Layer it up.** Grab a freezer-safe container. Spread a layer of churned ice cream in the bottom, drizzle some of the cold bourbon-maple glaze (if using), scatter some black walnut brittle chunks, then repeat. You want those brittle chunks and bourbon-maple swirls distributed throughout. Don't just dump everything on top like some kind of animal.
 
@@ -4437,7 +4403,7 @@ The pulp tastes like banana-mango-custard with hints of pineapple and melon. It'
 Remember how you said the Maple Walnut had too many yolks and it muted the maple? Same principle here. Pawpaw has a delicate, custardy flavor that gets BURIED under too much egg richness. Four yolks gives you enough structure and creaminess without turning this into "vaguely tropical-scented vanilla."
 
 **Black Walnuts vs. Regular Walnuts:** 
-Black walnuts are another foraged Appalachian ingredient with a much more intense, almost earthy-funky flavor compared to regular English walnuts. If you can find them (check Hammons or other Midwest suppliers), use them. If not, regular walnuts work fine—they're just mellower.
+Black walnuts are another foraged Appalachian ingredient with a much more intense, almost earthy-funky flavor compared to regular English walnuts. If you can find them (check Hammons or other Midwest suppliers), use them. If not, regular walnuts work fine—they're just mellower.
 
 **Maple Syrup Grades:** 
 Use Grade A Dark, Very Dark, or if you can find it, the old "Grade B" designation (now called Grade A Very Dark). The darker the syrup, the more robust the maple flavor. You want that to come through against the pawpaw's tropical assertiveness.
@@ -4446,7 +4412,7 @@ Use Grade A Dark, Very Dark, or if you can find it, the old "Grade B" designatio
 The brittle can be made days in advance and stored airtight. The bourbon-maple glaze keeps in the fridge for a week. The pawpaw custard base MUST be made the day you get the pawpaws because they go bad FAST. Like, frighteningly fast. Don't wait.
 
 **About the Bourbon-Maple Glaze:** 
-This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
+This is technically optional, but it's the difference between "good" and "holy shit." The bourbon adds depth and complexity to the maple that you just don't get from straight syrup. Most of the alcohol cooks off during the reduction, but you get this warm, oaky sweetness that tastes like fall in Appalachia. If you don't drink or can't have alcohol, skip the bourbon and just reduce the maple syrup with the butter—it'll still be good, just less complex.
 **Why OVERKILL Difficulty:** 
 Not because the technique is hard, but because sourcing pawpaws is a goddamn treasure hunt and you have about a 2-week window per year to make this. If you nail it, though? You've made something almost nobody else has ever tasted. That's pretty fucking cool.
 
