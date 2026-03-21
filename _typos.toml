@@ -18,4 +18,5 @@ assed = "assed"
 extend-exclude = [
     "Ice_Cream_to_Fight_Over_COMPLETE.md",
     "*.sh",
+    "images/",
 ]
