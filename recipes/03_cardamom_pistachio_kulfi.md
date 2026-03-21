@@ -12,7 +12,7 @@ Look, homie—kulfi is India's traditional frozen dessert that predates Western 
 
 This version gets you 95% of the way there in about 20 minutes of active work instead of sacrificing your entire afternoon to milk reduction. You still get that dense, fudgy texture. You still get the cardamom-saffron-pistachio flavor profile that makes kulfi taste like kulfi. You just skip the part where you stand over a pot questioning your life choices for two hours.
 
-No eggs. No churning required (though you can if you want). Just mix, flavor, freeze, done. This is kulfi for people who love kulfi but also have jobs and responsibilities and a finite amount of patience.
+No eggs. No churning required (though you can if you want). Just mix, flavor, freeze...done. This is kulfi for people who love kulfi but also have jobs and responsibilities and a finite amount of patience.
 
 ## Ingredients
 
