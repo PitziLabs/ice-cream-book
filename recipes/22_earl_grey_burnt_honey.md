@@ -136,6 +136,4 @@ This pairs nicely with Scottish shortbread if you want to lean into the British 
 
 **What it tastes like:**
 
-Earl Grey up front—clear, bergamot-y, unmistakable. Then this honey depth that keeps revealing itself the more you eat. Then occasional pockets of intensely burnt honey that grab your attention and make you stop and think "wait, what was that?" The honeycomb adds this textural element that makes it feel special and expensive without being fussy about it. It's genuinely elegant but still looks homemade in that "I put actual effort into this" way. Tea time, but way more interesting than usual. Like if the Queen decided to get weird with it.
-
----
+Earl Grey up front—clear, bergamot-y, unmistakable. Honey depth keeps revealing itself the more you eat. Pockets of intensely burnt honey grab your attention—stop you mid-bite. Honeycomb adds textural crunch that makes it feel special without being fussy. Genuinely elegant but still looks homemade. Tea time, but way more interesting than usual.

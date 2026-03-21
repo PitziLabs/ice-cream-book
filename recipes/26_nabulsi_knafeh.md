@@ -97,8 +97,13 @@ Standard butter-toasted pastry gets soggy in ice cream after about 48 hours. By 
 **Orange Blossom Water (A Warning):**
 This stuff is potent. The line between "delicate floral note" and "Grandma's soap factory" is razor thin. Measure carefully. If you're nervous, start with 1/2 tsp. You want it to be a whisper, not a shout.
 
+**Cultural context:**
+
+Knafeh is Nablus, and Nablus is knafeh. The city in the West Bank has claimed this dessert as its own for centuries, and Nabulsis take that claim seriously—it's a point of civic pride, cultural identity, and fierce regional argument across the entire Levant. (Ask someone from Nablus, Beirut, Amman, and Damascus who invented knafeh and you'll get four different answers, all delivered with complete certainty.) The dish—shredded kataifi pastry layered with fresh cheese, soaked in orange blossom syrup—shows up at celebrations, holidays, and ordinary Tuesday mornings across Palestine, Jordan, Lebanon, Syria, and beyond. Nabulsi cheese itself is a brined white cheese specific to the region, traditionally made from sheep's or goat's milk. This ice cream can't replicate the experience of eating warm knafeh from a street stall in the Old City, but it captures the flavor architecture—salty cheese, sweet syrup, crunchy pastry, floral perfume—and freezes it into something that respects what makes the original extraordinary.
+
 **Visual:**
 Stark white base (from the fresh cheeses) contrasting with deep amber candied pastry clusters and bright green pistachio dust. It looks elegant as hell.
 
 **What it tastes like:**
-Salty-tangy creaminess up front, followed by the hard crunch of caramel-coated pastry, finishing with sweet floral syrup. It's a rollercoaster, pal. It hits every part of your palate—savory, sweet, floral, textural. It tastes like the Old City.
+
+Salty-tangy creaminess up front from the Nabulsi cheese—savory in a way no other ice cream dares. Then the hard crunch of caramel-coated kataifi, shattering between your teeth. Finishing with sweet floral syrup that ties savory to sweet in one impossible bite. Hits every part of your palate—savory, sweet, floral, textural. It's a rollercoaster, pal. Tastes like the Old City.

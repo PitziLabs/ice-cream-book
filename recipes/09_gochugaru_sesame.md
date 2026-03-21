@@ -113,5 +113,3 @@ The combination of sesame and chili is deeply rooted in Korean cuisine—think g
 **What it tastes like:**
 
 Nutty and earthy from the black sesame, with pockets of fruity, warming heat from the gochugaru caramel. The sesame oil adds depth without being identifiable—it just makes everything taste more *complete*, like it's been seasoned properly. The brittle adds textural crunch that keeps things interesting. Complex and surprisingly moreish. This is the kind of flavor that makes people take a second bite just to figure out what the hell is happening, and then a third because they've decided they like it. Then they eat half the container and pretend they didn't.
-
----
