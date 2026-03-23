@@ -149,3 +149,13 @@ Good examples:
 2. Manually split COMPLETE file OR ask Claude to help extract specific files
 3. Test compilation script
 4. Start working on individual files with Claude
+
+---
+
+## Credits
+
+Written by Chris Pitzi with [Claude](https://claude.ai) (Anthropic). 27 original custard-based ice cream recipes developed through iterative recipe design, flavor pairing, and obsessive attention to technique.
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
