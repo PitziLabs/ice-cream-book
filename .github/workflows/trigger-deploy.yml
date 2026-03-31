@@ -35,7 +35,7 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.DEPLOY_TRIGGER_PAT }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/repos/cpitzi/aws-lab-infra/dispatches \
+            https://api.github.com/repos/PitziLabs/aws-lab-infra/dispatches \
             -d '{"event_type":"recipe-updated","client_payload":{"sha":"${{ github.sha }}"}}'
 
           echo "✅ Deploy triggered in aws-lab-infra"
