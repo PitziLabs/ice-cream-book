@@ -2,7 +2,7 @@
 
 *Southeast Asia's vanilla, now frozen*
 
-**Difficulty:** CHILL - You're making tea, basically. Fancy tea, sure - but tea. Heat coconut milk and cream with pandan leaves and sugar, let it steep until it turns pale green and smells like a tropical daydream, strain, chill, churn. No tempering, no emulsification, no eggs, no catastrophic failure points. The only challenge is sourcing fresh pandan leaves, which might require a field trip to an Asian market. Pandan extract exists as a backup, but using extract when you could use fresh leaves is like bringing a kazoo to a symphony—technically it makes noise, but come on, homie.
+**Difficulty:** CHILL - You're making tea, basically. Fancy tea, sure, but tea. Heat coconut milk and cream with pandan leaves and sugar, let it steep until it turns pale green and smells like a tropical daydream, strain, chill, churn. No tempering, no emulsification, no eggs, no catastrophic failure points. The only challenge is sourcing fresh pandan leaves, which might require a field trip to an Asian market. Pandan extract exists as a backup, but using extract when you could use fresh leaves is like bringing a kazoo to a symphony—technically it makes noise, but come on, homie.
 
 **Total Time:** 6-8 hours (20 minutes of actual work, the rest is steeping and chilling while you wonder how you've gone your entire life without knowing pandan exists)
 
