@@ -1,8 +1,8 @@
 # .github/workflows/trigger-deploy.yml
 #
-# When recipes are merged to main, tell aws-lab-infra to redeploy.
+# When recipes are merged to main, tell cloud-platform-demo to redeploy.
 #
-# This sends a repository_dispatch event to cpitzi/aws-lab-infra,
+# This sends a repository_dispatch event to PitziLabs/cloud-platform-demo,
 # which triggers the full build & deploy pipeline:
 #   Astro build → Docker → ECR → ECS → icecreamtofightover.com
 #
@@ -11,7 +11,7 @@
 # different jobs, complementary purposes.
 #
 # Auth: requires a fine-grained PAT (DEPLOY_TRIGGER_PAT) with
-# Contents Read+Write on aws-lab-infra. GITHUB_TOKEN can't do
+# Contents Read+Write on cloud-platform-demo. GITHUB_TOKEN can't do
 # cross-repo dispatch — it's scoped to this repo only.
 
 name: Trigger Deploy
@@ -28,14 +28,14 @@ jobs:
   notify-infra:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger deploy in aws-lab-infra
+      - name: Trigger deploy in cloud-platform-demo
         run: |
           curl -L \
             -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.DEPLOY_TRIGGER_PAT }}" \
             -H "X-GitHub-Api-Version: 2022-11-28" \
-            https://api.github.com/repos/PitziLabs/aws-lab-infra/dispatches \
+            https://api.github.com/repos/PitziLabs/cloud-platform-demo/dispatches \
             -d '{"event_type":"recipe-updated","client_payload":{"sha":"${{ github.sha }}"}}'
 
-          echo "✅ Deploy triggered in aws-lab-infra"
+          echo "✅ Deploy triggered in cloud-platform-demo"
