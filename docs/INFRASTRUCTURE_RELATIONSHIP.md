@@ -1,6 +1,6 @@
 # How This Book Becomes a Website
 
-This document describes how `ice_cream_book` relates to its companion repository, [`PitziLabs/aws-lab-infra`](https://github.com/PitziLabs/aws-lab-infra), which turns these recipes into a live website at **icecreamtofightover.com**.
+This document describes how `ice-cream-book` relates to its companion repository, [`PitziLabs/cloud-platform-demo`](https://github.com/PitziLabs/cloud-platform-demo), which turns these recipes into a live website at **icecreamtofightover.com**.
 
 ## This Repo's Role
 
@@ -20,13 +20,13 @@ Each recipe file follows a consistent structure — H1 title, italic subtitle, d
 
 ## What Happens to the Content
 
-The `aws-lab-infra` repo contains a script called `sync_recipes.py` that reads these Markdown files and transforms them into web-ready content:
+The `cloud-platform-demo` repo contains a script called `sync_recipes.py` that reads these Markdown files and transforms them into web-ready content:
 
 ```
 ice_cream_book/recipes/*.md
         │
         ▼
-  sync_recipes.py (in aws-lab-infra)
+  sync_recipes.py (in cloud-platform-demo)
         │  - Extracts title, subtitle, difficulty tier, total time
         │  - Generates YAML frontmatter for Astro
         │  - Writes to src/content/recipes/
@@ -34,7 +34,7 @@ ice_cream_book/recipes/*.md
   Astro static site build → nginx container → ECS Fargate → icecreamtofightover.com
 ```
 
-In CI/CD, the `RECIPE_SOURCE` environment variable points `sync_recipes.py` at this repo's recipe files. For local development, the script defaults to `../ice_cream_book/recipes/`, expecting both repos to be cloned as siblings.
+In CI/CD, the `RECIPE_SOURCE` environment variable points `sync_recipes.py` at this repo's recipe files. For local development, the script defaults to `../ice-cream-book/recipes/`, expecting both repos to be cloned as siblings.
 
 ## What the Infrastructure Expects from Us
 
@@ -55,7 +55,7 @@ Breaking these conventions will cause the website to display missing or incorrec
 - **Editing a recipe** — Content updates flow through on the next site build. No infra changes needed.
 - **Adding a new recipe** — Create a new numbered `.md` file in `recipes/`. The sync script auto-discovers all `*.md` files in the directory.
 - **Renaming a recipe file** — Changes the URL slug on the website. Old URLs will 404 unless redirects are added on the infra side.
-- **Changing the format** — If the H1, italic subtitle, `**Difficulty:**`, or `**Total Time:**` patterns change, `sync_recipes.py` must be updated in `aws-lab-infra` to match.
+- **Changing the format** — If the H1, italic subtitle, `**Difficulty:**`, or `**Total Time:**` patterns change, `sync_recipes.py` must be updated in `cloud-platform-demo` to match.
 
 ## What Does NOT Affect the Website
 
@@ -70,10 +70,10 @@ To work on both repos together locally:
 ```
 ~/projects/
 ├── ice_cream_book/        # this repo
-└── aws-lab-infra/
+└── cloud-platform-demo/
     └── app/
         └── ice_cream_site/
-            └── sync_recipes.py   # expects ../ice_cream_book/recipes/
+            └── sync_recipes.py   # expects ../ice-cream-book/recipes/
 ```
 
 With this layout, running `python sync_recipes.py` from the `ice_cream_site` directory will pull recipes directly from your local `ice_cream_book` checkout.
