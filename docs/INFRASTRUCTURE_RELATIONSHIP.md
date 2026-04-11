@@ -4,7 +4,7 @@ This document describes how `ice-cream-book` relates to its companion repository
 
 ## This Repo's Role
 
-`ice_cream_book` is the **content source of truth**. Every recipe, the front matter, the back matter, and the style guide all live here as plain Markdown files. This repo knows nothing about AWS, Docker, or web frameworks — it is purely editorial.
+`ice-cream-book` is the **content source of truth**. Every recipe, the front matter, the back matter, and the style guide all live here as plain Markdown files. This repo knows nothing about AWS, Docker, or web frameworks — it is purely editorial.
 
 The key content that flows downstream:
 
@@ -23,7 +23,7 @@ Each recipe file follows a consistent structure — H1 title, italic subtitle, d
 The `cloud-platform-demo` repo contains a script called `sync_recipes.py` that reads these Markdown files and transforms them into web-ready content:
 
 ```
-ice_cream_book/recipes/*.md
+ice-cream-book/recipes/*.md
         │
         ▼
   sync_recipes.py (in cloud-platform-demo)
@@ -69,11 +69,11 @@ To work on both repos together locally:
 
 ```
 ~/projects/
-├── ice_cream_book/        # this repo
+├── ice-cream-book/        # this repo
 └── cloud-platform-demo/
     └── app/
         └── ice_cream_site/
             └── sync_recipes.py   # expects ../ice-cream-book/recipes/
 ```
 
-With this layout, running `python sync_recipes.py` from the `ice_cream_site` directory will pull recipes directly from your local `ice_cream_book` checkout.
+With this layout, running `python sync_recipes.py` from the `ice_cream_site` directory will pull recipes directly from your local `ice-cream-book` checkout.
