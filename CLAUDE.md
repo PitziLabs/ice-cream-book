@@ -1,7 +1,7 @@
 # CLAUDE.md - AI Assistant Guide for Ice Cream to Fight Over
 
 **Last Updated:** 2026-03-07
-**Repository:** ice_cream_book
+**Repository:** ice-cream-book
 **Project Type:** Modular Markdown-based Cookbook
 
 ---
@@ -46,7 +46,7 @@
 ## Repository Structure
 
 ```
-ice_cream_book/
+ice-cream-book/
 ├── .git/                          # Git repository
 ├── front_matter/                  # Book introduction (9 files, ~31KB)
 │   ├── 01_title_and_intro.md
@@ -180,7 +180,7 @@ Better: Use exact filename with path
 
 **Active Branch:** `claude/claude-md-mi6fyi978ce21pnr-019jNus9dKds9SXH4hMkodJQ`
 
-**Remote:** `http://local_proxy@127.0.0.1:58280/git/cpitzi/ice_cream_book`
+**Remote:** `http://local_proxy@127.0.0.1:58280/git/cpitzi/ice-cream-book`
 
 ### Branching Strategy
 
@@ -765,7 +765,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 ### Version Control
 
 - **Git:** Standard git repository
-- **Remote:** `http://local_proxy@127.0.0.1:58280/git/cpitzi/ice_cream_book`
+- **Remote:** `http://local_proxy@127.0.0.1:58280/git/cpitzi/ice-cream-book`
 - **Hooks:** None currently configured
 - **Branch naming:** `claude/claude-md-*` with session ID
 - **Commit style:** Imperative mood, descriptive
@@ -868,4 +868,4 @@ This is a **professional cookbook project** with:
 
 ---
 
-*This document was created to help AI assistants understand the ice_cream_book repository structure, conventions, and workflows. Last updated by Claude on 2025-11-19.*
+*This document was created to help AI assistants understand the ice-cream-book repository structure, conventions, and workflows. Last updated by Claude on 2025-11-19.*
