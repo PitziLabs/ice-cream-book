@@ -171,6 +171,7 @@ Better: Use exact filename with path
 5. **Test compilation** (optional but recommended)
 6. **Commit changes** with descriptive message
 7. **Push to branch** (if working in git workflow)
+8. **Open a pull request** as the final step — do not stop at "pushed the branch"
 
 ---
 
@@ -234,6 +235,18 @@ Add to `.gitignore` if you want to track only source files:
 ```
 Ice_Cream_to_Fight_Over_COMPLETE.md
 ```
+
+### Pull Request Creation
+
+Opening a pull request is the final required step — "pushed the branch" is not done. The PR is part of the deliverable.
+
+**PR title:** Match or clearly refine the issue title.
+
+**PR body must include:**
+- `Closes #<number>` so merging the PR automatically closes the issue
+- A short summary of what changed and why
+
+**Do not merge the PR yourself.** Auto-merge is configured and will handle it once checks pass.
 
 ---
 
@@ -485,6 +498,7 @@ The HOMIE voice is what makes this cookbook distinctive. It's **casual, educatio
 7. **Test compilation** after significant changes (optional but recommended)
 8. **Write descriptive commit messages** in imperative mood
 9. **Run a consistency check when renaming** - When renaming a recipe or any key term, ALWAYS grep the entire repo for the old name before committing. Recipe names appear in multiple places: the recipe file itself, `front_matter/07_the_flavors.md`, `STYLE_GUIDE.md`, `CLAUDE.md`, and possibly other documentation. Use `grep -r "OldName" .` to find all references.
+10. **Open a pull request as the final step** — after pushing to the branch, open a PR. PR title should match or clearly refine the issue title. PR body must include `Closes #<number>` so merge closes the issue, plus a short summary of what changed and why. Do not merge the PR yourself; auto-merge is configured and will handle it once checks pass.
 
 ### Content Modification Rules
 
@@ -797,6 +811,7 @@ When unsure about structure or voice, reference these exemplar recipes:
 - **"What it tastes like" as final note** - always
 - **Churning: describe doneness, never estimate time**
 - **Voice: conversational, self-deprecating, technically accurate**
+- **PR creation is the final step** - after pushing, open a PR with `Closes #<number>` in the body; do not merge yourself (auto-merge handles it)
 
 ### File Paths Quick Reference
 
