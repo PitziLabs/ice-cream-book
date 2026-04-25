@@ -1,15 +1,9 @@
 # ============================================================================
 # Claude Code — Interactive @claude Responder
 # ============================================================================
-# Responds when someone tags @claude in an issue or PR comment/review.
-# This is the interactive assistant — it does whatever is asked in the comment.
-#
-# When triggered from an issue, Claude Code reads the repo, implements the
-# requested changes, creates a PR, and enables auto-merge. The PR must pass
-# ShellCheck and Claude Code Review before it merges.
-#
-# This workflow only fires on explicit @claude mentions, so runtime is less
-# of a concern (the user is waiting for a response to a specific question).
+# Thin wrapper around PitziLabs/shared-workflows/claude-responder.yml.
+# Defaults to haiku since most edits are small content tweaks;
+# `model:opus` / `model:sonnet` labels promote when the change is larger.
 # ============================================================================
 
 name: Claude Code
@@ -28,38 +22,8 @@ on:
 
 jobs:
   claude:
-    if: |
-      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@claude')) ||
-      (github.event_name == 'pull_request_review_comment' && contains(github.event.comment.body, '@claude')) ||
-      (github.event_name == 'pull_request_review' && contains(github.event.review.body, '@claude')) ||
-      (github.event_name == 'issues' && (contains(github.event.issue.body, '@claude') || contains(github.event.issue.title, '@claude')))
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      issues: write
-      id-token: write
-      actions: read
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 1
-
-      - name: Run Claude Code
-        uses: anthropics/claude-code-action@v1
-        env:
-          CLAUDE_CODE_MAX_OUTPUT_TOKENS: "64000"
-        with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          claude_args: |
-            --max-turns 25
-            --model ${{
-              (contains(github.event.issue.labels.*.name, 'model:opus') ||
-               contains(github.event.pull_request.labels.*.name, 'model:opus')) && 'opus' ||
-              (contains(github.event.issue.labels.*.name, 'model:sonnet') ||
-               contains(github.event.pull_request.labels.*.name, 'model:sonnet')) && 'sonnet' ||
-              'haiku'
-            }}
-            --allowedTools "Bash(git add:*)" "Bash(git commit:*)" "Bash(git checkout:*)" "Bash(git switch:*)" "Bash(git push:*)" "Bash(git status:*)" "Bash(git diff:*)" "Bash(git log:*)" "Bash(git branch:*)" "Bash(gh pr create:*)" "Bash(gh pr merge:*)" "Bash(gh pr view:*)" "Bash(shellcheck:*)" "Read" "Edit" "Write"
+    uses: PitziLabs/shared-workflows/.github/workflows/claude-responder.yml@main
+    secrets: inherit
+    with:
+      default_model: haiku
+      allowed_tools: '"Bash(git add:*)" "Bash(git commit:*)" "Bash(git checkout:*)" "Bash(git switch:*)" "Bash(git push:*)" "Bash(git status:*)" "Bash(git diff:*)" "Bash(git log:*)" "Bash(git branch:*)" "Bash(gh pr create:*)" "Bash(gh pr merge:*)" "Bash(gh pr view:*)" "Bash(shellcheck:*)" "Read" "Edit" "Write"'
