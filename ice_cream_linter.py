@@ -3,6 +3,7 @@
 Ice Cream Book Linter v3 (Grouped Output + Suggestions + Prioritized Ordering)
 """
 
+import argparse
 import sys
 import re
 from pathlib import Path
@@ -141,7 +142,66 @@ def lint_file(path, is_recipe):
 
 # --- Main ---
 
-def run_lint():
+def render_text(results, total_files, files_with_issues, total_errors, total_warnings):
+    out = []
+    for f, errors, warnings in results:
+        out.append(f"\n{f}")
+        if errors:
+            out.append(f"  ERROR ({len(errors)})")
+            for e in errors:
+                out.append(f"    - {e}")
+        if warnings:
+            out.append(f"  WARN ({len(warnings)})")
+            for w in warnings:
+                out.append(f"    - {w}")
+    out.append("\nSUMMARY")
+    out.append(f"  Files checked: {total_files}")
+    out.append(f"  Files with issues: {files_with_issues}")
+    out.append(f"  Errors: {total_errors}")
+    out.append(f"  Warnings: {total_warnings}")
+    return "\n".join(out)
+
+
+def render_markdown(results, total_files, total_errors, total_warnings):
+    out = ["## Linter Report", ""]
+    out.append(
+        f"**Files checked:** {total_files} · "
+        f"**Errors:** {total_errors} · "
+        f"**Warnings:** {total_warnings}"
+    )
+    out.append("")
+
+    if total_errors:
+        out.append("### Errors")
+        out.append("")
+        for f, errors, _ in results:
+            if not errors:
+                continue
+            out.append(f"**`{f.relative_to(ROOT)}`**")
+            for e in errors:
+                out.append(f"- {e}")
+            out.append("")
+    else:
+        out.append("No errors.")
+        out.append("")
+
+    if total_warnings:
+        out.append("<details>")
+        out.append(f"<summary>{total_warnings} warnings across {sum(1 for _, _, w in results if w)} files</summary>")
+        out.append("")
+        for f, _, warnings in results:
+            if not warnings:
+                continue
+            out.append(f"**`{f.relative_to(ROOT)}`**")
+            for w in warnings:
+                out.append(f"- {w}")
+            out.append("")
+        out.append("</details>")
+
+    return "\n".join(out)
+
+
+def run_lint(fmt="text"):
     files = (
         [(f, True) for f in RECIPE_DIR.glob("*.md")]
         + [(f, False) for f in FRONT_DIR.glob("*.md")]
@@ -159,34 +219,21 @@ def run_lint():
             total_errors += len(errors)
             total_warnings += len(warnings)
 
-    # Sort: files with errors first, then warnings, then clean (though clean won't be in results)
     results.sort(key=lambda x: (len(x[1]) == 0, -len(x[1]), -len(x[2])))
 
+    total_files = len(files)
     files_with_issues = len(results)
 
-    for f, errors, warnings in results:
-        print(f"\n{f}")
-
-        if errors:
-            print(f"  ERROR ({len(errors)})")
-            for e in errors:
-                print(f"    - {e}")
-
-        if warnings:
-            print(f"  WARN ({len(warnings)})")
-            for w in warnings:
-                print(f"    - {w}")
-
-    total_files = len(files)
-
-    print("\nSUMMARY")
-    print(f"  Files checked: {total_files}")
-    print(f"  Files with issues: {files_with_issues}")
-    print(f"  Errors: {total_errors}")
-    print(f"  Warnings: {total_warnings}")
+    if fmt == "markdown":
+        print(render_markdown(results, total_files, total_errors, total_warnings))
+    else:
+        print(render_text(results, total_files, files_with_issues, total_errors, total_warnings))
 
     return 1 if total_errors else 0
 
 
 if __name__ == "__main__":
-    sys.exit(run_lint())
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--format", choices=["text", "markdown"], default="text")
+    args = parser.parse_args()
+    sys.exit(run_lint(fmt=args.format))

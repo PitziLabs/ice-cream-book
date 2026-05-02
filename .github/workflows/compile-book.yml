@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   validate:
@@ -33,7 +34,21 @@ jobs:
         run: python compile_book.py
 
       - name: Lint content
-        run: python ice_cream_linter.py
+        id: lint
+        continue-on-error: true
+        run: python ice_cream_linter.py --format markdown > lint-report.md
+
+      - name: Post lint report as PR comment
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: ice-cream-linter
+          path: lint-report.md
+
+      - name: Fail if lint reported errors
+        if: steps.lint.outcome == 'failure'
+        run: |
+          echo "Linter reported errors — see the PR comment for details."
+          exit 1
 
       - name: Spell check with typos
         uses: crate-ci/typos@v1.28.4
