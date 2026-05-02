@@ -4,7 +4,7 @@
 
 **Difficulty:** LEGIT - You'll candy macadamias without burning them (harder than it sounds with 75% fat content), infuse wattleseed properly, and layer swirls like you actually give a damn. Plus sourcing native Australian ingredients might require actual effort.
 
-**Total Time:** 6-8 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
+**Total Time:** 3-6 hours (mostly waiting for nuts to dry and custard to chill while you contemplate your life choices)
 
 **Allergen Information:** 
 
