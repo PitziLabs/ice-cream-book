@@ -6,7 +6,9 @@ on:
       - 'front_matter/**'
       - 'recipes/**'
       - 'back_matter/**'
+      - 'canonical_samples/**'
       - 'compile_book.py'
+      - 'ice_cream_linter.py'
       - '_typos.toml'
 
 permissions:
@@ -29,6 +31,9 @@ jobs:
 
       - name: Compile book
         run: python compile_book.py
+
+      - name: Lint content
+        run: python ice_cream_linter.py
 
       - name: Spell check with typos
         uses: crate-ci/typos@v1.28.4
