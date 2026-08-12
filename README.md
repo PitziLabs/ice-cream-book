@@ -8,21 +8,54 @@
 
 # site-icecreamtofightwith-com — "Ice Cream to Fight With"
 
-A 28-recipe custard-based ice cream cookbook spanning international cuisines, built as a modular Markdown project and served as content for [icecreamtofightwith.com](https://icecreamtofightwith.com). The book combines sophisticated technique instruction with a distinctive conversational voice — recipes you'll actually want to read, not just follow.
+A 28-recipe custard-based ice cream cookbook spanning international cuisines, built as a modular Markdown project and served as content for [icecreamtofightwith.com](https://icecreamtofightwith.com). It's also this org's fun exhibit: a real content pipeline — lint, compile, deploy — run with the same rigor as any production service, on stakes low enough to poke at without fear.
 
 **Authorship:** The recipes, front matter, and build scripts in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I bring the flavor ideas, technique experience, and editorial direction; Claude writes the prose and the code. I'm an infrastructure operator, not a software engineer or a professional writer — please don't read this repo as a portfolio of either coding or authorship.
 
-## Why This Exists
+## 📚 Ask this codebase (DeepWiki)
 
-What started as a personal recipe collection became a full cookbook project: 28 recipes developed through iterative design, flavor pairing research, and obsessive attention to technique. Every recipe has been tested, revised, and documented with the kind of detail that actually helps someone make ice cream — not the sanitized, hedge-everything approach of most cookbooks.
+<a href="https://deepwiki.com/lentago/site-icecreamtofightwith-com"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="32"></a>
 
-The project is also a deliberate exercise in modular content architecture. The book lives as individual Markdown files, compiled on demand, version-controlled with git, and deployed as a static site by an Astro/Nginx app that lives in the same repo. The companion infrastructure repository ([solidago](https://github.com/lentago/solidago)) provides ECR, ECS, ALB, and the IAM trust this repo's deploy workflow assumes via OIDC. No CMS, no database, no proprietary formats — just text files, a build script, and a tiny Astro site.
+[DeepWiki](https://deepwiki.com/lentago/site-icecreamtofightwith-com) maintains an AI-generated wiki over this repository — architecture pages, diagrams, and a Q&A box grounded in the actual code. Every public Lentago Labs repo is indexed ([deepwiki.com/lentago](https://deepwiki.com/lentago)); it is the fastest way to orient before reading source. It is AI-generated: trust it to orient you, verify against the code before you act on it.
+
+**Good first questions:**
+
+- How does the compile-book.yml workflow keep Ice_Cream_to_Fight_With_COMPLETE.md in sync when a recipe file changes?
+- How does the deploy.yml workflow authenticate to AWS, and what solidago-owned resources does it target?
+- Why is docs-check.yml deliberately not path-filtered, and what problem does that avoid for required status checks?
+
+## 🧭 What this repo demonstrates
+
+A markdown cookbook run like production software: content PRs gated by lint/compile/docs-link checks, auto-generated build artifacts, and OIDC-authenticated deploys to AWS on every merge to main.
+
+| Pattern | How it shows up here |
+|---|---|
+| Docs-as-code pipeline: modular Markdown → auto-compiled artifact → Astro site → containerized deploy | [`compile-book.yml`](.github/workflows/compile-book.yml) validates and re-compiles `Ice_Cream_to_Fight_With_COMPLETE.md`, auto-committing it back onto the PR branch; `sync_recipes.py` feeds the same `recipes/*.md` into the Astro build in [`deploy.yml`](.github/workflows/deploy.yml) |
+| OIDC-authenticated deploy on every push to main, no static AWS keys | [`deploy.yml`](.github/workflows/deploy.yml) — `configure-aws-credentials` assumes `arn:aws:iam::365184644049:role/solidago-dev-github-actions` |
+| Reusable/shared workflows consumed from a central repo | [`docs-check.yml`](.github/workflows/docs-check.yml) and [`claude.yml`](.github/workflows/claude.yml) are thin wrappers `uses:`-ing `lentago/shared-workflows` — one org-owned definition, no copy-pasted YAML |
+| Deliberately unfiltered required-check workflow, to avoid deadlocking required status checks | [`docs-check.yml`](.github/workflows/docs-check.yml) — see the header comment: a required check whose workflow never triggers on a given PR is held "Expected" forever |
+| Required-status-checks branch protection gating squash merges | [`lint.yml`](.github/workflows/lint.yml), [`compile-book.yml`](.github/workflows/compile-book.yml), and `docs-check` are all required checks on `main`; only squash merges are allowed |
+| Interactive `@claude` PR/issue responder, cost-tiered by label | [`claude.yml`](.github/workflows/claude.yml) — defaults to Haiku, escalates to Sonnet or Opus via `model:` labels |
+| Live-state alignment fire drill: an infra rename in a dependency silently breaks this repo's deploy until codified | [PR #126](https://github.com/lentago/site-icecreamtofightwith-com/pull/126) — solidago's `foundry-*` → `solidago-*` AWS resource rename orphaned `deploy.yml`'s ARN, ECR, and ECS names until this PR caught up |
+
+## 🛠️ Make a change yourself
+
+This is a lab — the systems are real, the stakes are not. Pick a vector:
+
+**Add or edit a recipe.** Edit or add a `recipes/*.md` or `front_matter/*.md` file and open a PR. `lint.yml` runs `ice_cream_linter.py` plus its unit tests and posts a sticky PR comment with any style or content violations; `compile-book.yml`'s validate job re-runs `compile_book.py` and a `typos` spellcheck, then its compile job re-generates and auto-commits `Ice_Cream_to_Fight_With_COMPLETE.md` back onto the PR branch if it changed. On merge to main, `deploy.yml` runs `sync_recipes.py` to translate the recipes into the Astro content collection, builds the static site, and rolls it out.
+**Proof this works:** [PR #73 — Inject recipe illustration into compiled markdown after H1](https://github.com/lentago/site-icecreamtofightwith-com/pull/73), [PR #71 — Add Gemini-generated illustrations for 26 recipes](https://github.com/lentago/site-icecreamtofightwith-com/pull/71)
+
+**Repoint the deploy pipeline after an infra rename.** Edit `.github/workflows/deploy.yml`'s `env` block (ECR repo, ECS cluster/service, OIDC role ARN) to point at renamed or new AWS resources owned by the [solidago](https://github.com/lentago/solidago) Terraform repo. After merge, the same workflow authenticates via OIDC (no static AWS keys), builds the Astro site into an nginx container, pushes to ECR, and forces an ECS Fargate rollout — live on icecreamtofightwith.com.
+**Proof this works:** [PR #126 — Align deploy pipeline to solidago-* resource names (#125)](https://github.com/lentago/site-icecreamtofightwith-com/pull/126), a real production break-fix after solidago's infra rename orphaned the old names.
+
+**Adopt a new shared/reusable CI check fleet-wide.** Add a thin caller workflow that does `uses: lentago/shared-workflows/.github/workflows/<name>.yml@main`, then the repo's branch protection ruleset is updated to require the new check's context before merge is allowed. The ruleset update happens at the org level via fleet-ops, so this vector needs org membership beyond a regular PR.
+**Proof this works:** [PR #145 — Adopt the shared docs-check workflow](https://github.com/lentago/site-icecreamtofightwith-com/pull/145)
 
 ## What's in the Book
 
 Twenty-eight recipes organized by difficulty, from approachable to genuinely demanding:
 
-**Front Matter:** Introduction, philosophy, a custard fundamentals tutorial, difficulty ratings, and a flavor overview. Nine sections covering everything a reader needs before touching a recipe.
+**Front Matter:** Introduction, philosophy, a custard fundamentals tutorial, difficulty ratings, and a flavor overview. Ten sections covering everything a reader needs before touching a recipe.
 
 **Recipes:** International flavors spanning kulfi, Vietnamese avocado smoothie ice cream, Sichuan peppercorn plum, wattleseed and macadamia, ube, miso matcha, and more. Each recipe includes cultural context, technique instruction, sourcing guidance, and detailed notes.
 
@@ -35,17 +68,11 @@ Twenty-eight recipes organized by difficulty, from approachable to genuinely dem
 ```
 site-icecreamtofightwith-com/
 ├── front_matter/                  # Book introduction (10 files)
-│   ├── 01_title.md
-│   ├── ...
-│   └── 10_final_thoughts.md
 ├── recipes/                       # Individual recipes (28 files, YAML frontmatter + prose)
-│   ├── 01_coconut_pandan.md
-│   ├── ...
-│   └── 28_appalachian_pawpaw_maple.md
 ├── back_matter/
-│   └── 99_closing.md
 ├── illustrations/                 # Per-recipe hero images (one PNG per slug)
 ├── compile_book.py                # Compiles the book into one Markdown file
+├── ice_cream_linter.py            # Voice/structure/encoding QA gate, run by lint.yml
 ├── STYLE_GUIDE.md                 # Editorial conventions + frontmatter schema
 ├── CLAUDE.md                      # AI assistant development guide
 │
@@ -53,10 +80,9 @@ site-icecreamtofightwith-com/
 ├── src/                           # Astro source: layouts, pages, components, content config
 ├── sync_recipes.py                # Translates recipes/*.md into Astro content collection
 ├── astro.config.mjs
-├── package.json / package-lock.json
 ├── Dockerfile                     # Production container — copies dist/ into nginx
 ├── nginx.conf                     # Port 8080, /health endpoint, clean URLs
-├── .github/workflows/deploy.yml   # Build → ECR → ECS, authenticated via OIDC
+├── .github/workflows/             # lint, compile-book, docs-check, deploy, claude
 └── docs/INFRASTRUCTURE_RELATIONSHIP.md  # How this repo lands on icecreamtofightwith.com
 ```
 
@@ -64,29 +90,7 @@ The book and the website share the same `recipes/` directory as source of truth.
 
 ## Design Decisions
 
-### Modular File Structure, Not a Single Document
-
-Each recipe, front matter section, and back matter piece lives in its own file. This enables granular version control (diffs show exactly what changed in which recipe), efficient AI-assisted editing (load one 10KB file instead of a 345KB monolith), and flexible reordering (renumber files to rearrange the book). The compiled output is generated on demand, not maintained by hand.
-
-### Plain Text Only — No Emojis, No Decorative Unicode
-
-The number one rule. Emojis corrupt across platforms, display inconsistently, and add nothing to a cookbook that earns its personality through writing, not decoration. Em dashes, degree symbols, and proper UTF-8 accent marks are allowed. Everything else is prohibited.
-
-### Difficulty Ratings Over Skill Levels
-
-Recipes are rated by what they demand, not what the reader brings. CHILL means minimal technique. A F█CK█NG ORDEAL means multi-day commitment with professional techniques. The ratings are honest about what the reader is signing up for, explained in the same conversational voice as the recipes themselves.
-
-### Cultural Context as a Requirement, Not a Garnish
-
-International recipes include substantive cultural context — origins, significance, honest notes about adaptations. This isn't "inspired by" tourism. If a recipe draws from a culinary tradition, the reader should understand what they're working with and where it comes from.
-
-### No Churn Time Estimates
-
-Ice cream maker equipment varies too widely. Every recipe describes churning by doneness ("soft-serve consistency," "thick and holds its shape") rather than minutes. Visual and textural cues are reliable; clock times are not.
-
-### Zero External Dependencies
-
-Both build scripts (Python and Bash) use only standard library tools. No package managers, no build configuration, no version requirements beyond a basic Python 3 or Bash install. The compilation is simple concatenation with separators — it should never break.
+The short version: one file per recipe (clean diffs, small context loads for AI-assisted editing), plain text only (no emojis or decorative Unicode — the linter enforces it), difficulty over skill level, cultural context as a requirement rather than a garnish, and zero external dependencies in either build script. Details in [STYLE_GUIDE.md](STYLE_GUIDE.md).
 
 ## Getting Started
 
@@ -109,3 +113,7 @@ See [STYLE_GUIDE.md](STYLE_GUIDE.md) for content conventions and [CLAUDE.md](CLA
 ## License
 
 MIT License — see [LICENSE](LICENSE).
+
+---
+
+🌱 **Lentago Labs** is a team learning lab — real systems, non-critical stakes, modern operations patterns demonstrated in the open. Start at the [org profile](https://github.com/lentago), and read this repo on [DeepWiki](https://deepwiki.com/lentago/site-icecreamtofightwith-com).
