@@ -4,9 +4,9 @@
 
 - [Introduction](#introduction)
 - [What Makes These Recipes Different](#what-makes-these-recipes-different-or-a-list-of-red-flags-youre-choosing-to-ignore-like-a-goddamn-fool)
-- [The Philosophy](#the-philosophy-or-why-make-things-harder-than-they-need-to-be—a-question-i-still-cant-fucking-answer)
+- [The Philosophy](#the-philosophy-or-why-make-things-harder-than-they-need-to-be—a-question-i-still-cant-answer)
 - [How to Actually Use This Book](#how-to-actually-use-this-book-without-screwing-everything-up)
-- [The Flavors](#the-flavors-aka-the-shit-youre-about-to-get-yourself-into)
+- [The Flavors](#the-flavors-aka-what-youre-signing-up-for)
 - [Difficulty Ratings](#a-note-on-difficulty-read-this-or-suffer-the-consequences)
 - [Custard Fundamentals](#custard-fundamentals-the-foundation-for-everything-pay-attention-dammit)
 - [Final Thoughts](#final-thoughts-before-you-lose-your-mind-in-the-kitchen)
