@@ -176,6 +176,72 @@ class TestCrossReferences(unittest.TestCase):
         self.assertEqual(L.check_cross_references(titles, flavors), [])
 
 
+class TestAnchorLinks(unittest.TestCase):
+    def test_matching_anchor_passes(self):
+        sections = [
+            ("a.md", "# Coconut Pandan\n"),
+            ("b.md", "- [Coconut Pandan](#coconut-pandan)\n"),
+        ]
+        self.assertEqual(L.check_anchor_links(sections), [])
+
+    def test_ampersand_heading_produces_double_hyphen(self):
+        # An `&` is stripped with no substitute, so ` & ` (space-amp-space)
+        # collapses to two consecutive spaces, which become two hyphens.
+        sections = [
+            ("a.md", "# Coffee & Berbere\n"),
+            ("b.md", "- [Coffee & Berbere](#coffee--berbere)\n"),
+        ]
+        self.assertEqual(L.check_anchor_links(sections), [])
+
+    def test_em_dash_mistranscribed_for_ampersand_flagged(self):
+        sections = [
+            ("a.md", "# Coffee & Berbere\n"),
+            ("b.md", "- [Coffee & Berbere](#coffee—berbere)\n"),
+        ]
+        errors = L.check_anchor_links(sections)
+        self.assertEqual(len(errors), 1)
+        self.assertIn("coffee—berbere", errors[0][1])
+
+    def test_em_dash_in_heading_vanishes_without_hyphen(self):
+        # An em dash inside a heading (not standing in for "&") is dropped
+        # outright, with no hyphen left in its place.
+        sections = [
+            ("a.md", "# Need To Be—A Question\n"),
+            ("b.md", "- [ref](#need-to-bea-question)\n"),
+        ]
+        self.assertEqual(L.check_anchor_links(sections), [])
+
+    def test_ascii_folded_diacritics_flagged(self):
+        sections = [
+            ("a.md", "# Sinh Tố Bơ\n"),
+            ("b.md", "- [Sinh To Bo](#sinh-to-bo)\n"),
+        ]
+        errors = L.check_anchor_links(sections)
+        self.assertEqual(len(errors), 1)
+
+    def test_diacritics_preserved_in_anchor(self):
+        sections = [
+            ("a.md", "# Sinh Tố Bơ\n"),
+            ("b.md", "- [Sinh To Bo](#sinh-tố-bơ)\n"),
+        ]
+        self.assertEqual(L.check_anchor_links(sections), [])
+
+    def test_duplicate_headings_disambiguated_in_document_order(self):
+        sections = [
+            ("01.md", "# One\n\n## Ingredients\n"),
+            ("02.md", "# Two\n\n## Ingredients\n"),
+            ("toc.md", "- [first](#ingredients)\n- [second](#ingredients-1)\n"),
+        ]
+        self.assertEqual(L.check_anchor_links(sections), [])
+
+    def test_unresolved_link_reports_source_label(self):
+        sections = [
+            ("front_matter/02_toc.md", "[x](#does-not-exist)\n"),
+        ]
+        errors = L.check_anchor_links(sections)
+        self.assertEqual(errors[0][0], "front_matter/02_toc.md")
+
+
 class TestCountOccurrences(unittest.TestCase):
     """Substring counting used to false-match common English words.
     These tests pin down that 'pal' no longer matches 'palm', etc.

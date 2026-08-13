@@ -9,6 +9,8 @@ import re
 from pathlib import Path
 from collections import Counter
 
+import compile_book
+
 ROOT = Path(__file__).resolve().parent
 RECIPE_DIR = ROOT / "recipes"
 FRONT_DIR = ROOT / "front_matter"
@@ -58,6 +60,9 @@ H1_RE = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
 TAGLINE_RE = re.compile(r"^\*[^*\n]+\*\s*$")
 BOLD_TITLE_RE = re.compile(r"\*\*([^*\n]+)\*\*")
 RECIPE_FILENAME_RE = re.compile(r"^\d{2}_[a-z0-9_]+\.md$")
+
+HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.MULTILINE)
+ANCHOR_LINK_RE = re.compile(r"\[([^\]]+)\]\(#([^)\s]+)\)")
 
 # --- Helpers ---
 
@@ -346,6 +351,47 @@ def check_cross_references(recipe_titles, flavors_text):
             )))
     return warnings
 
+
+def slugify_heading(text, counts):
+    """Reproduce GitHub's own heading-anchor algorithm: lowercase, drop
+    everything but word characters/spaces/hyphens (so `&` vanishes but an
+    em dash also vanishes without leaving a hyphen behind, and Unicode
+    diacritics survive), turn each remaining space into a hyphen, then
+    disambiguate repeats with a -1, -2, ... suffix in document order.
+    Validated against every heading GitHub renders for this book's
+    compiled output."""
+    slug = re.sub(r"[^\w\s-]", "", text.lower(), flags=re.UNICODE)
+    slug = slug.replace(" ", "-")
+    if slug in counts:
+        counts[slug] += 1
+        slug = f"{slug}-{counts[slug]}"
+    else:
+        counts[slug] = 0
+    return slug
+
+
+def check_anchor_links(sections):
+    """sections: ordered list of (label, text) covering the compiled book.
+    Builds the set of GitHub-generated heading anchors in document order,
+    then flags any `[text](#anchor)` link whose anchor matches no heading.
+    Returns list of (label, msg)."""
+    errors = []
+    counts = {}
+    anchors = set()
+    for _, text in sections:
+        for m in HEADING_RE.finditer(text):
+            anchors.add(slugify_heading(m.group(1), counts))
+
+    for label, text in sections:
+        for m in ANCHOR_LINK_RE.finditer(text):
+            link_text, anchor = m.group(1), m.group(2)
+            if anchor not in anchors:
+                errors.append((label, suggest(
+                    f"Link '[{link_text}]' points to '#{anchor}', which matches no heading anchor",
+                    "Fix the anchor to match the heading's GitHub-generated slug",
+                )))
+    return errors
+
 # --- Rendering ---
 
 def render_text(results, total_files, files_with_issues, total_errors, total_warnings,
@@ -448,6 +494,12 @@ def run_lint(fmt="text"):
     if FLAVORS_FILE.exists():
         recipe_titles = [(f, extract_h1(read_file(f))) for f in recipe_files]
         global_warnings = check_cross_references(recipe_titles, read_file(FLAVORS_FILE))
+
+    sections = [
+        (f, compile_book.strip_frontmatter(read_file(f)))
+        for f in front_files + recipe_files + back_files
+    ]
+    global_errors += check_anchor_links(sections)
 
     results = []
     total_errors = len(global_errors)
