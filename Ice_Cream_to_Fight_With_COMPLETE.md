@@ -65,23 +65,19 @@
 
 ## Introduction
 
-Alright, chief—let's talk about what the hell this collection actually is, because it's NOT your standard ice cream cookbook, and honestly, it's probably not what you thought you were signing up for. Buckle the fuck up.
+Alright, chief—let's get one thing straight: this is not a book of vanilla with sprinkles or chocolate chip cookie dough. (Both delicious, for the record. If that's what you want, godspeed—nobody's judging.) But if you picked this up, you're probably the kind of person who reads "3-hour rise time" and thinks that sounds like a reasonable Wednesday. Good. We're going to get along.
 
-This isn't a book of vanilla with sprinkles or chocolate chip cookie dough. (Those are both fucking delicious, by the way, and if that's what you want, godspeed—nobody's judging you for having functioning taste buds and a healthy sense of self-preservation. Go live your best damn life.) But if you picked this up, there's a decent chance you're the kind of unhinged bastard who looks at a recipe that says "3-hour rise time" and thinks "yeah, that sounds like a reasonable Wednesday." You absolute lunatic. I love you already. We're going to get along great.
+This is a collection of ice cream recipes that actually mean something—flavors rooted in real places and real traditions, built on ingredients that make you work for them. Mexican atole turned into frozen custard with piloncillo and star anise. Miso and ceremonial matcha in the world's most expensive savory-sweet argument. New Orleans chicory coffee with actual yeasted beignets—three hours of dough, fried, then frozen and swirled into ice cream, because apparently we needed a project.
 
-So here's the goddamn deal: This is a collection of ice cream recipes that actually *mean* something—flavors rooted in real places, real traditions, and real ingredients that will absolutely make you work your ass off for them. We're talking Mexican atole transformed into frozen custard with piloncillo and star anise. Japanese miso meeting ceremonial matcha in what can only be described as the world's most expensive savory-sweet identity crisis. (Worth every penny. Don't @ me.) New Orleans chicory coffee with actual yeasted beignets that take three damn hours to make, then get fried, then—and this is the truly batshit part—get frozen and swirled into ice cream because we've all collectively lost our fucking minds and we're not even a little sorry about it.
+Each recipe is an act of translation: taking flavors that define a region and making them work in ice cream without flattening what makes them special. Sometimes you'll flatten them a little. We're doing our best here, with respect, good ingredients, and a reasonable amount of panic.
 
-Each of these recipes is basically a high-wire act of cultural translation—taking flavors that define a cuisine or a region and figuring out how to make them work in ice cream without completely bastardizing what makes them special. (Spoiler: Sometimes you'll bastardize them a little. Shit happens. We're doing our best here, and that's all anyone can ask. The important thing is we're doing it with respect, good ingredients, and a reasonable amount of panic.)
+Some of these are elegant—lemon and rosemary honey with olive oil, golden milk with date. Some are weird—gochugaru and sesame, ricotta-semolina that tastes like a Neapolitan pastry's fever dream. And some are endurance tests: a beignet dough that eats your whole afternoon, candied ginger that takes two days, a pawpaw that exists for two weeks in September and goes bad in 48 hours.
 
-Some of them are elegant as hell—lemon and rosemary honey with olive oil, golden milk with date. Some are straight-up weird as shit—gochugaru and sesame, miso matcha, ricotta-semolina that tastes like a Neapolitan pastry had a fever dream after eating questionable mushrooms. And some are flat-out endurance tests—three-hour beignet doughs, candied ginger that takes two days, a pawpaw that only exists for two weeks in September and goes bad in 48 hours.
+One more thing before we start, homie, and I need you to hear it: you WILL fuck something up. I've fucked up every recipe in this book at least once, and I wrote the damn things. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours on candied ginger and eat half of it straight off the rack. (No shame, pal. It's stupid good.) The title isn't a warning, it's a promise.
 
-Speaking of which, here's what I need you to understand before we go any further, chief: You WILL fuck something up. Probably multiple somethings. I've fucked up every single one of these recipes at least once, and I wrote the damn things. That's not a failure—that's the process. The title isn't a warning, it's a promise. You'll burn the brown butter. You'll curdle a custard. You'll spend four hours making candied ginger and then eat half of it before it makes it into the ice cream. (No shame, pal. Candied ginger is stupid good.)
+But when you nail one of these—when the Sichuan plum comes out of the churner this impossible purple-pink and smells like a spice market—dude, that feeling is why we do this. That's the ice cream worth fighting over.
 
-But when you nail one of these—when you pull a batch of Sichuan plum with five-spice out of the churner and the color is this impossible purple-pink and it smells like a spice market in heaven—dude, that feeling is why we do this. That's the ice cream worth fighting over.
-
-So let's fuck some shit up and make something incredible.
-
-Welcome to the chaos, friend. Grab a spatula.
+Grab a spatula, friend.
 
 ---
 
