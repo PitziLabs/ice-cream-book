@@ -92,6 +92,8 @@ The book and the website share the same `recipes/` directory as source of truth.
 
 The short version: one file per recipe (clean diffs, small context loads for AI-assisted editing), plain text only (no emojis or decorative Unicode — the linter enforces it), difficulty over skill level, cultural context as a requirement rather than a garnish, and zero external dependencies in either build script. Details in [STYLE_GUIDE.md](STYLE_GUIDE.md).
 
+**Architecture decisions:** reconstructed decision records for this repo's build/hosting/voice-enforcement architecture live in [docs/adr/](docs/adr/README.md).
+
 ## Getting Started
 
 Compile the book with either script:
