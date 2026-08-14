@@ -39,11 +39,21 @@ merged away; each field serves a different consumer.
 ## Alternatives
 
 No alternative to the two-pipeline split itself is recorded in the
-evidence — PR #83 is a mechanical migration of an already-built Astro app
-into the existing book repo, not a design debate about compiler
+repo's own evidence — PR #83 is a mechanical migration of an already-built
+Astro app into the existing book repo, not a design debate about compiler
 architecture. The "don't consolidate frontmatter and prose" instruction in
-CLAUDE.md is the one explicit, recorded rejection: someone was tempted to
-treat the YAML/prose overlap as redundant and was told not to.
+CLAUDE.md is the one explicit, recorded rejection in-repo: someone was
+tempted to treat the YAML/prose overlap as redundant and was told not to.
+
+- *Recorded at the website pipeline's origin (2026-03-19, per early-era
+  session records):* **Craft** (the note-taking app) was considered as the
+  content home and rejected as adding no value over a direct
+  Markdown → SSG pipeline. **Astro** and the `sync_recipes.py`
+  frontmatter-parsing bridge were chosen then — the same bridge that
+  survives unchanged as today's website compiler — and Astro went on to
+  become the default stack for every subsequent Lentago site. **Worse**
+  (Craft): an app-shaped silo in front of content that wants to be plain
+  files feeding two compilers.
 
 - *Retrospective — not considered at the time:* separate book and site
   repos (one repo owning `compile_book.py` and the Markdown book, another

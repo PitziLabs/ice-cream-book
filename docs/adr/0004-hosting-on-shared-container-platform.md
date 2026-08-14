@@ -27,7 +27,10 @@ no static AWS keys are stored in GitHub Secrets. The repo itself was
 renamed from `ice-cream-book` to `site-icecreamtofightwith-com` on
 2026-07-04 as part of a fleet-wide `site-<domain>` naming convention
 (documented in both this repo's `docs/INFRASTRUCTURE_RELATIONSHIP.md` and
-solidago's CLAUDE.md).
+solidago's CLAUDE.md). The served domain has its own lineage: the site
+launched on `icecreamtofightover.com` (2026-03-19) as the platform's first
+production workload and migrated to `icecreamtofightwith.com` in May 2026,
+shortly before the consolidation (per early-era session records).
 
 Per solidago's own CLAUDE.md, `icecreamtofightwith.com` is that platform's
 "primary app," and later platform-hosted sites (`site_lentago`,
@@ -56,6 +59,13 @@ static-hosting-specific service.
   an event on recipe changes. PR #83 replaced this explicitly, citing "No
   more cross-repo `repository_dispatch`" as a stated benefit of bringing
   the app source into this repo.
+- **Recorded in the separate-repos era (2026-03-19, per early-era session
+  records):** *git submodules* for getting the content into the platform
+  repo's build, weighed against *copy-at-CI-time* (clone the content repo
+  during CI). Copy-at-CI won for simplicity and always-latest behavior,
+  and paired naturally with the dispatch trigger above. The PR #83
+  consolidation dissolved the question — content and application now share
+  one repo, so nothing needs to be fetched at all.
 - *Retrospective — not considered at the time:* static hosting purpose-
   built for this workload — S3 + CloudFront, or GitHub Pages — instead of
   a full container on ECS Fargate. **Cheaper and simpler for what this
