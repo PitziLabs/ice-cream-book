@@ -9,7 +9,7 @@
     "test:a11y": "pa11y-ci --config pa11yci.config.json"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.18",
+    "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.2",
     "astro": "^5.0.0"
   },
