@@ -11,3 +11,12 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+
+  # The Dockerfile pins its nginx base by digest (supply-chain integrity), which
+  # also freezes it — without this ecosystem, base-image security patches would
+  # never arrive. Dependabot proposes digest bumps as reviewable PRs instead.
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
