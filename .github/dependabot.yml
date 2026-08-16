@@ -5,12 +5,38 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    # Two groups per ecosystem: -routine collapses weekly patch/minor churn into
+    # one reviewable-on-green-checks PR; -major isolates breaking changes so they
+    # get read deliberately. One giant group would hide a major bump inside patches;
+    # no grouping at all produces a 28-PR flood (see lentago/.github#114).
+    groups:
+      actions-routine:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
+      actions-major:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["major"]
 
   - package-ecosystem: npm
     directory: /
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    # Two groups per ecosystem: -routine collapses weekly patch/minor churn into
+    # one reviewable-on-green-checks PR; -major isolates breaking changes so they
+    # get read deliberately. One giant group would hide a major bump inside patches;
+    # no grouping at all produces a 28-PR flood (see lentago/.github#114).
+    groups:
+      npm-routine:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
+      npm-major:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["major"]
 
   # The Dockerfile pins its nginx base by digest (supply-chain integrity), which
   # also freezes it — without this ecosystem, base-image security patches would
@@ -20,3 +46,16 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    # Two groups per ecosystem: -routine collapses weekly patch/minor churn into
+    # one reviewable-on-green-checks PR; -major isolates breaking changes so they
+    # get read deliberately. One giant group would hide a major bump inside patches;
+    # no grouping at all produces a 28-PR flood (see lentago/.github#114).
+    groups:
+      docker-routine:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["minor", "patch"]
+      docker-major:
+        applies-to: version-updates
+        patterns: ["*"]
+        update-types: ["major"]
