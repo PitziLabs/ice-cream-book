@@ -5,11 +5,16 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "test:a11y": "pa11y-ci --config pa11yci.config.json"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "pa11y-ci": "^4.1.1",
+    "wait-on": "^9.1.0"
   }
 }

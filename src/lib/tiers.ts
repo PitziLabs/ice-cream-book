@@ -7,19 +7,27 @@
 // Note: the tierColor field in recipe frontmatter (sync_recipes.py's
 // TIER_MAP) predates this palette and is no longer read by any page —
 // this module is the single source of truth for tier colors.
+//
+// `textColor` is a same-hue, darkened variant of `color` for use only where
+// the tier color renders as small text on the light `tint` background
+// (difficulty-label, stats-title on recipes/[slug].astro) — `color` itself
+// fails WCAG AA contrast there for CHILL/LEGIT/THE REAL DEAL (2.4-3.6:1).
+// `color` is unchanged so chip/border/diagram swatches keep the original
+// palette (issue #155).
 
 export interface TierMeta {
   key: string;
   label: string;
   color: string;
+  textColor: string;
   tint: string;
 }
 
 export const TIERS: TierMeta[] = [
-  { key: 'CHILL', label: 'CHILL', color: '#2E8B6A', tint: '#E4EFE7' },
-  { key: 'LEGIT', label: 'LEGIT', color: '#C98A22', tint: '#F3E9D2' },
-  { key: 'THE REAL DEAL', label: 'THE REAL DEAL', color: '#C4562A', tint: '#F3E1D6' },
-  { key: 'A FUCKING ORDEAL', label: 'A FUCKING ORDEAL', color: '#A32B29', tint: '#F0DAD7' },
+  { key: 'CHILL', label: 'CHILL', color: '#2E8B6A', textColor: '#27775B', tint: '#E4EFE7' },
+  { key: 'LEGIT', label: 'LEGIT', color: '#C98A22', textColor: '#8B6018', tint: '#F3E9D2' },
+  { key: 'THE REAL DEAL', label: 'THE REAL DEAL', color: '#C4562A', textColor: '#A64924', tint: '#F3E1D6' },
+  { key: 'A FUCKING ORDEAL', label: 'A FUCKING ORDEAL', color: '#A32B29', textColor: '#A32B29', tint: '#F0DAD7' },
 ];
 
 export function tierMeta(key: string): TierMeta {
@@ -28,6 +36,7 @@ export function tierMeta(key: string): TierMeta {
       key,
       label: key,
       color: '#A32B29',
+      textColor: '#A32B29',
       tint: '#F0DAD7',
     }
   );
