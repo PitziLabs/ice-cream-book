@@ -11,6 +11,13 @@ on:
 permissions:
   contents: read
 
+# `.tier-chip` and the numbered `.step` badges are scoped out via hideElements in
+# pa11yci.config.json: they fail WCAG 1.4.3 as light-on-accent background fills for
+# three tiers, and no text-color change fixes it — the accent swatches themselves
+# have to darken, which is a design decision tracked in #158. Everything else on
+# both pages is still checked, so this is a ratchet against new regressions, not a
+# sign-off on that one. Removing those two selectors is #158's acceptance criterion.
+
 jobs:
   a11y:
     name: pa11y accessibility smoke test
