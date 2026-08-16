@@ -9,8 +9,9 @@
 
 FROM nginx:latest
 
-# Copy the nginx config (port 8080, /health endpoint, clean URLs)
+# Copy the nginx config (port 8080, /health endpoint, clean URLs, security headers)
 COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY nginx-security-headers.conf /etc/nginx/nginx-security-headers.conf
 
 # Copy pre-built static site from Astro
 COPY dist/ /usr/share/nginx/html/
