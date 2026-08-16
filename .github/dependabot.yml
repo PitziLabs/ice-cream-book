@@ -29,6 +29,19 @@ updates:
     # get read deliberately. One giant group would hide a major bump inside patches;
     # no grouping at all produces a 28-PR flood (see lentago/.github#114).
     groups:
+      # astro-stack must be declared FIRST so it matches before npm-routine.
+      # Reason: @astrojs/* packages are pre-1.0, so semver breaking changes land
+      # in the MINOR position — Dependabot labels them "minor" and they fall into
+      # npm-routine, which then fails npm ci with an unresolvable peer conflict
+      # (e.g. @astrojs/starlight@0.41.7 requires peer astro@^7 while this repo
+      # runs astro 5). All astro-stack packages are version-locked to each other,
+      # so they must move as one unit regardless of semver label. No update-types
+      # filter — the whole point is to catch every bump, including minors.
+      astro-stack:
+        applies-to: version-updates
+        patterns:
+          - "astro"
+          - "@astrojs/*"
       npm-routine:
         applies-to: version-updates
         patterns: ["*"]
