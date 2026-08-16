@@ -1,0 +1,57 @@
+name: Accessibility smoke test
+
+# Deliberately no `paths:` filter — this workflow must trigger on every PR
+# so it always reports a conclusion. A required check that never fires on
+# some PRs gets stuck "Expected" forever and deadlocks the merge. This
+# check is NOT marked required (yet); required-check config is
+# settings-as-code owned by lentago/.github, a separate change.
+on:
+  pull_request
+
+permissions:
+  contents: read
+
+jobs:
+  a11y:
+    name: pa11y accessibility smoke test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync recipe content collection
+        run: python sync_recipes.py
+
+      - name: Build site
+        run: npm run build
+
+      - name: Start preview server
+        run: |
+          npx astro preview --host 127.0.0.1 --port 4321 &
+          echo $! > /tmp/preview.pid
+
+      - name: Wait for preview server
+        run: npx wait-on http://127.0.0.1:4321 --timeout 30000
+
+      - name: Run pa11y against homepage and a recipe page
+        run: npm run test:a11y
+
+      - name: Stop preview server
+        if: always()
+        run: kill "$(cat /tmp/preview.pid)" 2>/dev/null || true

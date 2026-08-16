@@ -71,7 +71,7 @@ if (recipe.data.illustration) {
     dietary={recipe.data.dietary}
   />
 
-  <article class="fade recipe" style={`--tier:${tm.color};--tint:${tm.tint}`}>
+  <article class="fade recipe" style={`--tier:${tm.color};--tier-text:${tm.textColor};--tint:${tm.tint}`}>
     {recipe.data.illustration && (
       <div class="hero-panel">
         <Image
@@ -211,7 +211,7 @@ if (recipe.data.illustration) {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.07em;
-    color: var(--tier);
+    color: var(--tier-text);
     margin-bottom: 8px;
   }
   .difficulty-callout p {
@@ -339,7 +339,7 @@ if (recipe.data.illustration) {
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: var(--tier);
+    color: var(--tier-text);
     font-weight: 700;
   }
   .stats-body { padding: 6px 18px 14px; }
