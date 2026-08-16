@@ -7,7 +7,7 @@
 # The Astro build happens in the GitHub Action (Node environment).
 # Docker's only job: package the output into a serving container.
 
-FROM nginx:latest
+FROM nginx@sha256:963cfe6e75d1c292f66589d7e190b137cf89310414c0c1c5b476dfc61a4fcd0d # 1.31.3
 
 # Copy the nginx config (port 8080, /health endpoint, clean URLs, security headers)
 COPY nginx.conf /etc/nginx/conf.d/default.conf
