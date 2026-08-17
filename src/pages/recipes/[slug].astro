@@ -5,7 +5,7 @@
 import Base from '../../layouts/Base.astro';
 import RecipeJsonLd from '../../components/RecipeJsonLd.astro';
 import { Image, getImage } from 'astro:assets';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import { tierMeta } from '../../lib/tiers';
 import { designSlug } from '../../lib/design';
 import { getBookOrder, bookNeighbors } from '../../lib/bookOrder';
@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 }
 
 const { recipe } = Astro.props;
-const { Content } = await recipe.render();
+const { Content } = await render(recipe);
 
 const tm = tierMeta(recipe.data.tier);
 const dslug = designSlug(recipe.data.recipeSlug);

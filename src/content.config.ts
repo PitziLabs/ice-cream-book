@@ -10,7 +10,7 @@ const essays = defineCollection({
 });
 
 const recipes = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '[0-9][0-9]_*.md', base: './src/content/recipes' }),
   schema: ({ image }) => z.object({
     title: z.string(),
     subtitle: z.string(),
