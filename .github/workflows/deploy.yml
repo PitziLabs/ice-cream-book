@@ -44,5 +44,5 @@ jobs:
       ecs_service: solidago-dev-app
       role_arn: arn:aws:iam::365184644049:role/solidago-dev-github-actions
       aws_region: us-east-1
-      node_version: "20"
+      node_version: "22"
       pre_build_command: "python3 sync_recipes.py"
