@@ -9,7 +9,7 @@
 
 # nginx 1.31.3 — comment must stay on its own line: '#' mid-line is not a
 # comment in a Dockerfile, and an inline tag note makes FROM unparsable.
-FROM nginx@sha256:963cfe6e75d1c292f66589d7e190b137cf89310414c0c1c5b476dfc61a4fcd0d
+FROM nginx@sha256:8541484afbc9c8a5a8a99b379568ebbc957f658583ec9448fc43104229c03cf8
 
 # Copy the nginx config (port 8080, /health endpoint, clean URLs, security headers)
 COPY nginx.conf /etc/nginx/conf.d/default.conf
