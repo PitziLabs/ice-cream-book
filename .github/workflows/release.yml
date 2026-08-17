@@ -3,9 +3,11 @@
 # ============================================================================
 # Triggered by a semver tag (v1.2.3). Compiles the book markdown, converts to
 # PDF via pandoc + xelatex (Unicode-safe), generates a SHA-256 checksum,
-# attests the artifact via actions/attest-build-provenance (SLSA Build L3 via
-# Sigstore/GitHub's attestation store), then publishes a GitHub Release with
-# the PDF and checksum attached.
+# attests the artifact via actions/attest-build-provenance (SLSA Build L2 —
+# the build definition lives in this repo, so L3's "hosted outside the
+# requester's control" property does not apply here; contrast deploy.yml,
+# whose image builds run in the shared reusable and do reach L3), then
+# publishes a GitHub Release with the PDF and checksum attached.
 #
 # Required permissions (workflow-level):
 #   id-token: write      — OIDC for Sigstore attestation signing
