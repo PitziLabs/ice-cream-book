@@ -1,13 +1,18 @@
 # .github/workflows/deploy.yml
 #
-# Build & Deploy: Ice Cream Cookbook → ECR → ECS Fargate → icecreamtofightwith.com
+# Build & Deploy: Ice Cream Cookbook → ECR → ECS Fargate (icecreamtofightwith.com)
 #
-# Triggers:
-#   1. Push to main (any path — KISS, deploys are cheap)
-#   2. Manual workflow_dispatch from GitHub UI
+# Thin caller for the shared site-deploy reusable workflow. The full pipeline
+# (Astro build, Trivy scan, build-provenance attestation, ECS roll) lives in:
+#   lentago/shared-workflows/.github/workflows/site-deploy.yml @ v1.1.1
 #
-# Authenticates via OIDC. Builds the Astro static site, packages it in
-# an nginx container, pushes to ECR, and tells ECS to roll out.
+# Pinned to v1.1.1, not v1.1.0 — v1.1.0 carried a job-level concurrency group
+# that deadlocks against this repo's workflow-level `deploy-main` group.
+# Fixed upstream in shared-workflows#51 / released as v1.1.1.
+#
+# This repo needs one extra step the reusable doesn't do by default: syncing
+# recipes/*.md into the Astro content collection before the build. That's
+# passed through via pre_build_command.
 
 name: Build & Deploy
 
@@ -25,73 +30,19 @@ concurrency:
   group: deploy-main
   cancel-in-progress: true
 
-permissions:
-  id-token: write
-  contents: read
-
-env:
-  AWS_REGION: us-east-1
-  ECR_REPO: solidago-dev-app
-  ECS_CLUSTER: solidago-dev-cluster
-  ECS_SERVICE: solidago-dev-app
-  AWS_ROLE_ARN: arn:aws:iam::365184644049:role/solidago-dev-github-actions
-
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
-
-      - name: Setup Node
-        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
-        with:
-          node-version: 20
-
-      - name: Install Astro dependencies
-        run: npm ci
-
-      - name: Sync recipes into Astro content
-        run: python3 sync_recipes.py
-
-      - name: Build static site
-        run: npx astro build
-
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a # v4.3.1
-        with:
-          role-to-assume: ${{ env.AWS_ROLE_ARN }}
-          aws-region: ${{ env.AWS_REGION }}
-
-      - name: Login to ECR
-        id: ecr-login
-        uses: aws-actions/amazon-ecr-login@d539f0932e70871a027e9d5a9d8fc38589180a64 # v2.1.6
-
-      - name: Build and push container image
-        env:
-          REGISTRY: ${{ steps.ecr-login.outputs.registry }}
-          IMAGE_TAG: ${{ github.sha }}
-        run: |
-          docker build \
-            -t $REGISTRY/$ECR_REPO:latest \
-            -t $REGISTRY/$ECR_REPO:$IMAGE_TAG \
-            .
-
-          docker push $REGISTRY/$ECR_REPO:latest
-          docker push $REGISTRY/$ECR_REPO:$IMAGE_TAG
-
-      - name: Force new ECS deployment
-        run: |
-          aws ecs update-service \
-            --cluster $ECS_CLUSTER \
-            --service $ECS_SERVICE \
-            --force-new-deployment \
-            --region $AWS_REGION \
-            --no-cli-pager
-
-      - name: Wait for deployment to stabilize
-        run: |
-          aws ecs wait services-stable \
-            --cluster $ECS_CLUSTER \
-            --services $ECS_SERVICE \
-            --region $AWS_REGION
+    permissions:
+      id-token: write      # OIDC — AWS auth + attestation signing
+      contents: read
+      attestations: write  # store build provenance in GitHub's attestation store
+      packages: read       # required by actions/attest-build-provenance
+    uses: lentago/shared-workflows/.github/workflows/site-deploy.yml@v1.1.1
+    with:
+      ecr_repo: solidago-dev-app
+      ecs_cluster: solidago-dev-cluster
+      ecs_service: solidago-dev-app
+      role_arn: arn:aws:iam::365184644049:role/solidago-dev-github-actions
+      aws_region: us-east-1
+      node_version: "20"
+      pre_build_command: "python3 sync_recipes.py"
